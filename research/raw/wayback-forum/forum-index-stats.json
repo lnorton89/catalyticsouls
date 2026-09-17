@@ -1,0 +1,359 @@
+[
+ {
+  "file": "forum.php_20050505113441.html",
+  "capture": "20050505113441",
+  "root": "2005root",
+  "title": "catalyticsouls.com :: Index",
+  "stats": {
+   "total_posts": "306",
+   "users": "83",
+   "newest": "K Funk",
+   "max_online": "8 Sun Apr 03, 2005 5:37 pm"
+  },
+  "categories": [
+   "General",
+   "Shawnee Cave Events",
+   "Other Events",
+   "Past Events",
+   "Who is Online",
+   "Log in"
+  ],
+  "forums": []
+ },
+ {
+  "file": "forums__20060522222930.html",
+  "capture": "20060522222930",
+  "root": "forums",
+  "title": "Catalytic Souls : Evolving Consciousness :: Index",
+  "stats": {
+   "total_posts": "919",
+   "users": "296",
+   "newest": "beatfarm",
+   "max_online": "33 Thu May 04, 2006 5:45 pm"
+  },
+  "categories": [
+   "Shawnee Cave Events",
+   "General",
+   "Events",
+   "Past Events",
+   "Who is Online",
+   "Log in Username: Password: Log me on automatically each visit New posts No new posts Forum is locked Powered by phpBB"
+  ],
+  "forums": [
+   {
+    "id": "19",
+    "name": "UnderGround Sound",
+    "desc": "",
+    "topics": "2",
+    "posts": "48"
+   },
+   {
+    "id": "21",
+    "name": "Cave Jam Solstice Fest w/ Vince Herman",
+    "desc": "",
+    "topics": "1",
+    "posts": "1"
+   },
+   {
+    "id": "2",
+    "name": "Discussion",
+    "desc": "",
+    "topics": "48",
+    "posts": "285"
+   },
+   {
+    "id": "3",
+    "name": "Introductions",
+    "desc": "",
+    "topics": "32",
+    "posts": "92"
+   },
+   {
+    "id": "5",
+    "name": "RideShare",
+    "desc": "",
+    "topics": "5",
+    "posts": "10"
+   },
+   {
+    "id": "12",
+    "name": "Feedback",
+    "desc": "",
+    "topics": "3",
+    "posts": "15"
+   },
+   {
+    "id": "14",
+    "name": "photos",
+    "desc": "",
+    "topics": "10",
+    "posts": "22"
+   },
+   {
+    "id": "22",
+    "name": "Creative Zone",
+    "desc": "",
+    "topics": "1",
+    "posts": "1"
+   },
+   {
+    "id": "9",
+    "name": "Event Listings",
+    "desc": "",
+    "topics": "119",
+    "posts": "242"
+   },
+   {
+    "id": "15",
+    "name": "Event Reviews",
+    "desc": "",
+    "topics": "1",
+    "posts": "3"
+   },
+   {
+    "id": "17",
+    "name": "The Spirit Of Ozz 10/21-22",
+    "desc": "",
+    "topics": "1",
+    "posts": "2"
+   },
+   {
+    "id": "18",
+    "name": "CaveFest06 420 edition",
+    "desc": "",
+    "topics": "9",
+    "posts": "40"
+   },
+   {
+    "id": "16",
+    "name": "Past Events",
+    "desc": "",
+    "topics": "18",
+    "posts": "107"
+   },
+   {
+    "id": "8",
+    "name": "CaveStock 2",
+    "desc": "",
+    "topics": "5",
+    "posts": "50"
+   }
+  ]
+ },
+ {
+  "file": "forums_index.php_20060629131723.html",
+  "capture": "20060629131723",
+  "root": "forums",
+  "title": "Catalytic Souls : Evolving Consciousness :: Index",
+  "stats": {
+   "total_posts": "1028",
+   "users": "450",
+   "newest": "HydroWizard",
+   "max_online": "33 Thu May 04, 2006 5:45 pm"
+  },
+  "categories": [
+   "Shawnee Cave Events",
+   "General",
+   "Events",
+   "Past Events",
+   "Who is Online",
+   "Log in Username: Password: Log me on automatically each visit New posts No new posts Forum is locked Powered by phpBB"
+  ],
+  "forums": []
+ },
+ {
+  "file": "forums_index.php_c=2_20060522233012.html",
+  "capture": "20060522233012",
+  "root": "forums",
+  "title": "Catalytic Souls : Evolving Consciousness :: Index",
+  "stats": {
+   "total_posts": "920",
+   "users": "297",
+   "newest": "DJZD",
+   "max_online": "33 Thu May 04, 2006 5:45 pm"
+  },
+  "categories": [
+   "Shawnee Cave Events",
+   "General",
+   "Events",
+   "Past Events",
+   "Who is Online",
+   "Log in Username: Password: Log me on automatically each visit New posts No new posts Forum is locked Powered by phpBB"
+  ],
+  "forums": [
+   {
+    "id": "2",
+    "name": "Discussion",
+    "desc": "",
+    "topics": "48",
+    "posts": "285"
+   },
+   {
+    "id": "3",
+    "name": "Introductions",
+    "desc": "",
+    "topics": "32",
+    "posts": "92"
+   },
+   {
+    "id": "5",
+    "name": "RideShare",
+    "desc": "",
+    "topics": "5",
+    "posts": "10"
+   },
+   {
+    "id": "12",
+    "name": "Feedback",
+    "desc": "",
+    "topics": "3",
+    "posts": "15"
+   },
+   {
+    "id": "14",
+    "name": "photos",
+    "desc": "",
+    "topics": "10",
+    "posts": "22"
+   },
+   {
+    "id": "22",
+    "name": "Creative Zone",
+    "desc": "",
+    "topics": "1",
+    "posts": "1"
+   }
+  ]
+ },
+ {
+  "file": "forums_index.php_c=3_20060522232930.html",
+  "capture": "20060522232930",
+  "root": "forums",
+  "title": "Catalytic Souls : Evolving Consciousness :: Index",
+  "stats": {
+   "total_posts": "920",
+   "users": "297",
+   "newest": "DJZD",
+   "max_online": "33 Thu May 04, 2006 5:45 pm"
+  },
+  "categories": [
+   "Shawnee Cave Events",
+   "General",
+   "Events",
+   "Past Events",
+   "Who is Online",
+   "Log in Username: Password: Log me on automatically each visit New posts No new posts Forum is locked Powered by phpBB"
+  ],
+  "forums": [
+   {
+    "id": "19",
+    "name": "UnderGround Sound",
+    "desc": "",
+    "topics": "2",
+    "posts": "49"
+   },
+   {
+    "id": "21",
+    "name": "Cave Jam Solstice Fest w/ Vince Herman",
+    "desc": "",
+    "topics": "1",
+    "posts": "1"
+   }
+  ]
+ },
+ {
+  "file": "forums_index.php_c=4_20060522233017.html",
+  "capture": "20060522233017",
+  "root": "forums",
+  "title": "Catalytic Souls : Evolving Consciousness :: Index",
+  "stats": {
+   "total_posts": "920",
+   "users": "297",
+   "newest": "DJZD",
+   "max_online": "33 Thu May 04, 2006 5:45 pm"
+  },
+  "categories": [
+   "Shawnee Cave Events",
+   "General",
+   "Events",
+   "Past Events",
+   "Who is Online",
+   "Log in Username: Password: Log me on automatically each visit New posts No new posts Forum is locked Powered by phpBB"
+  ],
+  "forums": [
+   {
+    "id": "9",
+    "name": "Event Listings",
+    "desc": "",
+    "topics": "119",
+    "posts": "242"
+   },
+   {
+    "id": "15",
+    "name": "Event Reviews",
+    "desc": "",
+    "topics": "1",
+    "posts": "3"
+   }
+  ]
+ },
+ {
+  "file": "forums_index.php_c=6_20060522233021.html",
+  "capture": "20060522233021",
+  "root": "forums",
+  "title": "Catalytic Souls : Evolving Consciousness :: Index",
+  "stats": {
+   "total_posts": "920",
+   "users": "297",
+   "newest": "DJZD",
+   "max_online": "33 Thu May 04, 2006 5:45 pm"
+  },
+  "categories": [
+   "Shawnee Cave Events",
+   "General",
+   "Events",
+   "Past Events",
+   "Who is Online",
+   "Log in Username: Password: Log me on automatically each visit New posts No new posts Forum is locked Powered by phpBB"
+  ],
+  "forums": [
+   {
+    "id": "17",
+    "name": "The Spirit Of Ozz 10/21-22",
+    "desc": "",
+    "topics": "1",
+    "posts": "2"
+   },
+   {
+    "id": "18",
+    "name": "CaveFest06 420 edition",
+    "desc": "",
+    "topics": "9",
+    "posts": "40"
+   },
+   {
+    "id": "16",
+    "name": "Past Events",
+    "desc": "",
+    "topics": "18",
+    "posts": "107"
+   },
+   {
+    "id": "8",
+    "name": "CaveStock 2",
+    "desc": "",
+    "topics": "5",
+    "posts": "50"
+   }
+  ]
+ },
+ {
+  "file": "forums_index.php_mark=forums_20060522232926.html",
+  "capture": "20060522232926",
+  "root": "forums",
+  "title": "Catalytic Souls : Evolving Consciousness ::",
+  "stats": {},
+  "categories": [],
+  "forums": []
+ }
+]

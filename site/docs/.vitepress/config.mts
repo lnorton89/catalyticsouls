@@ -1,6 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  // GitHub Pages serves the site under /<repo>/; Netlify or a custom domain would use '/'.
+  base: process.env.VITEPRESS_BASE || '/catalyticsouls/',
   title: 'Catalytic Souls Wiki',
   description:
     'Tom Hughes’ 2007 SIU thesis on electronic dance music, the Catalytic Souls crew, Underground Sound, and the Shawnee Salt Petre Cave, brought up to date through 2026.',
@@ -8,7 +10,7 @@ export default defineConfig({
   lastUpdated: false,
   cleanUrls: true,
   head: [
-    ['link', { rel: 'icon', href: '/favicon.svg', type: 'image/svg+xml' }],
+    ['link', { rel: 'icon', href: (process.env.VITEPRESS_BASE || '/catalyticsouls/') + 'favicon.svg', type: 'image/svg+xml' }],
     ['meta', { name: 'theme-color', content: '#c2410c' }]
   ],
   themeConfig: {
