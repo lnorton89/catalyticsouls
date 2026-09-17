@@ -1,5 +1,18 @@
 [
  {
+  "file": "forums_viewtopic.php__20070512211401",
+  "ts": "20070512211401",
+  "orig": "http://www.catalyticsouls.com:80/forums/viewtopic.php?",
+  "topic_id": "",
+  "forum": "",
+  "forum_id": "",
+  "title": "",
+  "nposts": 0,
+  "users": [],
+  "first_date": "",
+  "first_user": ""
+ },
+ {
   "file": "t104_20061106220553",
   "ts": "20061106220553",
   "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=104",
@@ -15,6 +28,53 @@
   ],
   "first_date": "Mon Jun 20, 2005 9:47 pm",
   "first_user": "GGJim"
+ },
+ {
+  "file": "t113_20060522225206",
+  "ts": "20060522225206",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=113&view=previous",
+  "topic_id": "110",
+  "forum": "Discussion",
+  "forum_id": "2",
+  "title": "July 15-17 GeoLogic An Aestival Festival (Murpysboro)",
+  "nposts": 3,
+  "users": [
+   "tomfoolery",
+   "yitic"
+  ],
+  "first_date": "Mon Jun 27, 2005 1:44 pm",
+  "first_user": "yitic"
+ },
+ {
+  "file": "t117_20060522234314",
+  "ts": "20060522234314",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=117&view=previous",
+  "topic_id": "59",
+  "forum": "photos",
+  "forum_id": "14",
+  "title": "PICS: Cavefest: 16 April 2005",
+  "nposts": 2,
+  "users": [
+   "K_I_T",
+   "skablam"
+  ],
+  "first_date": "Tue Apr 19, 2005 2:33 am",
+  "first_user": "K_I_T"
+ },
+ {
+  "file": "t118_20060522234233",
+  "ts": "20060522234233",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=118&view=previous",
+  "topic_id": "85",
+  "forum": "photos",
+  "forum_id": "14",
+  "title": "PICS : POSH @ U Lounge : Monday 23 May 2005",
+  "nposts": 1,
+  "users": [
+   "K_I_T"
+  ],
+  "first_date": "Wed May 25, 2005 7:03 pm",
+  "first_user": "K_I_T"
  },
  {
   "file": "t11_20050207130355",
@@ -90,6 +150,54 @@
   "first_user": "sugarmag420"
  },
  {
+  "file": "t127_20060522233942",
+  "ts": "20060522233942",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=127&view=previous",
+  "topic_id": "157",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "I am DeadMan!!",
+  "nposts": 2,
+  "users": [
+   "DeadMan",
+   "zesty"
+  ],
+  "first_date": "Fri Sep 30, 2005 3:01 am",
+  "first_user": "DeadMan"
+ },
+ {
+  "file": "t128_20060522234017",
+  "ts": "20060522234017",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=128&view=previous",
+  "topic_id": "76",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "hello.. my name is michael",
+  "nposts": 3,
+  "users": [
+   "djmichaelwenz",
+   "tomfoolery",
+   "zesty"
+  ],
+  "first_date": "Tue May 17, 2005 5:05 am",
+  "first_user": "djmichaelwenz"
+ },
+ {
+  "file": "t12_20060522233923",
+  "ts": "20060522233923",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=12&view=next",
+  "topic_id": "23",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "Hey all",
+  "nposts": 1,
+  "users": [
+   "djxdcc"
+  ],
+  "first_date": "Mon Feb 14, 2005 5:34 am",
+  "first_user": "djxdcc"
+ },
+ {
   "file": "t130_20061106222444",
   "ts": "20061106222444",
   "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=130&view=previous",
@@ -101,6 +209,107 @@
   "users": [],
   "first_date": "",
   "first_user": ""
+ },
+ {
+  "file": "t133_20060522225037",
+  "ts": "20060522225037",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=133&view=next",
+  "topic_id": "158",
+  "forum": "Discussion",
+  "forum_id": "2",
+  "title": "Hey Bitches!!!!",
+  "nposts": 1,
+  "users": [
+   "DeadMan"
+  ],
+  "first_date": "Fri Sep 30, 2005 3:03 am",
+  "first_user": "DeadMan"
+ },
+ {
+  "file": "t139_20060522223547",
+  "ts": "20060522223547",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=139&start=15",
+  "topic_id": "139",
+  "forum": "Event Listings",
+  "forum_id": "9",
+  "title": "GRAVE DANCING/ OCT 15/ Carbondale IL",
+  "nposts": 10,
+  "users": [
+   "SpaceHead",
+   "friggenposeur",
+   "mason",
+   "skablam",
+   "thcsyndicate",
+   "zesty"
+  ],
+  "first_date": "Wed Sep 21, 2005 1:18 am",
+  "first_user": "skablam"
+ },
+ {
+  "file": "t139_20060522224329",
+  "ts": "20060522224329",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=139&start=0",
+  "topic_id": "139",
+  "forum": "Event Listings",
+  "forum_id": "9",
+  "title": "GRAVE DANCING/ OCT 15/ Carbondale IL",
+  "nposts": 15,
+  "users": [
+   "K_I_T",
+   "SpaceHead",
+   "diskokitty",
+   "thcsyndicate",
+   "zesty"
+  ],
+  "first_date": "Sat Aug 27, 2005 11:56 pm",
+  "first_user": "zesty"
+ },
+ {
+  "file": "t13_20050207130932",
+  "ts": "20050207130932",
+  "orig": "http://www.catalyticsouls.com:80/viewtopic.php?t=13&amp",
+  "topic_id": "13",
+  "forum": "",
+  "forum_id": "",
+  "title": "March 4 Upstairs Lounge St. Louis",
+  "nposts": 1,
+  "users": [
+   "tomfoolery"
+  ],
+  "first_date": "Wed Feb 02, 2005 11:04 pm",
+  "first_user": "tomfoolery"
+ },
+ {
+  "file": "t140_20061106215309",
+  "ts": "20061106215309",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=140",
+  "topic_id": "140",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "DJ NitroN",
+  "nposts": 3,
+  "users": [
+   "DJ NitroN",
+   "tomfoolery",
+   "wing426"
+  ],
+  "first_date": "Tue Aug 30, 2005 6:28 pm",
+  "first_user": "DJ NitroN"
+ },
+ {
+  "file": "t143_20060522230117",
+  "ts": "20060522230117",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=143&view=next",
+  "topic_id": "167",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "IT'S",
+  "nposts": 1,
+  "users": [
+   "unklryan"
+  ],
+  "first_date": "Fri Oct 21, 2005 2:19 am",
+  "first_user": "unklryan"
  },
  {
   "file": "t147_20061106222301",
@@ -142,6 +351,270 @@
   "first_user": "negan"
  },
  {
+  "file": "t14_20060522234039",
+  "ts": "20060522234039",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=14&view=next",
+  "topic_id": "73",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "Zesty!",
+  "nposts": 3,
+  "users": [
+   "tomfoolery",
+   "zesty"
+  ],
+  "first_date": "Thu May 12, 2005 6:28 am",
+  "first_user": "zesty"
+ },
+ {
+  "file": "t150_20060522230404",
+  "ts": "20060522230404",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=150",
+  "topic_id": "150",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "My name is Lilly.",
+  "nposts": 1,
+  "users": [
+   "skablam"
+  ],
+  "first_date": "Wed Sep 21, 2005 1:48 am",
+  "first_user": "skablam"
+ },
+ {
+  "file": "t157_20060522230514",
+  "ts": "20060522230514",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=157",
+  "topic_id": "157",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "I am DeadMan!!",
+  "nposts": 2,
+  "users": [
+   "DeadMan",
+   "zesty"
+  ],
+  "first_date": "Fri Sep 30, 2005 3:01 am",
+  "first_user": "DeadMan"
+ },
+ {
+  "file": "t158_20060522233659",
+  "ts": "20060522233659",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=158&view=previous",
+  "topic_id": "133",
+  "forum": "Discussion",
+  "forum_id": "2",
+  "title": "Welcome to the Police State known as \"Utah\" . . .",
+  "nposts": 3,
+  "users": [
+   "Tangent",
+   "dragonflybee"
+  ],
+  "first_date": "Sun Aug 21, 2005 11:37 pm",
+  "first_user": "Tangent"
+ },
+ {
+  "file": "t160_20060522233249",
+  "ts": "20060522233249",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=160&view=next",
+  "topic_id": "139",
+  "forum": "Event Listings",
+  "forum_id": "9",
+  "title": "GRAVE DANCING/ OCT 15/ Carbondale IL",
+  "nposts": 15,
+  "users": [
+   "K_I_T",
+   "SpaceHead",
+   "diskokitty",
+   "thcsyndicate",
+   "zesty"
+  ],
+  "first_date": "Sat Aug 27, 2005 11:56 pm",
+  "first_user": "zesty"
+ },
+ {
+  "file": "t164_20061106222712",
+  "ts": "20061106222712",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=164",
+  "topic_id": "164",
+  "forum": "The Spirit Of Ozz 10/21-22",
+  "forum_id": "17",
+  "title": "The Spirit of Ozz Festival",
+  "nposts": 10,
+  "users": [
+   "Enceterjoha",
+   "Guest",
+   "Mark",
+   "Moencederup",
+   "Mosterenceterup0",
+   "Poander40",
+   "Steven",
+   "Xander11819",
+   "tomfoolery"
+  ],
+  "first_date": "Wed Oct 12, 2005 8:20 pm",
+  "first_user": "tomfoolery"
+ },
+ {
+  "file": "t167_20060522233916",
+  "ts": "20060522233916",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=167&view=previous",
+  "topic_id": "143",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "Howdy from Murphy",
+  "nposts": 10,
+  "users": [
+   "Jayzer",
+   "SpaceHead",
+   "thcsyndicate",
+   "tomfoolery",
+   "zesty"
+  ],
+  "first_date": "Sun Sep 04, 2005 1:21 am",
+  "first_user": "Jayzer"
+ },
+ {
+  "file": "t16_20060522230200",
+  "ts": "20060522230200",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=16&view=previous",
+  "topic_id": "7",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "Ch-ch-ch-check it ouuuuuuuut.......",
+  "nposts": 1,
+  "users": [
+   "Tangent"
+  ],
+  "first_date": "Sun Jan 16, 2005 8:25 am",
+  "first_user": "Tangent"
+ },
+ {
+  "file": "t172_20060522233354",
+  "ts": "20060522233354",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=172&view=next",
+  "topic_id": "174",
+  "forum": "Event Listings",
+  "forum_id": "9",
+  "title": "PsychoTronic w/ FACTORe 12/8-10",
+  "nposts": 1,
+  "users": [
+   "tomfoolery"
+  ],
+  "first_date": "Mon Nov 07, 2005 9:11 pm",
+  "first_user": "tomfoolery"
+ },
+ {
+  "file": "t174_20060522223721",
+  "ts": "20060522223721",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=174&view=previous",
+  "topic_id": "172",
+  "forum": "Event Listings",
+  "forum_id": "9",
+  "title": "Midwest Breaks Sun. Derve & Guest Mix by Dj Annalyze",
+  "nposts": 1,
+  "users": [
+   "Dj Derve"
+  ],
+  "first_date": "Mon Oct 31, 2005 3:37 am",
+  "first_user": "Dj Derve"
+ },
+ {
+  "file": "t175_20060522233342",
+  "ts": "20060522233342",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=175&view=previous",
+  "topic_id": "174",
+  "forum": "Event Listings",
+  "forum_id": "9",
+  "title": "PsychoTronic w/ FACTORe 12/8-10",
+  "nposts": 1,
+  "users": [
+   "tomfoolery"
+  ],
+  "first_date": "Mon Nov 07, 2005 9:11 pm",
+  "first_user": "tomfoolery"
+ },
+ {
+  "file": "t176_20060522233148",
+  "ts": "20060522233148",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=176&view=previous",
+  "topic_id": "173",
+  "forum": "Event Listings",
+  "forum_id": "9",
+  "title": "STL:MattBeatz+DamianMaxwell+Yanix:609/ULounge:Mon 7 NOV 2005",
+  "nposts": 2,
+  "users": [
+   "K_I_T"
+  ],
+  "first_date": "Mon Oct 31, 2005 11:43 pm",
+  "first_user": "K_I_T"
+ },
+ {
+  "file": "t177_20060522223939",
+  "ts": "20060522223939",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=177",
+  "topic_id": "177",
+  "forum": "Event Listings",
+  "forum_id": "9",
+  "title": "WINTER WONDERLAND CHICAGO DEC 17TH",
+  "nposts": 2,
+  "users": [
+   "Source",
+   "tomfoolery"
+  ],
+  "first_date": "Sat Nov 12, 2005 3:00 am",
+  "first_user": "Source"
+ },
+ {
+  "file": "t17_20060522230341",
+  "ts": "20060522230341",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=17&view=previous",
+  "topic_id": "57",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "Dedication Crew - St. Louis, MO",
+  "nposts": 3,
+  "users": [
+   "K_I_T",
+   "Tangent",
+   "dedication"
+  ],
+  "first_date": "Tue Apr 19, 2005 1:36 am",
+  "first_user": "dedication"
+ },
+ {
+  "file": "t184_20060522230003",
+  "ts": "20060522230003",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=184",
+  "topic_id": "184",
+  "forum": "Discussion",
+  "forum_id": "2",
+  "title": "Champaigne Super Nova",
+  "nposts": 1,
+  "users": [
+   "tomfoolery"
+  ],
+  "first_date": "Tue Nov 22, 2005 1:05 am",
+  "first_user": "tomfoolery"
+ },
+ {
+  "file": "t192_20060522225906",
+  "ts": "20060522225906",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=192",
+  "topic_id": "192",
+  "forum": "Discussion",
+  "forum_id": "2",
+  "title": "new mix from me",
+  "nposts": 4,
+  "users": [
+   "Miss Dj Karina",
+   "miloinkc",
+   "tomfoolery"
+  ],
+  "first_date": "Thu Jan 05, 2006 9:01 am",
+  "first_user": "tomfoolery"
+ },
+ {
   "file": "t194_20061106213419",
   "ts": "20061106213419",
   "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=194",
@@ -164,6 +637,53 @@
   "first_user": "shakedown"
  },
  {
+  "file": "t201_20060522233714",
+  "ts": "20060522233714",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=201&view=next",
+  "topic_id": "210",
+  "forum": "Discussion",
+  "forum_id": "2",
+  "title": "SPACEHEAD...",
+  "nposts": 3,
+  "users": [
+   "K_I_T",
+   "tomfoolery"
+  ],
+  "first_date": "Sun Jan 29, 2006 10:49 pm",
+  "first_user": "K_I_T"
+ },
+ {
+  "file": "t203_20060522233433",
+  "ts": "20060522233433",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=203&view=next",
+  "topic_id": "207",
+  "forum": "Event Listings",
+  "forum_id": "9",
+  "title": "Dajamany+Jonah+HeavyweightZoundz::Thursday 2 FEB 2006",
+  "nposts": 1,
+  "users": [
+   "K_I_T"
+  ],
+  "first_date": "Sat Jan 28, 2006 1:56 am",
+  "first_user": "K_I_T"
+ },
+ {
+  "file": "t209_20060522234010",
+  "ts": "20060522234010",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=209&view=next",
+  "topic_id": "213",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "n00b intro",
+  "nposts": 3,
+  "users": [
+   "K_I_T",
+   "xanax4breakfast"
+  ],
+  "first_date": "Thu Feb 09, 2006 5:35 pm",
+  "first_user": "xanax4breakfast"
+ },
+ {
   "file": "t211_20061106213646",
   "ts": "20061106213646",
   "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=211",
@@ -183,6 +703,22 @@
   ],
   "first_date": "Wed Feb 01, 2006 3:13 am",
   "first_user": "tomfoolery"
+ },
+ {
+  "file": "t213_20061106215240",
+  "ts": "20061106215240",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=213",
+  "topic_id": "213",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "n00b intro",
+  "nposts": 3,
+  "users": [
+   "K_I_T",
+   "xanax4breakfast"
+  ],
+  "first_date": "Thu Feb 09, 2006 5:35 pm",
+  "first_user": "xanax4breakfast"
  },
  {
   "file": "t218_20060522225743",
@@ -219,6 +755,37 @@
   "first_user": "roccopalooza"
  },
  {
+  "file": "t220_20060522232243",
+  "ts": "20060522232243",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=220",
+  "topic_id": "220",
+  "forum": "photos",
+  "forum_id": "14",
+  "title": "c-dale sports blast pics",
+  "nposts": 1,
+  "users": [
+   "Guest"
+  ],
+  "first_date": "Mon Feb 13, 2006 6:59 pm",
+  "first_user": "Guest"
+ },
+ {
+  "file": "t221_20060522234025",
+  "ts": "20060522234025",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=221&view=previous",
+  "topic_id": "232",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "I am Benji Ramsey",
+  "nposts": 2,
+  "users": [
+   "K_I_T",
+   "vj benji ramsey"
+  ],
+  "first_date": "Fri Mar 10, 2006 4:31 pm",
+  "first_user": "vj benji ramsey"
+ },
+ {
   "file": "t229_20061106213520",
   "ts": "20061106213520",
   "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=229",
@@ -235,6 +802,74 @@
   ],
   "first_date": "Thu Mar 09, 2006 7:57 am",
   "first_user": "klowe17"
+ },
+ {
+  "file": "t22_20050226235139",
+  "ts": "20050226235139",
+  "orig": "http://www.catalyticsouls.com:80/viewtopic.php?t=22&amp",
+  "topic_id": "22",
+  "forum": "",
+  "forum_id": "",
+  "title": "Hey Hey Hey post some feedback :) !!!",
+  "nposts": 1,
+  "users": [
+   "SpaceHead"
+  ],
+  "first_date": "Fri Feb 11, 2005 1:32 am",
+  "first_user": "SpaceHead"
+ },
+ {
+  "file": "t22_20061106214132",
+  "ts": "20061106214132",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=22&view=next",
+  "topic_id": "53",
+  "forum": "Feedback",
+  "forum_id": "12",
+  "title": "cave fest 2005",
+  "nposts": 6,
+  "users": [
+   "Dj Derve",
+   "Guest",
+   "Kiddo",
+   "SpaceHead",
+   "Xander11819"
+  ],
+  "first_date": "Sun Apr 17, 2005 3:00 pm",
+  "first_user": "Dj Derve"
+ },
+ {
+  "file": "t231_20061107011304",
+  "ts": "20061107011304",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=231&start=0&postdays=0&postorder=asc&highlight=",
+  "topic_id": "231",
+  "forum": "Past Events",
+  "forum_id": "16",
+  "title": "nothing here",
+  "nposts": 5,
+  "users": [
+   "Gr8 Maryjane",
+   "Guest",
+   "Tracyuiy",
+   "tomfoolery"
+  ],
+  "first_date": "Fri Mar 10, 2006 9:30 am",
+  "first_user": "tomfoolery"
+ },
+ {
+  "file": "t232_20060522230331",
+  "ts": "20060522230331",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=232&view=previous",
+  "topic_id": "276",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "Hello",
+  "nposts": 2,
+  "users": [
+   "Justin_Sane",
+   "K_I_T"
+  ],
+  "first_date": "Wed Apr 19, 2006 12:10 am",
+  "first_user": "Justin_Sane"
  },
  {
   "file": "t234_20060522230831",
@@ -405,6 +1040,113 @@
   "first_user": "Reperkushin"
  },
  {
+  "file": "t236_20060522225702",
+  "ts": "20060522225702",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=236",
+  "topic_id": "236",
+  "forum": "Discussion",
+  "forum_id": "2",
+  "title": "Mixes for download",
+  "nposts": 1,
+  "users": [
+   "UnitOvOne"
+  ],
+  "first_date": "Sat Mar 11, 2006 8:33 pm",
+  "first_user": "UnitOvOne"
+ },
+ {
+  "file": "t23_20060522230649",
+  "ts": "20060522230649",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=23",
+  "topic_id": "23",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "Hey all",
+  "nposts": 1,
+  "users": [
+   "djxdcc"
+  ],
+  "first_date": "Mon Feb 14, 2005 5:34 am",
+  "first_user": "djxdcc"
+ },
+ {
+  "file": "t241_20060522233552",
+  "ts": "20060522233552",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=241&view=next",
+  "topic_id": "243",
+  "forum": "Discussion",
+  "forum_id": "2",
+  "title": "Darkland US/CANADA Tour (Summer 2006) Gremz, Mumblz, SVS, +",
+  "nposts": 1,
+  "users": [
+   "svs"
+  ],
+  "first_date": "Mon Mar 20, 2006 7:13 pm",
+  "first_user": "svs"
+ },
+ {
+  "file": "t249_20060522231442",
+  "ts": "20060522231442",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=249",
+  "topic_id": "249",
+  "forum": "photos",
+  "forum_id": "14",
+  "title": "328 Flicks from last years Cave Party @ StudioGangstas.net",
+  "nposts": 5,
+  "users": [
+   "DjSerby",
+   "K_I_T",
+   "tomfoolery"
+  ],
+  "first_date": "Sat Mar 25, 2006 9:59 pm",
+  "first_user": "DjSerby"
+ },
+ {
+  "file": "t254_20060522224240",
+  "ts": "20060522224240",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=254",
+  "topic_id": "254",
+  "forum": "Event Listings",
+  "forum_id": "9",
+  "title": "3-31 Wilmington NC A Phamily Affair",
+  "nposts": 1,
+  "users": [
+   "tomfoolery"
+  ],
+  "first_date": "Wed Mar 29, 2006 7:54 am",
+  "first_user": "tomfoolery"
+ },
+ {
+  "file": "t255_20060522233324",
+  "ts": "20060522233324",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=255&view=previous",
+  "topic_id": "254",
+  "forum": "Event Listings",
+  "forum_id": "9",
+  "title": "3-31 Wilmington NC A Phamily Affair",
+  "nposts": 1,
+  "users": [
+   "tomfoolery"
+  ],
+  "first_date": "Wed Mar 29, 2006 7:54 am",
+  "first_user": "tomfoolery"
+ },
+ {
+  "file": "t258_20060522233531",
+  "ts": "20060522233531",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=258&view=previous",
+  "topic_id": "251",
+  "forum": "Discussion",
+  "forum_id": "2",
+  "title": "Deep Impact to guest on Midwest Breaks April 2nd!!!",
+  "nposts": 1,
+  "users": [
+   "Dj Derve"
+  ],
+  "first_date": "Tue Mar 28, 2006 2:17 am",
+  "first_user": "Dj Derve"
+ },
+ {
   "file": "t262_20061106213624",
   "ts": "20061106213624",
   "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=262",
@@ -420,6 +1162,54 @@
   ],
   "first_date": "Thu Apr 06, 2006 4:17 am",
   "first_user": "jamminallday"
+ },
+ {
+  "file": "t263_20061106213433",
+  "ts": "20061106213433",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=263",
+  "topic_id": "263",
+  "forum": "CaveFest06 420 edition",
+  "forum_id": "18",
+  "title": "TRASHBAGS!",
+  "nposts": 2,
+  "users": [
+   "jamminallday",
+   "tomfoolery"
+  ],
+  "first_date": "Thu Apr 06, 2006 5:27 pm",
+  "first_user": "jamminallday"
+ },
+ {
+  "file": "t264_20060522234000",
+  "ts": "20060522234000",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=264&view=next",
+  "topic_id": "276",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "Hello",
+  "nposts": 2,
+  "users": [
+   "Justin_Sane",
+   "K_I_T"
+  ],
+  "first_date": "Wed Apr 19, 2006 12:10 am",
+  "first_user": "Justin_Sane"
+ },
+ {
+  "file": "t26_20060522230657",
+  "ts": "20060522230657",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=26",
+  "topic_id": "26",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "Jesse Adams",
+  "nposts": 3,
+  "users": [
+   "Guest",
+   "jadams"
+  ],
+  "first_date": "Sat Feb 19, 2005 6:23 am",
+  "first_user": "jadams"
  },
  {
   "file": "t271_20061106213639",
@@ -440,6 +1230,86 @@
   "first_user": "Lord Mandrake"
  },
  {
+  "file": "t29_20060522233930",
+  "ts": "20060522233930",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=29&view=previous",
+  "topic_id": "23",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "Hey all",
+  "nposts": 1,
+  "users": [
+   "djxdcc"
+  ],
+  "first_date": "Mon Feb 14, 2005 5:34 am",
+  "first_user": "djxdcc"
+ },
+ {
+  "file": "t313_20061106220810",
+  "ts": "20061106220810",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=313",
+  "topic_id": "313",
+  "forum": "photos",
+  "forum_id": "14",
+  "title": "Derve's cavestock 06 pics",
+  "nposts": 2,
+  "users": [
+   "Guest",
+   "K_I_T"
+  ],
+  "first_date": "Sun Apr 23, 2006 3:57 pm",
+  "first_user": "Guest"
+ },
+ {
+  "file": "t315_20061106213528",
+  "ts": "20061106213528",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=315",
+  "topic_id": "315",
+  "forum": "CaveFest06 420 edition",
+  "forum_id": "18",
+  "title": "thank you",
+  "nposts": 2,
+  "users": [
+   "djandy_b"
+  ],
+  "first_date": "Sun Apr 23, 2006 6:01 pm",
+  "first_user": "djandy_b"
+ },
+ {
+  "file": "t318_20060522224500",
+  "ts": "20060522224500",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=318",
+  "topic_id": "318",
+  "forum": "Event Reviews",
+  "forum_id": "15",
+  "title": "Cavefest 06 420 edition.........",
+  "nposts": 3,
+  "users": [
+   "K_I_T",
+   "djandy_b",
+   "sparklykity"
+  ],
+  "first_date": "Sun Apr 23, 2006 7:00 pm",
+  "first_user": "djandy_b"
+ },
+ {
+  "file": "t31_20060522230356",
+  "ts": "20060522230356",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=31&view=next",
+  "topic_id": "43",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "I made it",
+  "nposts": 7,
+  "users": [
+   "Guest",
+   "Reperkushin",
+   "Tangent"
+  ],
+  "first_date": "Wed Mar 30, 2005 6:23 am",
+  "first_user": "Reperkushin"
+ },
+ {
   "file": "t339_20060522230839",
   "ts": "20060522230839",
   "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=339",
@@ -453,6 +1323,23 @@
   ],
   "first_date": "Thu Apr 27, 2006 7:18 am",
   "first_user": "tomfoolery"
+ },
+ {
+  "file": "t341_20060522230743",
+  "ts": "20060522230743",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=341",
+  "topic_id": "341",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "Hiyas!",
+  "nposts": 3,
+  "users": [
+   "K_I_T",
+   "sfranke",
+   "tomfoolery"
+  ],
+  "first_date": "Thu Apr 27, 2006 6:51 pm",
+  "first_user": "sfranke"
  },
  {
   "file": "t34_20061107011351",
@@ -472,6 +1359,169 @@
   ],
   "first_date": "Thu Mar 03, 2005 4:05 am",
   "first_user": "SpaceHead"
+ },
+ {
+  "file": "t351_20060522233857",
+  "ts": "20060522233857",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=351&view=previous",
+  "topic_id": "221",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "hi",
+  "nposts": 3,
+  "users": [
+   "K_I_T",
+   "burnthesystem",
+   "tomfoolery"
+  ],
+  "first_date": "Wed Feb 15, 2006 10:37 pm",
+  "first_user": "burnthesystem"
+ },
+ {
+  "file": "t352_20061106213540",
+  "ts": "20061106213540",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=352",
+  "topic_id": "352",
+  "forum": "CaveFest06 420 edition",
+  "forum_id": "18",
+  "title": "VENDORS?",
+  "nposts": 4,
+  "users": [
+   "DEVIANT",
+   "K_I_T",
+   "Trippinin",
+   "tomfoolery"
+  ],
+  "first_date": "Mon May 08, 2006 4:57 pm",
+  "first_user": "DEVIANT"
+ },
+ {
+  "file": "t358_20061107003317",
+  "ts": "20061107003317",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=358&view=previous",
+  "topic_id": "345",
+  "forum": "Discussion",
+  "forum_id": "2",
+  "title": "Reperkushin - Switchin Off the Safety (S.0.S.) - DL here",
+  "nposts": 9,
+  "users": [
+   "K_I_T",
+   "Reperkushin",
+   "Tangent",
+   "Trippinin"
+  ],
+  "first_date": "Thu May 04, 2006 4:05 am",
+  "first_user": "Reperkushin"
+ },
+ {
+  "file": "t360_20061106225932",
+  "ts": "20061106225932",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=360&postdays=0&postorder=asc&start=0",
+  "topic_id": "360",
+  "forum": "Cave Jam Solstice Fest w/ Vince Herman",
+  "forum_id": "21",
+  "title": "CAVE JAM",
+  "nposts": 15,
+  "users": [
+   "Chaddua",
+   "Faithvvo",
+   "Jacobqre",
+   "Masonxdy",
+   "pwdert@mail121.com",
+   "tomfoolery"
+  ],
+  "first_date": "Sun May 14, 2006 11:38 pm",
+  "first_user": "tomfoolery"
+ },
+ {
+  "file": "t360_20061106230044",
+  "ts": "20061106230044",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=360&start=30&postdays=0&postorder=asc&highlight=",
+  "topic_id": "360",
+  "forum": "Cave Jam Solstice Fest w/ Vince Herman",
+  "forum_id": "21",
+  "title": "CAVE JAM",
+  "nposts": 15,
+  "users": [
+   "AfeXyVutYD",
+   "AmNeWUpJRz",
+   "Codytxg",
+   "HnYdNuVtPK",
+   "Judyvek",
+   "Lucasxzf",
+   "Royoqd",
+   "UxOGleAwdy",
+   "dySRFeMkBi",
+   "fTmiobNBwF",
+   "hGLbiEAvTC",
+   "pwdert@mail121.com",
+   "zQjGMndTra"
+  ],
+  "first_date": "Fri Sep 15, 2006 9:30 pm",
+  "first_user": "pwdert@mail121.com"
+ },
+ {
+  "file": "t360_20061106233050",
+  "ts": "20061106233050",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=360&start=15&postdays=0&postorder=asc&highlight=",
+  "topic_id": "360",
+  "forum": "Cave Jam Solstice Fest w/ Vince Herman",
+  "forum_id": "21",
+  "title": "CAVE JAM",
+  "nposts": 15,
+  "users": [
+   "Danablu",
+   "Ethantfp",
+   "Meganfve",
+   "Terryvmn",
+   "pwdert@mail121.com"
+  ],
+  "first_date": "Wed Sep 13, 2006 10:26 pm",
+  "first_user": "Terryvmn"
+ },
+ {
+  "file": "t373_20061106231845",
+  "ts": "20061106231845",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=373",
+  "topic_id": "373",
+  "forum": "Cave Jam Solstice Fest w/ Vince Herman",
+  "forum_id": "21",
+  "title": "I'm pumped",
+  "nposts": 1,
+  "users": [
+   "deadhead13althea"
+  ],
+  "first_date": "Thu Jun 01, 2006 7:17 pm",
+  "first_user": "deadhead13althea"
+ },
+ {
+  "file": "t375_20061106231840",
+  "ts": "20061106231840",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=375",
+  "topic_id": "375",
+  "forum": "Cave Jam Solstice Fest w/ Vince Herman",
+  "forum_id": "21",
+  "title": "Where is this cave jam advertised?",
+  "nposts": 2,
+  "users": [
+   "jshay",
+   "tomfoolery"
+  ],
+  "first_date": "Sat Jun 03, 2006 3:59 pm",
+  "first_user": "jshay"
+ },
+ {
+  "file": "t376_20061106223248",
+  "ts": "20061106223248",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=376&view=next",
+  "topic_id": "",
+  "forum": "",
+  "forum_id": "",
+  "title": "",
+  "nposts": 0,
+  "users": [],
+  "first_date": "",
+  "first_user": ""
  },
  {
   "file": "t38_20061107004244",
@@ -510,6 +1560,37 @@
   ],
   "first_date": "Tue Mar 22, 2005 4:31 am",
   "first_user": "Guest"
+ },
+ {
+  "file": "t3_20050207131727",
+  "ts": "20050207131727",
+  "orig": "http://www.catalyticsouls.com:80/viewtopic.php?t=3&amp",
+  "topic_id": "3",
+  "forum": "",
+  "forum_id": "",
+  "title": "2-12-05 Underground Elements: Transition 2 (Toymaker)",
+  "nposts": 2,
+  "users": [
+   "jadams",
+   "tomfoolery"
+  ],
+  "first_date": "Sun Jan 16, 2005 1:12 am",
+  "first_user": "tomfoolery"
+ },
+ {
+  "file": "t416_20061106221801",
+  "ts": "20061106221801",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=416",
+  "topic_id": "416",
+  "forum": "Event Listings",
+  "forum_id": "9",
+  "title": "wht kind of music will be played at cavestock 3?",
+  "nposts": 1,
+  "users": [
+   "squalo"
+  ],
+  "first_date": "Mon Jul 31, 2006 4:05 pm",
+  "first_user": "squalo"
  },
  {
   "file": "t42_20060522225932",
@@ -552,6 +1633,78 @@
   "first_user": "shelby"
  },
  {
+  "file": "t43_20060522233840",
+  "ts": "20060522233840",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=43&view=previous",
+  "topic_id": "31",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "Slow burn, then BAM!",
+  "nposts": 1,
+  "users": [
+   "Dona"
+  ],
+  "first_date": "Sun Feb 27, 2005 2:24 am",
+  "first_user": "Dona"
+ },
+ {
+  "file": "t440_20061106220120",
+  "ts": "20061106220120",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=440",
+  "topic_id": "440",
+  "forum": "CAVESTOCK 3",
+  "forum_id": "24",
+  "title": "CAVESTOCK 3 Sept. 22 & 23",
+  "nposts": 13,
+  "users": [
+   "Guest",
+   "K_I_T",
+   "Reperkushin",
+   "SpaceHead",
+   "head_trip2005",
+   "sytrohs // riggz",
+   "tomfoolery",
+   "trick",
+   "unklryan"
+  ],
+  "first_date": "Thu Aug 17, 2006 9:33 pm",
+  "first_user": "tomfoolery"
+ },
+ {
+  "file": "t44_20060522231435",
+  "ts": "20060522231435",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=44",
+  "topic_id": "44",
+  "forum": "photos",
+  "forum_id": "14",
+  "title": "Shawnee Cave Ampitheater Photos",
+  "nposts": 1,
+  "users": [
+   "Guest"
+  ],
+  "first_date": "Fri Apr 01, 2005 4:03 am",
+  "first_user": "Guest"
+ },
+ {
+  "file": "t457_20061106220018",
+  "ts": "20061106220018",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=457",
+  "topic_id": "457",
+  "forum": "CAVESTOCK 3",
+  "forum_id": "24",
+  "title": "Rockin out in the cave once more!!!",
+  "nposts": 6,
+  "users": [
+   "Encetedbasander51",
+   "Fraunt Trozner",
+   "Pojoder5",
+   "head_trip2005",
+   "teknohippie"
+  ],
+  "first_date": "Tue Aug 22, 2006 6:29 pm",
+  "first_user": "Fraunt Trozner"
+ },
+ {
   "file": "t46_20060522234225",
   "ts": "20060522234225",
   "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=46&view=next",
@@ -565,6 +1718,54 @@
   ],
   "first_date": "Wed May 25, 2005 7:03 pm",
   "first_user": "K_I_T"
+ },
+ {
+  "file": "t4_20050207132715",
+  "ts": "20050207132715",
+  "orig": "http://www.catalyticsouls.com:80/viewtopic.php?t=4&amp",
+  "topic_id": "4",
+  "forum": "",
+  "forum_id": "",
+  "title": "1-17-05 U Lounge St Louis",
+  "nposts": 1,
+  "users": [
+   "tomfoolery"
+  ],
+  "first_date": "Sun Jan 16, 2005 1:42 am",
+  "first_user": "tomfoolery"
+ },
+ {
+  "file": "t50_20060522230248",
+  "ts": "20060522230248",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=50&view=next",
+  "topic_id": "57",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "Dedication Crew - St. Louis, MO",
+  "nposts": 3,
+  "users": [
+   "K_I_T",
+   "Tangent",
+   "dedication"
+  ],
+  "first_date": "Tue Apr 19, 2005 1:36 am",
+  "first_user": "dedication"
+ },
+ {
+  "file": "t52_20060522233847",
+  "ts": "20060522233847",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=52&view=previous",
+  "topic_id": "26",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "Jesse Adams",
+  "nposts": 3,
+  "users": [
+   "Guest",
+   "jadams"
+  ],
+  "first_date": "Sat Feb 19, 2005 6:23 am",
+  "first_user": "jadams"
  },
  {
   "file": "t53_20061106214210",
@@ -586,6 +1787,305 @@
   "first_user": "Dj Derve"
  },
  {
+  "file": "t54_20060522231005",
+  "ts": "20060522231005",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=54&start=15",
+  "topic_id": "54",
+  "forum": "Past Events",
+  "forum_id": "16",
+  "title": "Flyer and Info",
+  "nposts": 7,
+  "users": [
+   "Tangent",
+   "computer controlled",
+   "ohnine",
+   "tomfoolery",
+   "zesty"
+  ],
+  "first_date": "Tue May 24, 2005 2:51 am",
+  "first_user": "ohnine"
+ },
+ {
+  "file": "t54_20060522231008",
+  "ts": "20060522231008",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=54&view=previous",
+  "topic_id": "45",
+  "forum": "Past Events",
+  "forum_id": "16",
+  "title": "Blues Fest and Cave Rock Festival flyer",
+  "nposts": 2,
+  "users": [
+   "Guest"
+  ],
+  "first_date": "Fri Apr 01, 2005 4:07 am",
+  "first_user": "Guest"
+ },
+ {
+  "file": "t54_20060522231013",
+  "ts": "20060522231013",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=54&view=next",
+  "topic_id": "101",
+  "forum": "Past Events",
+  "forum_id": "16",
+  "title": "Ride Requests",
+  "nposts": 5,
+  "users": [
+   "hardcore_raver777",
+   "tomfoolery",
+   "zesty"
+  ],
+  "first_date": "Wed Jun 15, 2005 2:27 pm",
+  "first_user": "hardcore_raver777"
+ },
+ {
+  "file": "t54_20060522231126",
+  "ts": "20060522231126",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=54",
+  "topic_id": "54",
+  "forum": "Past Events",
+  "forum_id": "16",
+  "title": "Flyer and Info",
+  "nposts": 15,
+  "users": [
+   "Angiepangie",
+   "Dilly",
+   "GGJim",
+   "K_I_T",
+   "Spanky495",
+   "Tangent",
+   "dedication",
+   "jadams",
+   "ozwald",
+   "tomfoolery",
+   "zesty"
+  ],
+  "first_date": "Sun Apr 17, 2005 10:20 pm",
+  "first_user": "jadams"
+ },
+ {
+  "file": "t54_20060522231229",
+  "ts": "20060522231229",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=54&start=0",
+  "topic_id": "54",
+  "forum": "Past Events",
+  "forum_id": "16",
+  "title": "Flyer and Info",
+  "nposts": 15,
+  "users": [
+   "Angiepangie",
+   "Dilly",
+   "GGJim",
+   "K_I_T",
+   "Spanky495",
+   "Tangent",
+   "dedication",
+   "jadams",
+   "ozwald",
+   "tomfoolery",
+   "zesty"
+  ],
+  "first_date": "Sun Apr 17, 2005 10:20 pm",
+  "first_user": "jadams"
+ },
+ {
+  "file": "t54_20061106212812",
+  "ts": "20061106212812",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=54&start=30",
+  "topic_id": "54",
+  "forum": "Past Events",
+  "forum_id": "16",
+  "title": "Flyer and Info",
+  "nposts": 3,
+  "users": [
+   "Kevin",
+   "Kimberly",
+   "Matthew"
+  ],
+  "first_date": "Fri Oct 20, 2006 6:51 am",
+  "first_user": "Kimberly"
+ },
+ {
+  "file": "t54_20061107005441",
+  "ts": "20061107005441",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=54&postdays=0&postorder=asc&start=30",
+  "topic_id": "54",
+  "forum": "Past Events",
+  "forum_id": "16",
+  "title": "Flyer and Info",
+  "nposts": 3,
+  "users": [
+   "Kevin",
+   "Kimberly",
+   "Matthew"
+  ],
+  "first_date": "Fri Oct 20, 2006 6:51 am",
+  "first_user": "Kimberly"
+ },
+ {
+  "file": "t54_20061107005527",
+  "ts": "20061107005527",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=54&start=15&postdays=0&postorder=asc&highlight=",
+  "topic_id": "54",
+  "forum": "Past Events",
+  "forum_id": "16",
+  "title": "Flyer and Info",
+  "nposts": 15,
+  "users": [
+   "Ciganeno",
+   "Guest",
+   "Tangent",
+   "Turok",
+   "Udod",
+   "Zena",
+   "computer controlled",
+   "ohnine",
+   "tomfoolery",
+   "zesty"
+  ],
+  "first_date": "Tue May 24, 2005 2:51 am",
+  "first_user": "ohnine"
+ },
+ {
+  "file": "t54_20061107005728",
+  "ts": "20061107005728",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=54&postdays=0&postorder=asc&start=0",
+  "topic_id": "54",
+  "forum": "Past Events",
+  "forum_id": "16",
+  "title": "Flyer and Info",
+  "nposts": 15,
+  "users": [
+   "Angiepangie",
+   "Dilly",
+   "GGJim",
+   "K_I_T",
+   "Spanky495",
+   "Tangent",
+   "dedication",
+   "jadams",
+   "ozwald",
+   "tomfoolery",
+   "zesty"
+  ],
+  "first_date": "Sun Apr 17, 2005 10:20 pm",
+  "first_user": "jadams"
+ },
+ {
+  "file": "t54_20061107005911",
+  "ts": "20061107005911",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=54&postdays=0&postorder=asc&start=15",
+  "topic_id": "54",
+  "forum": "Past Events",
+  "forum_id": "16",
+  "title": "Flyer and Info",
+  "nposts": 15,
+  "users": [
+   "Ciganeno",
+   "Guest",
+   "Tangent",
+   "Turok",
+   "Udod",
+   "Zena",
+   "computer controlled",
+   "ohnine",
+   "tomfoolery",
+   "zesty"
+  ],
+  "first_date": "Tue May 24, 2005 2:51 am",
+  "first_user": "ohnine"
+ },
+ {
+  "file": "t54_20061107005915",
+  "ts": "20061107005915",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=54&start=30&postdays=0&postorder=asc&highlight=",
+  "topic_id": "54",
+  "forum": "Past Events",
+  "forum_id": "16",
+  "title": "Flyer and Info",
+  "nposts": 3,
+  "users": [
+   "Kevin",
+   "Kimberly",
+   "Matthew"
+  ],
+  "first_date": "Fri Oct 20, 2006 6:51 am",
+  "first_user": "Kimberly"
+ },
+ {
+  "file": "t54_20061107010254",
+  "ts": "20061107010254",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=54&start=0&postdays=0&postorder=asc&highlight=",
+  "topic_id": "54",
+  "forum": "Past Events",
+  "forum_id": "16",
+  "title": "Flyer and Info",
+  "nposts": 15,
+  "users": [
+   "Angiepangie",
+   "Dilly",
+   "GGJim",
+   "K_I_T",
+   "Spanky495",
+   "Tangent",
+   "dedication",
+   "jadams",
+   "ozwald",
+   "tomfoolery",
+   "zesty"
+  ],
+  "first_date": "Sun Apr 17, 2005 10:20 pm",
+  "first_user": "jadams"
+ },
+ {
+  "file": "t55_20060522234112",
+  "ts": "20060522234112",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=55&view=next",
+  "topic_id": "67",
+  "forum": "Past Events",
+  "forum_id": "16",
+  "title": "For those curious about Evol Intent's The Enemy:",
+  "nposts": 1,
+  "users": [
+   "Tangent"
+  ],
+  "first_date": "Thu Apr 28, 2005 3:50 am",
+  "first_user": "Tangent"
+ },
+ {
+  "file": "t569_20061106220244",
+  "ts": "20061106220244",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=569",
+  "topic_id": "569",
+  "forum": "CAVESTOCK 3",
+  "forum_id": "24",
+  "title": "Rideshare?",
+  "nposts": 3,
+  "users": [
+   "Tertard",
+   "mitch",
+   "sheva"
+  ],
+  "first_date": "Sat Sep 09, 2006 8:52 pm",
+  "first_user": "sheva"
+ },
+ {
+  "file": "t57_20060522233950",
+  "ts": "20060522233950",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=57&view=previous",
+  "topic_id": "50",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "Big up from K_I_T in STL!",
+  "nposts": 5,
+  "users": [
+   "K_I_T",
+   "Tangent",
+   "dedication"
+  ],
+  "first_date": "Tue Apr 12, 2005 12:39 am",
+  "first_user": "K_I_T"
+ },
+ {
   "file": "t59_20060522231404",
   "ts": "20060522231404",
   "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=59",
@@ -600,6 +2100,21 @@
   ],
   "first_date": "Tue Apr 19, 2005 2:33 am",
   "first_user": "K_I_T"
+ },
+ {
+  "file": "t5_20060522230637",
+  "ts": "20060522230637",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=5",
+  "topic_id": "5",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "Tom Foolery",
+  "nposts": 1,
+  "users": [
+   "Guest"
+  ],
+  "first_date": "Sun Jan 16, 2005 8:14 am",
+  "first_user": "Guest"
  },
  {
   "file": "t60_20060522225437",
@@ -619,6 +2134,19 @@
   "first_user": "K_I_T"
  },
  {
+  "file": "t610_20061106220057",
+  "ts": "20061106220057",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=610&view=previous",
+  "topic_id": "",
+  "forum": "",
+  "forum_id": "",
+  "title": "",
+  "nposts": 0,
+  "users": [],
+  "first_date": "",
+  "first_user": ""
+ },
+ {
   "file": "t61_20060522224544",
   "ts": "20060522224544",
   "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=61&view=previous",
@@ -632,6 +2160,113 @@
   ],
   "first_date": "Sat Aug 20, 2005 6:54 pm",
   "first_user": "jshay"
+ },
+ {
+  "file": "t627_20061107002248",
+  "ts": "20061107002248",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=627&start=0",
+  "topic_id": "627",
+  "forum": "Discussion",
+  "forum_id": "2",
+  "title": "Lot of 110 Techno, Trance and House records for sale",
+  "nposts": 1,
+  "users": [
+   "groove culture"
+  ],
+  "first_date": "Mon Sep 25, 2006 9:56 pm",
+  "first_user": "groove culture"
+ },
+ {
+  "file": "t68_20060522225524",
+  "ts": "20060522225524",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=68&view=previous",
+  "topic_id": "98",
+  "forum": "Discussion",
+  "forum_id": "2",
+  "title": "did anyone else notice....",
+  "nposts": 1,
+  "users": [
+   "zesty"
+  ],
+  "first_date": "Tue Jun 14, 2005 3:17 am",
+  "first_user": "zesty"
+ },
+ {
+  "file": "t6_20050207133459",
+  "ts": "20050207133459",
+  "orig": "http://www.catalyticsouls.com:80/viewtopic.php?t=6&amp",
+  "topic_id": "6",
+  "forum": "",
+  "forum_id": "",
+  "title": "Cape Feb 5 (monthly)",
+  "nposts": 1,
+  "users": [
+   "tomfoolery"
+  ],
+  "first_date": "Sun Jan 16, 2005 2:22 am",
+  "first_user": "tomfoolery"
+ },
+ {
+  "file": "t7035_20070704121250",
+  "ts": "20070704121250",
+  "orig": "http://www.catalyticsouls.com:80/forums/viewtopic.php?t=7035",
+  "topic_id": "7035",
+  "forum": "",
+  "forum_id": "",
+  "title": "JULY 4TH DJS AND BBQ KLAUS PARK CAPE GIRARDEAU",
+  "nposts": 5,
+  "users": [
+   "BrainStormdj",
+   "teknohippie"
+  ],
+  "first_date": "Tue Jun 19, 2007 2:52 pm",
+  "first_user": "BrainStormdj"
+ },
+ {
+  "file": "t733_20061106231305",
+  "ts": "20061106231305",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=733&view=next",
+  "topic_id": "737",
+  "forum": "Cave Jam Solstice Fest w/ Vince Herman",
+  "forum_id": "21",
+  "title": "Aida Yespica",
+  "nposts": 1,
+  "users": [
+   "Encejoted75"
+  ],
+  "first_date": "Wed Oct 18, 2006 12:28 am",
+  "first_user": "Encejoted75"
+ },
+ {
+  "file": "t73_20060522230411",
+  "ts": "20060522230411",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=73&view=next",
+  "topic_id": "84",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "Hallo peoples",
+  "nposts": 2,
+  "users": [
+   "computer controlled",
+   "zesty"
+  ],
+  "first_date": "Wed May 25, 2005 6:54 pm",
+  "first_user": "computer controlled"
+ },
+ {
+  "file": "t747_20061106231500",
+  "ts": "20061106231500",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=747&view=next",
+  "topic_id": "750",
+  "forum": "Cave Jam Solstice Fest w/ Vince Herman",
+  "forum_id": "21",
+  "title": "The Titmuss",
+  "nposts": 1,
+  "users": [
+   "Moted60"
+  ],
+  "first_date": "Wed Oct 18, 2006 4:16 pm",
+  "first_user": "Moted60"
  },
  {
   "file": "t75_20060522224559",
@@ -679,6 +2314,192 @@
   "first_user": "tomfoolery"
  },
  {
+  "file": "t76_20060522230601",
+  "ts": "20060522230601",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=76",
+  "topic_id": "76",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "hello.. my name is michael",
+  "nposts": 3,
+  "users": [
+   "djmichaelwenz",
+   "tomfoolery",
+   "zesty"
+  ],
+  "first_date": "Tue May 17, 2005 5:05 am",
+  "first_user": "djmichaelwenz"
+ },
+ {
+  "file": "t786_20061106221452",
+  "ts": "20061106221452",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=786",
+  "topic_id": "786",
+  "forum": "Event Listings",
+  "forum_id": "9",
+  "title": "10/28-THRILL YA-dnb rave Chicago",
+  "nposts": 1,
+  "users": [
+   "diskokitty"
+  ],
+  "first_date": "Sat Oct 21, 2006 12:29 am",
+  "first_user": "diskokitty"
+ },
+ {
+  "file": "t7_20060522233907",
+  "ts": "20060522233907",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=7&view=next",
+  "topic_id": "16",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "BluBoy",
+  "nposts": 1,
+  "users": [
+   "DJ BluBoy"
+  ],
+  "first_date": "Fri Feb 04, 2005 4:51 am",
+  "first_user": "DJ BluBoy"
+ },
+ {
+  "file": "t808_20061106231835",
+  "ts": "20061106231835",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=808",
+  "topic_id": "808",
+  "forum": "Cave Jam Solstice Fest w/ Vince Herman",
+  "forum_id": "21",
+  "title": "tenuate slimming uk",
+  "nposts": 1,
+  "users": [
+   "tenuate free shipping ove"
+  ],
+  "first_date": "Mon Oct 23, 2006 12:37 pm",
+  "first_user": "tenuate free shipping ove"
+ },
+ {
+  "file": "t827_20061106232335",
+  "ts": "20061106232335",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=827",
+  "topic_id": "827",
+  "forum": "Cave Jam Solstice Fest w/ Vince Herman",
+  "forum_id": "21",
+  "title": "rolex",
+  "nposts": 1,
+  "users": [
+   "alprazollam"
+  ],
+  "first_date": "Wed Oct 25, 2006 1:34 pm",
+  "first_user": "alprazollam"
+ },
+ {
+  "file": "t845_20061106232353",
+  "ts": "20061106232353",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=845",
+  "topic_id": "845",
+  "forum": "Cave Jam Solstice Fest w/ Vince Herman",
+  "forum_id": "21",
+  "title": "busty blonde",
+  "nposts": 1,
+  "users": [
+   "busty dusty"
+  ],
+  "first_date": "Fri Oct 27, 2006 1:26 am",
+  "first_user": "busty dusty"
+ },
+ {
+  "file": "t84_20060522234048",
+  "ts": "20060522234048",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=84&view=next",
+  "topic_id": "76",
+  "forum": "Introductions",
+  "forum_id": "3",
+  "title": "hello.. my name is michael",
+  "nposts": 3,
+  "users": [
+   "djmichaelwenz",
+   "tomfoolery",
+   "zesty"
+  ],
+  "first_date": "Tue May 17, 2005 5:05 am",
+  "first_user": "djmichaelwenz"
+ },
+ {
+  "file": "t859_20061106231941",
+  "ts": "20061106231941",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=859",
+  "topic_id": "859",
+  "forum": "Cave Jam Solstice Fest w/ Vince Herman",
+  "forum_id": "21",
+  "title": "migraine",
+  "nposts": 1,
+  "users": [
+   "migraine"
+  ],
+  "first_date": "Sat Oct 28, 2006 4:04 am",
+  "first_user": "migraine"
+ },
+ {
+  "file": "t85_20060522231337",
+  "ts": "20060522231337",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=85&view=next",
+  "topic_id": "118",
+  "forum": "photos",
+  "forum_id": "14",
+  "title": "a few pics",
+  "nposts": 3,
+  "users": [
+   "Dj Derve",
+   "Reperkushin",
+   "tomfoolery"
+  ],
+  "first_date": "Thu Jul 21, 2005 4:26 am",
+  "first_user": "Dj Derve"
+ },
+ {
+  "file": "t874_20061106230624",
+  "ts": "20061106230624",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=874&view=previous",
+  "topic_id": "873",
+  "forum": "Cave Jam Solstice Fest w/ Vince Herman",
+  "forum_id": "21",
+  "title": "My Site",
+  "nposts": 1,
+  "users": [
+   "hgjgfhj"
+  ],
+  "first_date": "Sun Oct 29, 2006 4:40 am",
+  "first_user": "hgjgfhj"
+ },
+ {
+  "file": "t906_20061106225704",
+  "ts": "20061106225704",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=906&view=next",
+  "topic_id": "907",
+  "forum": "Cave Jam Solstice Fest w/ Vince Herman",
+  "forum_id": "21",
+  "title": "mature orgy",
+  "nposts": 1,
+  "users": [
+   "mature orgy movies"
+  ],
+  "first_date": "Wed Nov 01, 2006 5:24 pm",
+  "first_user": "mature orgy movies"
+ },
+ {
+  "file": "t912_20061106220212",
+  "ts": "20061106220212",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=912",
+  "topic_id": "912",
+  "forum": "CAVESTOCK 3",
+  "forum_id": "24",
+  "title": "To wire from there",
+  "nposts": 1,
+  "users": [
+   "delViconto"
+  ],
+  "first_date": "Thu Nov 02, 2006 8:38 am",
+  "first_user": "delViconto"
+ },
+ {
   "file": "t92_20061106222219",
   "ts": "20061106222219",
   "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=92",
@@ -692,6 +2513,51 @@
   ],
   "first_date": "Sun Jun 05, 2005 9:53 pm",
   "first_user": "partition_function"
+ },
+ {
+  "file": "t940_20061106232536",
+  "ts": "20061106232536",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=940&start=0",
+  "topic_id": "940",
+  "forum": "Cave Jam Solstice Fest w/ Vince Herman",
+  "forum_id": "21",
+  "title": "penis enlargement",
+  "nposts": 1,
+  "users": [
+   "penis_enlargement"
+  ],
+  "first_date": "Fri Nov 03, 2006 4:31 am",
+  "first_user": "penis_enlargement"
+ },
+ {
+  "file": "t949_20061106230729",
+  "ts": "20061106230729",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=949&start=0",
+  "topic_id": "949",
+  "forum": "Cave Jam Solstice Fest w/ Vince Herman",
+  "forum_id": "21",
+  "title": "airline tickets",
+  "nposts": 1,
+  "users": [
+   "airline_tickets"
+  ],
+  "first_date": "Sat Nov 04, 2006 12:43 am",
+  "first_user": "airline_tickets"
+ },
+ {
+  "file": "t955_20061106225822",
+  "ts": "20061106225822",
+  "orig": "http://www.catalyticsouls.com/forums/viewtopic.php?t=955&start=0",
+  "topic_id": "955",
+  "forum": "Cave Jam Solstice Fest w/ Vince Herman",
+  "forum_id": "21",
+  "title": "penis enlargement",
+  "nposts": 1,
+  "users": [
+   "penis_enlargement"
+  ],
+  "first_date": "Sat Nov 04, 2006 3:13 pm",
+  "first_user": "penis_enlargement"
  },
  {
   "file": "t97_20060522233500",

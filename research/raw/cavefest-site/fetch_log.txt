@@ -75,3 +75,19 @@ OK 20090501142603 http://www.cavefest.fws1.com:80/photo_2.html 844
   retry 0 https://web.archive.org/web/20080415081346id_/http://www.cavefest.fws1.com:80/photo_3.html -> <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
   retry 1 https://web.archive.org/web/20080415081346id_/http://www.cavefest.fws1.com:80/photo_3.html -> <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
   retry 2 https://web.archive.org/web/20080415081346id_/http://www.cavefest.fws1.com:80/photo_3.html -> <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+  retry 3 https://web.archive.org/web/20080415081346id_/http://www.cavefest.fws1.com:80/photo_3.html -> <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+OK 20080415081346 http://www.cavefest.fws1.com:80/photo_3.html 1333
+  retry 0 https://web.archive.org/web/20090501142613id_/http://www.cavefest.fws1.com:80/photo_5.html -> <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+OK 20090501142613 http://www.cavefest.fws1.com:80/photo_5.html 575
+  retry 0 https://web.archive.org/web/20080426035434id_/http://www.cavefest.fws1.com:80/photo_6.html -> <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+OK 20080426035434 http://www.cavefest.fws1.com:80/photo_6.html 1217
+  retry 0 https://web.archive.org/web/20101013064442id_/http://www.cavefest.fws1.com:80/photo_6.html -> <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+OK 20101013064442 http://www.cavefest.fws1.com:80/photo_6.html 772
+  retry 0 https://web.archive.org/web/20101013064750id_/http://www.cavefest.fws1.com:80/photo_7.html -> <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+OK 20101013064750 http://www.cavefest.fws1.com:80/photo_7.html 757
+  retry 0 https://web.archive.org/web/20101013064712id_/http://www.cavefest.fws1.com:80/photoalbum.h -> <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+  retry 1 https://web.archive.org/web/20101013064712id_/http://www.cavefest.fws1.com:80/photoalbum.h -> <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+OK 20101013064712 http://www.cavefest.fws1.com:80/photoalbum.html 794
+  retry 0 https://web.archive.org/web/20080425231520id_/http://www.cavefest.fws1.com:80/slide_show.h -> <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+OK 20080425231520 http://www.cavefest.fws1.com:80/slide_show.html? 1311
+  retry 0 https://web.archive.org/web/20090302000956id_/http://www.cavefest.fws1.com:80/slide_show.h -> <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>

@@ -1,0 +1,4 @@
+# 
+forum:  (f=)  topic_id:   pages: 
+capture: 20061106220057  wayback: https://web.archive.org/web/20061106220057/http://www.catalyticsouls.com/forums/viewtopic.php?t=610&view=previous
+posts on this page: 0

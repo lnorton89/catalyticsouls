@@ -1,0 +1,38 @@
+SOURCE: http://shawneecave.com:80/
+CAPTURE: 20020525160429
+FETCHED: https://web.archive.org/web/20020525160429id_/http://shawneecave.com:80/
+
+The Cave
+Spectacular panoramic view of 125 foot cliffs and bluffs,
+waterfalls, overlooking rock formations of the Shawnee National Forest. 
+Across from Cedar Lake, Pomona, IL (Seven miles south of Murphysboro, Route
+127). 
+Southern Illinois Scenic Views 
+Picnic Grove 
+Festivals & Live Concerts (capacity of 4,000 people)
+Fishing Across the Street (Cedar Lake)
+Non profit organization 
+618 687-9663
+email: shawneecaveman@aol.com
+
+--- IMAGES ---
+_derived/index.html_cmp_expeditn010_bnr.gif | alt=Shawnee Cave
+_derived/events.htm_cmp_expeditn010_hbtn.gif | alt=Events
+_derived/reservations.htm_cmp_expeditn010_hbtn.gif | alt=Reservations
+_themes/expeditn/exphorsa.gif | alt=
+index.1.jpg | alt=wpeC.jpg (25837 bytes)
+index.2.jpg | alt=wpeE.jpg (48287 bytes)
+index.3.jpg | alt=wpe10.jpg (32620 bytes)
+index.4.jpg | alt=wpe12.jpg (45895 bytes)
+_themes/expeditn/expbul1a.gif | alt=
+_themes/expeditn/expbul1a.gif | alt=
+_themes/expeditn/expbul1a.gif | alt=
+_themes/expeditn/expbul1a.gif | alt=
+_vti_bin/fpcount.exe/?Page=index.html|Image=0 | alt=Hit Counter
+--- LINKS ---
+events.htm
+reservations.htm
+wpeC.jpg
+wpeE.jpg
+wpe10.jpg
+wpe12.jpg

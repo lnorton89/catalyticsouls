@@ -36,12 +36,20 @@ if __name__=='__main__':
     done=set(l.strip() for l in open('read_done.txt',encoding='utf8')) if os.path.exists('read_done.txt') else set()
     maxchars=int(sys.argv[1]) if len(sys.argv)>1 else 3000
     newly=[]
+    seenf='seen_content.txt'
+    seen=set(l.strip() for l in open(seenf,encoding='utf8')) if os.path.exists(seenf) else set()
     for f in sorted(glob.glob('threads_html/*.html')):
         b=os.path.basename(f)[:-5]
         if not os.path.exists('digest/'+b+'.md'):
             open('digest/'+b+'.md','w',encoding='utf8').write(digest_file(f))
         if b not in done:
             out=open('digest/'+b+'.md',encoding='utf8').read()
+            m=re.search(r'\| t=(\d*) \|',out); m2=re.search(r'^-- #(\d+) ',out,re.M)
+            key=f"{m.group(1) if m else ''}:{m2.group(1) if m2 else ''}:{out.count(chr(10))}"
+            if key in seen or (m2 is None):
+                newly.append(b); continue
+            seen.add(key); open(seenf,'a',encoding='utf8').write(key+'
+')
             print(out[:maxchars]+(' [TRUNC]\n' if len(out)>maxchars else ''))
             newly.append(b)
     with open('read_done.txt','a',encoding='utf8') as fh:
