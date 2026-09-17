@@ -47,6 +47,9 @@ Each is at `https://archive.org/details/<identifier>`. No recordings of the elec
 
 ### 2006: Underground Sound 2
 
+- [**Infected Mushroom @ Underground Sound 2**](https://www.youtube.com/watch?v=lax4nwC7H0Q) — Tollas McClane, uploaded 2006-07-02, 6533 views. *"Opening/Cities of the Future"*
+- [**The Dervish @ UGS4 - underground sound 2008**](https://www.youtube.com/watch?v=1kh1umAyk4k) — caigecaige, uploaded 2008-11-09, 157 views. *"DJ Dervish / The Dervish live at Underground Sound 4 (2008) at the Shawnee Cave in Illinois!"*
+- [**The Dervish @ UGS4 (part 3) underground sound 2008**](https://www.youtube.com/watch?v=o0WLmh8kNOg) — caigecaige, uploaded 2008-11-09, 472 views. *"DJ Dervish, The dervish lays some sick beats at Underground Sound 4 at the Shawnee Cave in IL."*
 - [**Underground Sounds 2 (Rave in the Cave)**](https://www.youtube.com/watch?v=0eeV-3nuevA) — Joseph Lucas, uploaded 2011-06-16, 7142 views. *"Underground Sounds 2 in Murphysboro, Illinois at the saltpeter cave. Just some friends walking around showing the cave and the rave."*
 
 ### 2007: Underground Sound 3
@@ -72,6 +75,16 @@ Each is at `https://archive.org/details/<identifier>`. No recordings of the elec
 
 ### 2008: Underground Sound 4
 
+- [**Underground Sound 4**](https://www.youtube.com/watch?v=lZrMUKAjbNE) — djstone4u2, uploaded 2008-08-22, 827 views. *"Underground Sound 4 June 16, 2008 at Saltpeter Cave in Murphysboro, IL.  Fire dancer"*
+- [**Underground Sound 4**](https://www.youtube.com/watch?v=xi0x1bf6iag) — djstone4u2, uploaded 2008-08-24, 479 views. *"Underground Sound 4 Saltpeter Cave.  Murphysboro, IL.  8/17/2008"*
+- [**Underground Sound 4**](https://www.youtube.com/watch?v=IVTmqZrQrT8) — bgadient13, uploaded 2008-08-24, 97 views. *"The Cave"*
+- [**Underground Sound 4**](https://www.youtube.com/watch?v=2iMhu2mpxLk) — bgadient13, uploaded 2008-08-24, 393 views. *"The Experience of friday night at Underground Sound 4..."*
+- [**Underground Sound 4**](https://www.youtube.com/watch?v=0XsBYdWR3-M) — djstone4u2, uploaded 2008-08-24, 264 views. *"Underground Sound 4 Saltpeter Cave.  Murphysboro, IL.  8/17/2008"*
+- [**Underground Sound 4**](https://www.youtube.com/watch?v=81wy7Yn6D9Y) — bgadient13, uploaded 2008-08-24, 457 views. *"The Cave"*
+- [**Underground Sound 4**](https://www.youtube.com/watch?v=68hPbc_SMag) — djstone4u2, uploaded 2008-08-27, 744 views. *"Underground Sound 4.  Saltpeter Cave, Murphysboro, IL. 8-17-2008"*
+- [**Underground Sound 4**](https://www.youtube.com/watch?v=y7apEqgB9iM) — djstone4u2, uploaded 2008-08-27, 940 views. *"Underground Sound 4.  Saltpeter Cave, Murphysboro, IL. 8-17-2008"*
+- [**Underground Sound 4**](https://www.youtube.com/watch?v=YstM7iU0kSM) — djstone4u2, uploaded 2008-08-27, 198 views. *"Underground Sound 4.  Saltpeter Cave, Murphysboro, IL. 8-17-2008"*
+- [**Underground Sound 4**](https://www.youtube.com/watch?v=pqmRKxruQco) — zachstl, uploaded 2008-10-08, 260 views. *"rave in a cave"*
 - [**Underground Sound 4**](https://www.youtube.com/watch?v=BUwxzD_pASk) — zachstl, uploaded 2009-01-27, 487 views. *"rave in shawnee cave"*
 
 ### 2009: Underground Sound 5, Camp Zoe
@@ -80,6 +93,8 @@ Each is at `https://archive.org/details/<identifier>`. No recordings of the elec
 - [**Bassnectar Underground Sound 5 @ Camp Zoe 2009**](https://www.youtube.com/watch?v=YGFNlOF2_mc) — Greg’s Live Shows, uploaded 2014-09-28, 106 views.
 - [**Bassnectar Underground Sound 5 @ Camp Zoe 2009**](https://www.youtube.com/watch?v=4fNaqkjkZzM) — Greg’s Live Shows, uploaded 2014-09-28, 477 views.
 - [**Bassnectar Halo Underground Sound 5 @ Camp Zoe 2009**](https://www.youtube.com/watch?v=RJhOCu_zWIo) — Greg’s Live Shows, uploaded 2014-09-28, 112 views.
+- [**Bassnectar Opening Underground Sound 5 @ Camp Zoe 2009**](https://www.youtube.com/watch?v=n1Rib1GcPeE) — Greg’s Live Shows, uploaded 2014-09-28, 228 views.
+- [**Bassnectar Cozza Frenzy Underground Sound 5 @ Camp Zoe 2009**](https://www.youtube.com/watch?v=4XX7XpGlroI) — Greg’s Live Shows, uploaded 2014-09-28, 100 views.
 - [**Underground Sound 5 @ Camp Zoe 2009**](https://www.youtube.com/watch?v=b7HsAmHsN9w) — Greg’s Live Shows, uploaded 2022-02-13, 52 views.
 - [**Underground Sound 5 Fireworks @ Camp Zoe 2009**](https://www.youtube.com/watch?v=3nqo9TAq97k) — Greg’s Live Shows, uploaded 2022-02-13, 16 views.
 - [**Underground Sound 5 @ Camp Zoe 2009**](https://www.youtube.com/watch?v=uWacDOuM_-o) — Greg’s Live Shows, uploaded 2022-02-13, 23 views.
@@ -88,6 +103,7 @@ Each is at `https://archive.org/details/<identifier>`. No recordings of the elec
 - [**Astral Projection - Underground Sound 5 @ Camp Zoe 2009**](https://www.youtube.com/watch?v=uocmyMpSgDo) — Greg’s Live Shows, uploaded 2022-02-13, 18 views.
 - [**Underground Sound 5 Psytrance @ Camp Zoe 2009**](https://www.youtube.com/watch?v=aYaGHjfwsa8) — Greg’s Live Shows, uploaded 2022-02-13, 30 views.
 - [**Underground Sound 5 Rave Lasers @ Camp Zoe 2009**](https://www.youtube.com/watch?v=Uic6pF2E6wU) — Greg’s Live Shows, uploaded 2022-02-13, 16 views.
+- [**Underground Sound 5 Freakin Out  @ Camp Zoe 2009**](https://www.youtube.com/watch?v=g2C55_dmnLs) — Greg’s Live Shows, uploaded 2022-02-13, 22 views.
 
 ### 2010: Underground Sound 6, Camp Zoe
 
@@ -126,6 +142,8 @@ Each is at `https://archive.org/details/<identifier>`. No recordings of the elec
 
 ### Other
 
+- [**IDENTITY @ UGS 4**](https://www.youtube.com/watch?v=wa7kPGgwgr4) — MissGlitch13, uploaded 2008-08-18, 445 views. *"Identity spinning main stage at Shawnee Cave August 15th, 8-9pm.  Hard House at its best!"*
+- [**UGS4 2**](https://www.youtube.com/watch?v=yht4TNjNS2k) — ohmygoditsthatguy, uploaded 2008-08-20, 934 views. *"THE DERVISH jammin at underground sound 4!!"*
 - [**Tomfoolery**](https://www.youtube.com/watch?v=L04hOuCmX64) — Soulsion - Topic, uploaded 2020-05-20, 58 views. *"Provided to YouTube by DistroKid /  / Tomfoolery Â· Soulsion /  / Tomfoolery /  / â 1759306 Records DK /  / Released on: 2020-05-20 /  / Auto-generated by YouTube."*
 - [**The Terrifying Last Minutes of Underground Cave Rave**](https://www.youtube.com/watch?v=daqn74e398s) — On The Verge, uploaded 2025-06-05, 296912 views. *"Disclaimer: / All content in this video is intended for educational purposes only. The real-life caving stories shared are designed to raise awareness about caving, highlighting the potential risks and consequences of taking it lightly. The information and materials used are sourced from public records and are used strictly for educational purposes under YouTube's fair use policy. Viewer discretion is advised, and always ensure you engage in safe, responsible caving practices with proper guidancisJfsvpsPi0 | Cavetronic - DJ Shortee | odlima | 2009-07-27 | 184 views"*
 

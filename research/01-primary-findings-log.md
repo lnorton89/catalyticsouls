@@ -96,3 +96,11 @@ Compiled September 16, 2026. These are findings I gathered directly (not via the
 ### Blocked sources
 - Reddit is blocked for fetch and browser here; two relevant threads exist: r/aves "Cave Rave" (snippet: "There used to be Underground Sound at Shawnee cave in Murphysboro Illinois from about 2000 until about 2008. It was a huge...") and r/aves "Underground Sound 4 [8/16/2008] Multigenre Rave in Murphysboro, IL" (post id ppqjzn, a photo post).
 - TranceAddict UGS 4 thread (threadid 487741) sits behind a bot check. Dogs On Acid threads return 403.
+
+### Gamma Fest (Aug 17–19, 2007) per Goabase listing (submitted by Psymbolic)
+- Eureka Springs Music Park, Arkansas: "143 ridge top acres with on site bathrooms, showers." Friday 4 p.m. to Sunday noon. Lineup: Hallucinogen (live), Shpongle (DJ set), Init String (live), Gift Culture (live), TomFoolery, Andy B (all-vinyl DJ), James Meadows. "Two days, two nights of camping and multidimensional audio / visuals." 1,643 Goabase members marked interest. Threads existed on electro-music.com (topic 19661, now 404), Hip Forums (thread 235351, login-walled) and IsraTrance.
+### More YouTube (appended to raw/youtube/ugs-videos.txt)
+- **Infected Mushroom @ Underground Sound 2** (Tollas McClane, uploaded July 2, 2006, 6,533 views): "Opening/Cities of the Future / Horrible video, good sound." A same-weekend upload.
+- **UGS 4**: fourteen more clips — djstone4u2's series (dated 8-17-2008; one shows a fire dancer), "IDENTITY @ UGS 4" ("Identity spinning main stage at Shawnee Cave August 15th, 8-9pm. Hard House at its best!"), three clips of The Dervish's set ("Thanks for coming out, B & T!"), bgadient13's "The Experience of friday night," zachstl "rave in a cave."
+- **UGS 5**: Bassnectar "Opening" and "Cozza Frenzy" clips; "Freakin Out" (Greg's Live Shows).
+- curtisthedestroyer.blogspot.com (July 12, 2009): UGS 5 billed as "Freak'in Out," "2 main stages, 4 sound camps"; the Diffuse Interreflection Camp sound camp was run by High Lucy Nation (HLN) productions out of Lincoln, Nebraska, which chartered a 40-seat bus ("$160ish with tax and ticket and roundtrip bus ticket") and booked artists from NE, CO, IL, AR, MN, KS and NM. A Reddit r/bassnectar thread asks "Did anyone else go to Underground Sound 5 at Camp Zoe back in '09? I miss Camp Zoe way more than Nectar."
