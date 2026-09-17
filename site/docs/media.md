@@ -26,7 +26,22 @@ Titles, uploader, upload date and view counts are as YouTube showed them on Sept
 
 ## Live recordings
 
-- **Cornmeal, Cave Fest 2006** — two full audience recordings on the Live Music Archive: April 21, 2006 (https://archive.org/details/crnml2006-04-21.flac16) and April 22, 2006 (https://archive.org/details/crnml2006-04-22.flac16), "Live at Shawnee Salt Petre Cave Amphitheatre."
+The Live Music Archive (archive.org/details/etree) holds eleven taper recordings made at the cave, which between them cover the Goodale era from its first season to its last big weekend:
+
+| Date | Artist | Event as tagged by the taper | Archive identifier |
+|---|---|---|---|
+| Apr 28, 2001 | David Nelson Band | Shawnee Cave, Murphysboro | `dnb2001-04-28.flac16` |
+| Aug 31, 2002 | JEB | Shawnee Endless Summer Fest, Saltpetre Cave | `jeb2002-08-31.sbd` |
+| Apr 21, 2006 | Cornmeal | Cave Fest 06, Shawnee Salt Petre Cave Amphitheatre | `crnml2006-04-21.flac16` |
+| Apr 22, 2006 | Cornmeal | Cave Fest 06 | `crnml2006-04-22.flac16` |
+| Sept 23, 2006 | The New Ledge Band | Cavestock III | `tnlb2006-09-23.sbd.flac16` |
+| Sept 2, 2007 | Euforquestra | Stripminesfest, Shawnee Cave Amphitheatre | `e2007-09-02` |
+| Sept 2, 2007 | Family Groove Company | Stripminesfest | `fgc2007-09-02` |
+| Oct 6, 2007 | Jaik Willis | Cavestock 4 | `jw2007-10-06.mix.flac` |
+| Oct 6, 2007 | The Super American Happy Fun Good Time Jamband | Cavestock 4 | `sahfgtjb2007-10-06..flac` |
+| Aug 30, 2008 | Ultraviolet Hippopotamus | Strip Mines Festival | `uvh2008-08-30.flac` |
+
+Each is at `https://archive.org/details/<identifier>`. No recordings of the electronic stages or of Underground Sound itself were found on the Live Music Archive, which is a jam-band tapers' collection; the DJ sets survive only as the YouTube clips below and as Brian Dervish's three Last.fm uploads (U Lounge 2006, Gamma Fest 2007, Cavestock 4).
 
 ## Videos
 

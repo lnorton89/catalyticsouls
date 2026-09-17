@@ -1,0 +1,513 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<title>Guest Book</title>
+  
+<LINK rel="stylesheet" type="text/css" href="/fs_img/builder/builder125/style.css">
+<style>
+.guestbookinput1{ width: 100%; }
+</style>
+</HEAD>
+<BODY id="body_guest_book">
+<!-- '"AWS"' -->
+<!-- Auto Banner Insertion Begin -->
+<div id=aws_345 align=center><style>
+  .mwsb{ background-color: cccccc; border-width: 1px; border-color: cccccc; border-style: solid; }
+  .mwst, .mwst a{ font-family: arial,sans-serif; font-size: 8pt; background-color: white; color: blue;}
+  </style>
+  <!------ OAS SETUP begin ------>
+  <img src="http://track.untd.com/s/oasrdb?pid=MWS&profile=,," width="1" height="1">
+  <SCRIPT LANGUAGE=JavaScript>
+  <!--
+  //configuration
+  OAS_url = 'http://cyclops.prod.untd.com/';
+  //OAS_sitepage values can be found in the excel spreadsheet showing position and pagenames.
+  OAS_sitepage = 'webservices/general'; //CHANGED
+  //OAS_sitepage = window.location.hostname + window.location.pathname;
+  // must list every Ad position on the page or they will not show.  Also you can't have line items that are not on the page or a impression will be counted even though it was actually shown. 
+  OAS_listpos = 'Bottom,Frame1,Frame2,Right,TopLeft,TopRight';
+  OAS_query = '&';
+  OAS_target = '_Blank';
+  //end of configuration
+  OAS_version = 10;
+  OAS_rn = '001234567890'; OAS_rns = '1234567890';
+  OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+  function OAS_NORMAL(pos) {
+    document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
+    document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>');
+  }
+  //-->
+  </SCRIPT>
+
+
+  <SCRIPT LANGUAGE=JavaScript1.1>
+  <!--
+  OAS_version = 11;
+  if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1))
+    OAS_version = 10;
+  if (OAS_version >= 11)
+    document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');//-->
+  </SCRIPT>
+
+  <SCRIPT LANGUAGE=JavaScript>
+  <!--
+  document.write('');
+  function OAS_AD(pos) {
+    if ((OAS_version >= 11) && (typeof OAS_RICH != 'undefined')) {
+      OAS_RICH(pos);
+    } else {
+      OAS_NORMAL(pos);
+    }
+  }
+
+  //-->
+  </SCRIPT>
+  <!-- start /fs_img/about_pop.txt -->
+<!-- The only pops this script can generate now are:
+			1. Pops from UOL
+			2. In-house popup
+-->
+<script language="JavaScript">
+<!--
+var isUS = "1";
+var keyword = escape("");
+var compname='freeservers';
+var ourExitPop=true;
+
+function popSlot(slot){
+    // OAS AD 'Frame1' begin
+    if(window.OAS_AD) OAS_AD('Frame1');
+    // OAS AD 'Frame1' begin
+}
+
+function checkPopunderCookie() {
+	var cookieVal = 0;
+	cookieExpDays = (1/24);  
+	var expDate = new Date();
+	expDate.setTime(expDate.getTime() + (86400000 * cookieExpDays));
+	cookieDate = ";Expires=" + expDate.toGMTString();
+	if (document.cookie) {
+		var cookieInfo = document.cookie.split(";");
+		for (i=0; i<cookieInfo.length; i++) {
+			cName = cookieInfo[i].split("=")[0];
+			if (cName.indexOf("pixelpop") >= 0) {
+				cookieVal = cookieInfo[i].split("=")[1];
+			}
+		}
+	}
+	cookieVal++;
+	document.cookie="pixelpopslot="+cookieVal+";path=/;"+cookieDate;
+ 	if (cookieVal== 1) { popSlot(1); }
+ 	if (cookieVal== 2) { popSlot(2); }
+ 	if (cookieVal== 3) { popSlot(3); }
+ 	if (cookieVal== 4) { popSlot(4); }
+ 	if (cookieVal== 5) { popSlot(5); }
+ 	if (cookieVal== 6) { popSlot(6); }
+ 	if (cookieVal== 7) { popSlot(7); }
+ 	if (cookieVal== 8) { popSlot(8); }
+}
+
+if (!window.sprs) checkPopunderCookie();
+
+if (!window.sprs && ourExitPop && (navigator.appName.indexOf('etscape')==-1)){
+	window.onunload=staycheck;
+	StayingOnSite=false;
+	DadLinkURLs="";
+	BabyLink="";
+	DadWindow=window.parent;
+	DadLinks=DadWindow.document.links;
+	DadHost="http://"+location.hostname;
+	DadWindow.document.onclick=linktellerDad;
+	document.onclick=linktellerThis;
+	function linkteller(){
+		while (EventTag.parentElement&&(EventTag.tagName!="A")){
+				EventTag=EventTag.parentElement;
+		}
+		if ((EventTag.tagName=="A")&&(!EventTag.target)){
+			if (EventTag.href.indexOf(DadHost)>-1){
+				StayingOnSite=true;
+			} else {
+				StayingOnSite=false;
+			}
+		}
+	}
+	function linktellerThis(){
+		EventTag=window.event.srcElement;
+		linkteller();
+	}
+	function linktellerDad(){
+		EventTag=DadWindow.event.srcElement;
+		linkteller();
+	}
+	function staycheck(){
+		if (StayingOnSite){
+		} else {
+		}
+	}
+}
+-->
+</SCRIPT>
+<!-- end /fs_img/about_pop.txt -->
+  <table cellpadding="0" cellspacing="0" width="980">
+
+    <!-- start: related resources -->
+    <tr>
+      <td colspan="3">
+        <table cellpadding="0" cellspacing="0" align="center" width="100%" class="mwsb">
+          <tr>
+            <td class="mwst" align="center">
+              <a href="http://fws1.com" class="mwst" target="_top">Free Web space and hosting from fws1.com</a>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <!-- end: related resources -->
+
+    <tr>
+      <td width="130">
+        <table cellpadding="0" cellspacing="0" width="130" style="margin-top:2px;">
+          <tr>
+            <td class="mwst" nowrap="1">
+              <a href="http://www.fws1.com"
+                ><img src="/cgi-bin/image/images/bannertype/100X22.gif" width="100" height="22" border="0"
+                ></a
+              ><a href="/cgi-bin/login" target="_blank"
+                ><img src="/cgi-bin/image/images/bannertype/login_chunkx.gif" width="30" height="22" border="0"
+                ></a
+             ></td>
+          </tr>
+        </table>
+        
+        <table class="mwsb" cellpadding="0" cellspacing="0" width="100%" style="margin-top:2px;">
+          <tr>
+            <td align="center">
+              <a href="/cgi-bin/path/signup?refcd=MWS_20040713_Banner_bar"
+              ><img src="http://nztv.prod.untd.com/RealMedia/ads/Creatives/ISP/MWS_Mkting_LSKYBUT_34_8023/128x64_get_a_free_website_01.gif" border="0"
+              ></a>
+            </td>
+          </tr>
+        </table>
+      </td>
+
+      <td>
+        <table cellspacing="0" class="mwsb" style="margin:2px;margin-bottom:0px;table-layout:fixed;"> 
+          <tr>
+            <td class="mwst" align="center" style="width:730px;"><SCRIPT><!--
+      var g = document.aws_multi_728; if (! g) { g = new Date(); g = g.getTime()%10000; document.aws_multi_728 = g; }
+      document.write('<IFRAME src="http://www.cavefest.fws1.com/cgi-bin/ad/inline?page=guest_book.html&pb=1&w=728&h=90&Rtime='+g+'" width="728" height="90" hspace="0" vspace="0" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" allowtransparency="true"></IFRAME>');
+      //--></SCRIPT><NOSCRIPT><IFRAME src="http://www.cavefest.fws1.com/cgi-bin/ad/inline?page=guest_book.html&pb=1&w=728&h=90&Rtime=9916" width="728" height="90" hspace="0" vspace="0" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" allowtransparency="true"></IFRAME></NOSCRIPT></td>
+          </tr>
+        </table>
+      </td>
+
+      <td width="120">
+        <table class="mwsb" cellpadding="0" cellspacing="0" width="120" style="margin-top:2px;">
+          <tr>
+            <td class="mwst" nowrap="1">
+ <!-- start: split -->
+ <script src=/fs_img/js/cookie.js></script><script src="/fs_img/banners/2008/120x24-split-test.js"></script>
+ <!-- end: split -->
+            </td>
+          </tr>
+        </table>
+        
+        <table class="mwsb" cellpadding="0" cellspacing="0" width="100%" style="margin-top:2px;">
+          <tr>
+            <td align="center">
+              <SCRIPT LANGUAGE=JavaScript><!--
+              OAS_AD('TopRight');
+              //--></SCRIPT>
+            </td>
+          </tr>
+        </table>
+      </td>
+
+    </tr>
+    <tr>
+      <td colspan="3" align="center">
+        <!-- search powered by yahoo --><table width="100%" cellpadding="0" cellspacing="0" class="mwsb" style="border-width:2px; margin-top:10px; background-color:white; height:10px;">  <tr valign="top">    <td align="center">      <form action="/cgi-bin/mysearch" style="margin:0;" target="_blank">      <span style="position:relative;top:-5px;font-family:arial;font-size:12px;color:#000;"><b>Search the Web</b></span>      <input type="hidden" name="type" value="endsite_box">      <input name="Keywords" accesskey="s" style="width:400px; height:21px; background:white; border:1px #A4ABB1 solid; font-family: arial, sans-serif; font-size: 10pt; color: #000000; position:relative; top:-6px;">      <input type="image" src="/fs_img/bannertype/yahoo/yahoo_sp_go.gif">      <img src="/fs_img/bannertype/yahoo/yahoo_sp3.gif" style="position:relative;top:4px;left:10px;">      </form>    </td>    <td width="5%"></td>  </tr></table>
+      </td>
+    </tr>
+  </table><DIV id=sideFrame 
+	style="MARGIN-TOP: 27px; RIGHT: 5px; WIDTH: 120px; COLOR: #ffffff; POSITION: absolute; BACKGROUND-COLOR: #CCCCCC; Z-INDEX: 10000; TEXT-ALIGN: right"><A 
+	href="javascript:void%20(sideFrameOff())"><IMG src="/fs_img/banners/xout.gif" 
+	border=0></A><BR>
+  <!------ OAS AD 'Right' begin ------>
+  <SCRIPT LANGUAGE=JavaScript>
+  <!--
+  OAS_AD('Right');
+  // -->
+  </SCRIPT>
+  <!------ OAS AD 'Right' end ------>
+  </DIV>
+	<SCRIPT>
+		origRightPadding=document.body.style.paddingRight;
+		document.body.style.paddingRight="130px";
+		function sideFrameOff(){
+			document.getElementById('sideFrame').style.display='none';
+			document.body.style.paddingRight=origRightPadding;
+		}
+		</SCRIPT>
+	</DIV></div><!-- Auto Banner Insertion Complete THANK YOU -->
+ 
+<DIV id="mainarea" class="mainarea"> 
+  <H1 id="page_title"> 
+    <!--begin page_title-->Guest Book<!--end page_title--> 
+  </H1> 
+  <DIV id="linksarea"><a class="menulinks" href="/index.html">Halloween&nbsp;at the Cave</a><span class='linksdivider'></span>
+<a class="menulinks" href="/index_9.html">CAVESTOCK&nbsp;5 SEPT 26 -28 TH</a><span class='linksdivider'></span>
+<a class="menulinks" href="/index_8.html">August&nbsp;29-31st  2008</a><span class='linksdivider'></span>
+<a class="menulinks" href="/photoalbum.html">View&nbsp;Albums From Previous Shows</a><span class='linksdivider'></span>
+<a class="menulinks" href="/contact_5.html">Coming&nbsp;Soon to a Cave Near You </a><span class='linksdivider'></span>
+<a class="menulinks" href="/contact_2.html">Wanted&nbsp;Experienced Stage Manager</a><span class='linksdivider'></span>
+<a class="menulinks" href="/whats_new_3.html">Help&nbsp;Save The Cave Volunteers Needed</a><span class='linksdivider'></span>
+<a class="menulinks" href="/contact_4.html">Forestry,&nbsp;Electrician, Help Needed</a><span class='linksdivider'></span>
+<a class="menulinks" href="/photo4.html">MAP</a><span class='linksdivider'></span>
+<a class="menulinks" href="/photo3_1.html">Pics&nbsp;420 Show 2007 </a><span class='linksdivider'></span>
+<a class="menulinks" href="/photo.html">Pics&nbsp;Cave Family </a><span class='linksdivider'></span>
+<a class="menulinks" href="/photo_2.html">Pics&nbsp;Find Yourself at the Cave 1</a><span class='linksdivider'></span>
+<a class="menulinks" href="/photo3.html">Pics&nbsp;Find Yourself at the Cave 2</a><span class='linksdivider'></span>
+<a class="menulinks" href="/photo_3.html">Pics&nbsp;Find Yourself Page 3</a><span class='linksdivider'></span>
+<a class="menulinks" href="/photo_4.html">Pics&nbsp;More 420 Show 2007 Pics</a><span class='linksdivider'></span>
+<a class="menulinks" href="/photo_6.html">Pics&nbsp;From Monsters and Underground Sound 3</a><span class='linksdivider'></span>
+<a class="menulinks" href="/photo_5.html">Pics&nbsp;From Summer Solstice</a><span class='linksdivider'></span>
+<a class="menulinks" href="/slide_show.html">Welcome&nbsp;To My Slide Show 2007</a><span class='linksdivider'></span>
+<a class="menulinks" href="/whats_new.html">Vendors&nbsp;Wanted</a><span class='linksdivider'></span>
+<a class="menulinks" href="/contact.html">BOOK&nbsp;THE CAVE</a><span class='linksdivider'></span>
+<a class="menulinks" href="/guest_book.html">Guest&nbsp;Book</a><span class='linksdivider'></span>
+<a class="menulinks" href="/index_7.html">Summer&nbsp;Cavefest &quot;08&quot; June 20th-21st</a><span class='linksdivider'></span>
+<a class="menulinks" href="/whats_new_4.html">Under&nbsp;Ground Sound Aug 15-17 &quot;08&quot;</a><span class='linksdivider'></span>
+<a class="menulinks" href="/index_6.html">Past&nbsp;Event Cavefest 4 ..The Original 420 Show April 18th, 19th and 20th 08&#39;</a><span class='linksdivider'></span>
+<a class="menulinks" href="/index_5.html">Past&nbsp;Event Freakenstein Oct 13th, 07</a><span class='linksdivider'></span>
+<a class="menulinks" href="/contact_1.html">Past&nbsp;Event CAVESTOCK 4   (Oct. 5th and 6th 2007)</a><span class='linksdivider'></span>
+<a class="menulinks" href="/whats_new_1.html">Previous&nbsp;Shows</a><span class='linksdivider'></span>
+<a class="menulinks" href="/index_1.html">The&nbsp;420 Show Past Event 2007</a><span class='linksdivider'></span>
+<a class="menulinks" href="/index_2.html">Past&nbsp;Event Monsters of Tribute 6/29/07 -6/30/07</a><span class='linksdivider'></span>
+<a class="menulinks" href="/index_3.html">Past&nbsp;Event Summer Solstice 6/22/07 -6/23/07</a><span class='linksdivider'></span>
+<a class="menulinks" href="/index_4.html">Past&nbsp;Event UndergroundSound 3  7/6/07 - 7/8/07</a><span class='linksdivider'></span>
+<a class="menulinks" href="/whats_new_2.html">Past&nbsp;Event Stripminesfest 3 Days of Live Music Aug. 31st -Sept. 2nd</a><span class='linksdivider'></span>
+<a class="menulinks" href="/favorite_links_3.html">Past&nbsp;Event New Riders of the Purple Sage Sept 30 2006 Band Links</a><span class='linksdivider'></span>
+<a class="menulinks" href="/favorite_links_2.html">Past&nbsp;Event Cave Stock 3 Band Links</a><span class='linksdivider'></span>
+<a class="menulinks" href="/favorite_links_1.html">Past&nbsp;Event New Grass Bloozegas Band Links</a><span class='linksdivider'></span>
+<a class="menulinks" href="/favorite_links.html">Passed&nbsp;Event August 19th 2006 Band Links</a><span class='linksdivider'></span>
+<a class="menulinks" href="/custom.html">Past&nbsp;Event Flier</a><span class='linksdivider'></span>
+<a class="menulinks" href="/photo_1.html">Past&nbsp;Event Fliers</a><span class='linksdivider'></span>
+<a class="menulinks" href="/photo_7.html">Photo</a></DIV> 
+  <H3 id="heading_1"> 
+    <!--begin heading_1-->Join The Fun Let Us Know You Were Here !!!<!--end heading_1--> 
+  </H3> 
+  
+  <!-- text here--> 
+  <DIV class="textarea"> 
+    <DIV class="textbox3">
+      <H3 id="heading_2"> 
+        <!--begin heading_2-->I can gather info about my site, my visitors, and my new friends by encouraging them to sign my guestbook.<!--end heading_2--> 
+      </H3> 
+      <DIV id="image_1" class="imageitem"> 
+        <!--begin image_1--><span id="image_1_image_wrapper">
+    
+</span><!--end image_1--> 
+      </DIV> 
+
+      <p>
+<!-- start: hack for integrating guestbook into sitebuilder via AJAX -->
+
+<!-- note: the guestbook file is created by the guestbook cgi itself. -->
+
+<div id="error1" style="display:none;">
+  <table align="center"><tr><td>
+  <style>
+ .uoError{ border: 2px #FF0000 solid; background: #FFFFFF; color: #FF0000; }
+ .uoSuccess{ border: 2px #339933 solid; background: #FFFFFF; color: #339933; }
+ .uoWarning{ border: 2px #999933 solid; background: #FFFFFF; color: #999933; }
+ .uoError td{ color: #FF0000; }
+ .uoSuccess td{ color: #339933; }
+ .uoWarning td{ color: #999933; }
+ </style><TABLE CELLSPACING=0 CELLPADDING=5 WIDTH=100%><TR><TD>
+  <TABLE CELLSPACING=0 CELLPADDING=2 WIDTH=100% CLASS="uoError">
+    <TR>
+      <TD><IMG SRC="/cgi-bin/image/images/warning_error.gif" style="margin:10px;"></TD>
+	<TD WIDTH=100%><B>There was an error&#58<BR>AJAX failed to complete load request.</FONT></B></TD>
+	</TR></TABLE></TD></TR></TABLE>
+  </td></tr></table>
+</div>
+
+<div id="ivn_guest">
+</div>
+
+
+<script type="text/javascript"><!--
+var c1 = ''
++'<table cellspacing="0" cellpadding="2" width="100%" style="border:4px #ff9 solid;background:#fff;">'
++'  <tr>'
++'    <td><img src="/cgi-bin/image/images/yellow_alert.gif" style="margin:10px;"></td> '
++'    <td class="textarea" style="background:#fff;color:#000;">'
++'      <b>This Section is a Placeholder</b>'
++'      <br>This section will be automatically filled with a form containing the information you request. '
++'      To enable this section you need to <span style="cursor:pointer;text-decoration:underline;color:#00f;" onclick="top.location.href=\'/cgi-bin/util/guest?caller=/cgi-bin/util/sitebuilder\';return false;">click here</span> '
++'      and answer a few simple questions you want your visitors to be asked.'
++'    </td>'
++'  </tr>'
++'</table>'
+
+var c2 = ''
++'<table cellspacing="0" cellpadding="2" width="100%" style="border:4px #f00 solid;background:#fff;">'
++'  <tr>'
++'    <td><img src="/cgi-bin/image/images/warning_error.gif" style="margin:10px;"></td> '
++'    <td class="textarea" style="background:#fff;color:#000;">'
++'      <b>Error: Guest Book Isn\'t Configured</b>'
++'      <br>It doesn\'t appear that the guestbook utility is enabled for this site. '
++'      If you are the webmaster, login and enable the utility by <a href="/cgi-bin/util/guest">clicking here</a>.'
++'    </td>'
++'  </tr>'
++'</table>'
+
+var c3 = ''
++'<table cellspacing="0" cellpadding="2" width="100%" style="border:4px #393 solid;background:#fff;">'
++'  <tr>'
++'    <td><img src="/cgi-bin/image/images/warning_success.gif" style="margin:10px;"></td> '
++'    <td class="textarea" style="background:#fff;color:#000;">'
++'      <b>Want to Change GuestBook Form?</b>'
++'      <br>The form and fields are managed through the guestbook utility directly.'
++'      If you want to change anything, <span style="cursor:pointer;text-decoration:underline;color:#00f;" onclick="top.location.href=\'/cgi-bin/util/guest\';return false;">click here</span>. '
++'      Optionally, advanced users can <span style="cursor:pointer;text-decoration:underline;color:#00f;" onclick="top.location.href=\'/cgi-bin/util/fm/fsguest.html\';return false;">edit</span> the fsguest.html file directly. '
++'    </td>'
++'  </tr>'
++'</table>'
+//--></script>
+
+
+<script type="text/javascript"><!--
+/* HACK - the latest incarnation of the fsguest.html file contains catcha code which doesn't execute when transported via innerHTML
+   duplicating that script here, and calling it manually on successful inclusion of the fsguest.html file. (Yuck!)
+*/
+
+function setAuthCode() {
+  c = new Array(8);
+  for(i=0;i<8;i++){c[i]=Math.round(Math.random()*26)+65}
+    authString = String.fromCharCode(c[0],c[1],c[2],c[3],c[4],c[5],c[6],c[7]);
+    document.fhguest.auth_image.value = authString+".gif";
+    document.auth_img.src = "/cgi-bin/authimage/"+authString+".gif";
+} 
+
+//--></script>
+
+
+<script type="text/javascript" src="/fs_img/js/ajax.js"></script>
+<script type="text/javascript"><!--
+AJAX._default_failure_handler = function(){ 
+  /* Um, do nothing, thanks!  Kinda annoying to have to hijack the ajax libs internal method this way to avoid their alert */ 
+  /* alert('Please don\'t alert my 404... it\'s a condition I\'m testing for, thank you.'); */ 
+}
+
+var edit = (location.href.match(/sitebuilder/)?1:0)
+
+window.AJAXsuccess = function(x){
+
+  /* we're sucking in a page that has inline JS which will need to be executed manually in this context */
+    x = x.replace(/\s+/g,' '); // JS replace chokes on "\n", throw 'em out first!
+    var sc = x.match(/<script[^>]*>.*?<\/script>/ig); // get the script section from the string
+    sc = sc.toString().replace(/<\/*script[^>]*>/ig,''); // couldn't get match to return code w/o the script tags, so kludging here
+    var x_mod = x.replace(/<script[^>]*>.*?<\/script>/ig,'');  // strip the script section from the string
+
+  /* show form? show edit message? show end user message? */
+    obj = document.getElementById('ivn_guest'); 
+    if(x.match(/\/cgi-bin\/guest/)){
+      /* guest appears to be installed */
+        obj.innerHTML = x_mod; // transport the string into our container
+
+        if(edit){ /* in edit mode */ obj.innerHTML += c3; }
+
+        //Error: Could not convert JavaScript argument = NS_ERROR_XPC_BAD_CONVERT_JS
+          //var scr = document.createElement("script"); scr.appendChild(sc);
+
+        //alternative - hack  
+          setAuthCode(); // manually call pre-copied js from the fsguest file after successful inclusion (yuck!)
+
+    }
+}
+
+window.AJAXfailed = function(x){
+  /* this most likely means the guestbook file didn't exist... which is perfectly fine. */
+
+  /* guest not installed */
+    obj = document.getElementById('ivn_guest'); 
+    if(edit){ /* in edit mode */ obj.innerHTML += c1; }
+    else{ /* in view mode */ obj.innerHTML += c2; }
+
+}
+
+window.main = function(){
+  var args = { 
+    success_handler: window.AJAXsuccess,
+    failure_handler: window.AJAXfailed,
+    simple: 1
+  };
+  AJAX.get('http://cavefest.fws1.com/fsguest.html',args);
+}
+
+document.onload = window.main()
+//--></script>
+
+<!-- end: hack for integrating guestbook into sitebuilder via AJAX -->
+
+
+      <H3 id="heading_3"> 
+        <!--begin heading_3--><!--end heading_3--> 
+      </H3> 
+      <DIV id="text_2" class="textitem"> 
+        <!--begin text_2--><span style="display:none;" id="hide_text_2"></span>
+<span id="text_2_wrapper">
+    <span id="text_2"><span><span><span><span><p align="center">&nbsp;</p></span></span></span></span></span>
+</span><!--end text_2--> 
+      </DIV> 
+    </DIV>
+  </DIV>
+  <DIV id="bottombuffer">&nbsp;</DIV>
+  <!-- text here--> 
+</DIV> 
+<DIV id="searcharea"> 
+</DIV> 
+<div style="display:none;"><script type="text/javascript" src="/fs_img/builder/shared/lib.js"></script></div>
+</BODY>
+</HTML>
+
+
+<!-- PrintTracker Insertion Begin -->
+<script src="/fs_img/js/pt.js" type="text/javascript"></script>
+<!-- PrintTracker Insertion Complete -->
+
+
+<!-- Google Analytics Insertion Begin -->
+<script type="text/javascript">
+<!--
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        var URL = gaJsHost + "google-analytics.com/ga.js";
+        document.write(unescape("%3Cscript src='" + URL + "' type='text/javascript'%3E%3C/script%3E"));
+
+        var hndl = window.setTimeout('StartTracking()',100);
+        function StartTracking(){
+          if( typeof(_gat) == 'object'){ 
+             window.clearTimeout(hndl);
+             var pageTracker = _gat._getTracker("UA-4601892-10");
+             pageTracker._setDomainName("none");
+             pageTracker._setAllowLinker(true);
+             pageTracker._initData();
+             pageTracker._trackPageview();
+          }else{
+             hndl = window.setTimeout('StartTracking()',100);
+          }
+        }
+-->
+</script>
+<!-- Google Analytics Insertion Complete -->
+
+<TABLE ALIGN=CENTER STYLE="clear:both"><TR><TD ALIGN=CENTER> <!------ OAS AD 'Bottom' begin ------> <SCRIPT LANGUAGE=JavaScript> if(window.OAS_AD) OAS_AD('Bottom'); </SCRIPT> <!------ OAS AD 'Bottom' end ------> </TD></TR></TABLE><script><!--
+function SiteStats_6056(){
+var t=new Date();
+var u='http://www.cavefest.fws1.com/cgi-bin/sitestats.gif?p='+escape(location.href)+';r='+escape(document.referrer)+';t='+t.getTime();
+document.writeln('<img src='+u+' width=1 height=1>');
+ }
+ SiteStats_6056();
+//--></script><noscript><img src=http://www.cavefest.fws1.com/cgi-bin/sitestats.gif?p=http%3A%2F%2Fwww.cavefest.fws1.com%2Fguest_book.html;r=-;t=6056; width=1 height=1></noscript>

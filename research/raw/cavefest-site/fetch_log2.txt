@@ -1,2 +1,17 @@
 280 jobs
 OK 20130821121305 http://cavefest.fws1.com 1617
+OK 20131203130013 http://www.cavefest.fws1.com:80/ 965
+OK 20150806044332 http://www.cavefest.fws1.com:80/ 967
+OK 20190611014055 http://cavefest.fws1.com/ 915
+OK 20230606231319 http://www.cavefest.fws1.com/ 923
+OK 20240804224547 http://cavefest.fws1.com/ 915
+OK 20240805103653 http://cavefest.fws1.com/ 915
+OK 20101013064728 http://www.cavefest.fws1.com:80/box_widget.html 718
+OK 20080415081153 http://www.cavefest.fws1.com:80/contact.html 1247
+OK 20080426001451 http://www.cavefest.fws1.com:80/contact.html 1293
+OK 20090301234946 http://www.cavefest.fws1.com:80/contact.html 1497
+OK 20090501142534 http://www.cavefest.fws1.com:80/contact.html 646
+OK 20101013064423 http://www.cavefest.fws1.com:80/contact.html 848
+OK 20080415081159 http://www.cavefest.fws1.com:80/contact_1.html 1468
+OK 20081015032916 http://www.cavefest.fws1.com:80/contact_1.html 1637
+OK 20090302000335 http://www.cavefest.fws1.com:80/contact_1.html 1718

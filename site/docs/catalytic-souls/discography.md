@@ -57,9 +57,17 @@ Discogs aliases: **Hugues**, **Zcarab**. Discogs profile: "Electronic Music Prod
 
 From a 2005 crew bio and the thesis: *Progression of Breaks* (2001), *TopCat presents TomFoolery* (2002), *NuSkool Compilation* (2003), *Fool in da Breaks* (2004), *Resolution* (2005), *USAmnesia* (2006; 1,000 professionally pressed copies given away as promotion, mastered for car listening, artwork of a turntable needle in homage to the Moonshine mix-CD era). None are on Discogs; if you have one, it may be the only documented copy.
 
+## Zcarab and Green Velvet (2013)
+
+Under the Zcarab alias, Hughes is co-credited with Green Velvet on "Move Your Body," track five of Green Velvet's *Unshakable* compilation (Relief Records, October 28, 2013), alongside Riva Starr, Gary Beck, Oliver Dollar, Sonny Fodera and others. It is the most widely distributed record with his name on it. Zcarab was his deep and tech house identity; two Zcarab mixes from early 2014 are on Mixcloud.
+
+## SoundCloud (2015–2017)
+
+The djtomfoolery SoundCloud account (Orlando, 19 tracks, about 1,000 followers) shows where his ear went after the label years: a breaks "ghost mix" of SourKrush featuring Nicole Sasser (2015); techno and acid sketches "160912 [connect Human Here]" and "160913 MT 4" (September 2016); then a run of dub and dancehall productions in January and April 2017: "Brukhall Rock" (his most-played track there, ~1,700 plays), "Run Like Water," "Fallen Ways," "Eek," "Babylon Is Falling," a deep house "Madness," and a drum & bass "April Foolery." A comment on his own unreleased "Difficult Situations Breaks Mix 2": "I almost forgot this one. I should probably work on releasing it!"
+
 ## dubTomFoolery (2018)
 
-A Bandcamp release, *listens back* (February 2018, Orlando): "hardware sequenced, generated and dub mixed in real time through miles of cable, tons of circuits, & a ghost 32 LE." The author of a thesis about the laptop's conquest of the DJ booth closed his recorded output on an all-hardware dub rig. His Facebook page's final post (February 27, 2021): "Still love using tapes."
+A Bandcamp release, *listens back* (February 6, 2018, Orlando, name-your-price, mastered at Hacienda Mastering): "Another glimpse into the adventures of the majestic dub ship Catalytic. Join us in this exploration of deep dub space. [for the heads] hardware sequenced, generated and dub mixed in real time through miles of cable, tons of circuits, & a ghost 32 LE. Bruce Swedien liked to quote Quincy Jones, Leave space for God to walk through the room. The mystery of dub is within this space." The "dub ship Catalytic" is the last appearance of the crew name in his work. The author of a thesis about the laptop's conquest of the DJ booth closed his recorded output on an all-hardware dub rig. His Facebook page's final post (February 27, 2021): "Still love using tapes."
 
 ## Raw data
 

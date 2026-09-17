@@ -43,6 +43,10 @@ title: Research
 | The DJ List rankings | Fan-vote site; "Top 5 breaks" and "#1 Acid Breaks" are self-reported bio claims. |
 | Industry statistics | Taken from RIAA, IMS, Pollstar, Billboard, Music Business Worldwide, NTIA, DOJ and court records; each is linked in the industry report. |
 
+## Second pass (September 16–17, 2026)
+
+A second, deeper pass added: the full text of The Southern's July 9, 2007 article and the lead of the July 10 follow-up; 57 YouTube clips across UGS 2 through 7 and Cavetronic; eleven Live Music Archive taper recordings from the cave (2001–2008); the Cavetronic festival of July 2009 (Electronic Assault, Clarksville TN), which shows the cave's electronic era outlasting Catalytic Souls by a year; Andy B's later duo BNasty (Carbondale, 2012–2015); Reperkushin's and Benji Ramsey's later trails; Hughes' 2013 Green Velvet co-credit as Zcarab, his 2016–17 SoundCloud output and the Bandcamp "dub ship Catalytic"; the 1,250-member Facebook fan group created the day after UGS 6; and three background scrapes of the Wayback Machine (the ~2,100 archived forum threads, the crew's and headliners' MySpace profiles, and Goodale's cavefest.fws1.com), whose reports are linked from this section as they land. The Internet Archive went offline twice more during this pass, which is why those scrapes ran as long retry loops. Reddit, TranceAddict, Dogs On Acid, Hip Forums and Facebook group content were unreadable from this environment; the Southern's 2005–2008 features render only headline and byline behind its paywall except for the two July 2007 news stories.
+
 ## What could not be found
 
 - The full text of the 2007 coverage of Underground Sound 3. The Southern Illinoisan's July 9 and 10, 2007 stories (at least four arrests; a security firm burning confiscated drugs and knives) were located by headline and lead paragraph only; the paywalled full text and any WSIL/KFVS broadcast segments were not.

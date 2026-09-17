@@ -21,7 +21,7 @@ def get(url, tries=40, log=None):
             err=repr(e)[:120]
         if log: log(f"  retry{i} {err} {url}")
         if 'refused' in err or '10061' in err:
-            time.sleep(20+random.random()*5)
+            time.sleep(3+random.random()*3)
         else:
             time.sleep(delay+random.random()*2)
             delay=min(delay*1.7, 90)
@@ -55,7 +55,7 @@ def fetch_list(rows, outdir, workers=3, logpath=None):
                 if idx[0]>=len(todo): return
                 ts,o=todo[idx[0]]; idx[0]+=1
             name=safe_name(ts,o)
-            url=f"https://web.archive.org/web/{ts}id_/{o}"
+            url=f"http://web.archive.org/web/{ts}id_/{o}"
             body,err=get(url, log=log)
             if body is None:
                 log(f"FAIL {name} {err}")
