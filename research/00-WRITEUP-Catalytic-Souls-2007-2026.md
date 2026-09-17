@@ -249,7 +249,7 @@ A second research pass, run after the first draft, changed or sharpened the foll
 
 ## 9. Open questions and how to close them
 
-1. **The rest of the catalyticsouls.com archive.** The Internet Archive was offline for most of this session and came back near the end; the About, Artists, News, Events, Music Shop and past-events pages (2005–2008) and the 2011 `/ugs/` site were recovered (see `raw/wayback/pages/` and `raw/wayback-agent/`). Still unread: about 2,100 archived forum threads, including "Stabbing at the cave???" (June 2007); `myspace.com/catalyticsouls`; the full run of `cavefest.fws1.com` (Goodale's site, 2006–2013, the best primary source on the venue's decline).
+1. **What the archive does not hold.** The site pages (2005–2011), the entire forum for 2005–2006 (2,089 captures, 1,325 posts; `raw/wayback-forum/report.md`) and Goodale's `cavefest.fws1.com` (324 captures) were all recovered in the second pass. Not captured anywhere: forum threads from 2007–2008 (so "Stabbing at the cave???" and any UGS 3, UGS 4 or Camp Zoe discussion are lost), the crew's MySpace profiles, and the Caveman Experience pages at `intergruv.net/caveman/`.
 2. **The full 2007 coverage.** The Southern's July 9–10, 2007 stories were located by headline and lead only; the full text is paywalled, and any WSIL/KFVS segments are not online.
 3. **Why Catalytic Souls and Goodale split before Cave Fest 2009**, and what specifically "got out of hand." The people who know are Wade, Parrish, Goodale (if living), Andy B, and whoever ran Digital-Glitch's 2011 stage.
 4. **An obituary for Tom Hughes.** None surfaced by search. Full Sail, Auburn's alumni office, or his family in Alabama would have one.

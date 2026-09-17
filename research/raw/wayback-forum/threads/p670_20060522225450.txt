@@ -1,0 +1,40 @@
+# Software
+forum: Discussion (f=2)  topic_id: 162  pages: 
+capture: 20060522225450  wayback: https://web.archive.org/web/20060522225450/http://www.catalyticsouls.com/forums/viewtopic.php?p=670
+posts on this page: 4
+
+--- post #657 | Jayzer | Tue Oct 11, 2005 11:44 pm | subj: Software
+    [Evolving
+Joined: 04 Sep 2005
+Posts: 11
+Location: Murphysboro IL]
+Couple of questions for any of you that write music or play live with software. What programs do you use?
+I have FL Studio right now and I have been looking at Ableton Live. I want to be able to mix a song seamlessly and tweak it while I'm playing, do I need an interface to do that or is my PC good enough?
+Any other insight you have about software, thanks a bunch.
+
+--- post #660 | yitic | Wed Oct 12, 2005 10:20 pm | subj: 
+    [Evolving
+Joined: 28 Jan 2005
+Posts: 15
+Location: Johnston City Il]
+I've heard a lot of good things about ableton live, if I could afford it, that's what i'd get. I would imagine you'd have to at least get a sound card with more than one output so you can cue your songs up. I never used any live mixing software besides pcdj red, which is limited but serves it's purpose. As far as sound editing and production, I use Acid Pro 4 and Sound Forge. Acid is loop based, and is great for just making seamless backup mixes, which I think is similar to fruity loops, which i haven't tried yet. I'm not a software expert, so i don't know how helpful i am.
+_________________
+2 pdt 6000's, djx700, Denon DN-S5000, AA DCDpro300mkII
+
+--- post #661 | Jayzer | Wed Oct 12, 2005 10:45 pm | subj: 
+    [Evolving
+Joined: 04 Sep 2005
+Posts: 11
+Location: Murphysboro IL]
+It's a start, thanks for your input. What's this red product you're talking about? Do you just use it to mix and cue, or what exactly does it do?
+I already have software to write sample-based material on. What I'm looking for now is something to record live music with, and software to DJ tracks out of my PC. Just a mixer would be enough, but any extras are cool too.
+
+--- post #670 | yitic | Fri Oct 14, 2005 7:16 pm | subj: 
+    [Evolving
+Joined: 28 Jan 2005
+Posts: 15
+Location: Johnston City Il]
+What kind of DJing do you do? I worked at a bar, and just had to fade the songs, not mix, so PCDJ red was fine for that, but if you are doing any kind of beatmatching or anything more complicated than just playing one song after another, I would recommend something else. You could do it on PCDJ red, but it's a pain. PCDJ Red just looks like a dual deck cd player on your screen. You can use it to play music from your computer. It has all the basics like cue and pitch adjust. It feeds the music out of two channels so you can hook them up to two channels on your mixer and do all the cueing, fading and mixing from there.
+I haven't used a lot of recording software; just Cool Edit and Sound Forge and they seem to work great. My friend works at a radio station, and they record all their commercials with Cool Edit. Just make sure, if you're recording from your mixer, you have a line input on your sound card. Mic inputs don't like line level signals..... Very Happy 
+_________________
+2 pdt 6000's, djx700, Denon DN-S5000, AA DCDpro300mkII

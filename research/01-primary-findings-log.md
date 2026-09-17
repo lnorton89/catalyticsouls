@@ -131,3 +131,9 @@ Compiled September 16, 2026. These are findings I gathered directly (not via the
 ### campzoe.com (live): UGS 5 page with full bill and price ladder ($40 by Apr 15 rising to $70 by Aug 13; VIP $60 to $100; gate $110/$100/$70; RV $25) and the "Freak'in Out" poster; UGS 6 poster.
 
 ### MySpace: myspace.com/catalyticsouls survives as "Tom Foolery (catalyticsouls)" with 2,502 connections and migrated "Classic" albums titled UGS 3, UGS 4 photos by C Thru iT Photography, CatalyticSouls @ Stoney Lonesome, DEMF 08, Halloween at the Cave, Random Shots; the photo files themselves are dead placeholders. benjiramsey lists Indianapolis. The Wayback Machine holds no captures of the crew's MySpace profiles.
+
+### Forum scrape, final tally
+- All 2,089 archived thread captures were fetched and rendered (research/raw/wayback-forum/threads/); 1,325 unique posts; capture dates 2005 (3), May 22 2006 (661), Nov 6–7 2006 (1,362), 2007 (2). No 2007–2008 topic pages exist in the archive; the "Stabbing at the cave???" thread is lost. Top posters: Tangent 133, tomfoolery 113, K_I_T 100, Guest 76, Dj Derve 38, zesty 38, Reperkushin 28, SpaceHead 27, thcsyndicate 24, dragonflybee 18, teknohippie 14, yitic 14. Full report: research/raw/wayback-forum/report.md.
+- Tangent (Atlanta area) to a Kansas attendee after UGS 2 (July 13, 2006): "the people that throw it aren't making much (if any) money off of it. They do it for the vibe/scene and personal satisfaction of throwing a great party that brings joy to lots of people."
+- High Lucy Nation (Lincoln, NE), July 15, 2006, thanking the UGS 2 crew for "a weekend of beauty, shock, amazement and overall high quality production"; the same crew ran the Diffuse Interreflection sound camp at UGS 5 in 2009 and chartered a bus from Lincoln.
+- The Caveman Experience website redirected to intergruv.net/caveman/ (captures Oct 2003, May and Aug 2004); those pages were not fetched before the archive went down.

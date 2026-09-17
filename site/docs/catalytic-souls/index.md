@@ -60,6 +60,8 @@ catalyticsouls.com was live by February 4, 2005 as a phpBB portal with eight reg
 
 Recovered page text is in the repository under `research/raw/wayback/pages/` and `research/raw/wayback-agent/`.
 
+The whole archived run of the forum, 2,089 page captures holding 1,325 unique posts by about 250 people, was recovered and read for this wiki (report in the repository at `research/raw/wayback-forum/report.md`). The core was small: Tangent, an Atlanta-area regular who moderated in all but name (133 posts); Tom (113, plus most of the 76 "Guest" posts before he registered); K_I_T, a St. Louis drum & bass DJ (100); Derve, zesty, Reperkushin and SpaceHead (27 to 38 each). Around them, riders from Tampa, Michigan, Kansas and Nebraska, and a Mt. Vernon teenager who wrote after UGS 2 that "you will see me playing the hardcore beats on the main stage at the cave one day." The forum's economics were stated once, by Tangent, to a Kansas carload asking why it couldn't happen quarterly: "the people that throw it aren't making much (if any) money off of it. They do it for the vibe/scene and personal satisfaction." Nothing from 2007 or 2008 was archived; the board's last sign of life is an index page from June 2007.
+
 The crew's social presence outlived the website: a public Facebook group, "UnderGround Sound Festival UGS7--- Fan Page," was created on August 16, 2010, the day after UGS 6 ended, and still has about 1,250 members in 2026, with an "Andy" as admin and no recent posts. It is the most likely place to find the people who were there.
 
 ## The company

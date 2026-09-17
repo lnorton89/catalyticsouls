@@ -80,7 +80,8 @@ export default defineConfig({
           { text: 'Primary findings log', link: '/research/findings-log' },
           { text: 'Agent report: the crew', link: '/research/agent-report-crew' },
           { text: 'Agent report: the venue', link: '/research/agent-report-venue' },
-          { text: 'Agent report: the industry', link: '/research/agent-report-industry' }
+          { text: 'Agent report: the industry', link: '/research/agent-report-industry' },
+          { text: 'Forum scrape report (2005–06)', link: '/research/forum-report' }
         ]
       }
     ],
