@@ -1,0 +1,56 @@
+---
+title: Underground Sound 1–7
+---
+
+# Underground Sound (UGS), 2005–2011
+
+Catalytic Souls' flagship: an all-night, multi-stage electronic camping festival billed as the "Midwest Freak Fest" and, by 2009, "the nation's premier electronic dance music camp fest." Seven editions, three venues, then nothing. Its own 2011 copy: "Since 2005, tens of thousands of people have been a part of the UnderGround Sound experience."
+
+| # | Dates | Venue | Headliners (documented) | Notes |
+|---|---|---|---|---|
+| 1 | June 17–19, 2005 | Shawnee Salt Petre Cave, Murphysboro IL | George Acosta (Ultra Records, *The Lost World* CD release), US Craze w/ MC Sharpness | "Midwest Freakfest." 18+ with liability waivers; 150+ artists on eight stages (thesis; one attendee counted nine); $40; ~1,200 vs. 1,500–2,000 projected; Disco Donnie as talent buyer; large loss. |
+| 2 | June 30–July 2, 2006 | Shawnee Cave | Infected Mushroom (live, 3-piece), Electric Skychurch (live), SwitchFocus, John B, DJ Monk, Kid Icarus, Elephantronic, Riot Squad | "Back 2 the Freak" / "EDM Massive." 18 billed acts; four stages, each run by a regional crew; sound from Milwaukee (30×7 ft main wall); full-color laser from Memphis on scrim and cliffs; 40 ft video screen; one noise complaint. Crew DJs Andy B → TomFoolery → Unkl Ryan opened Friday night to 1,000+. |
+| 3 | July 6–8, 2007 | Shawnee Cave | Uberzone, Aphrodite, Jackal & Hyde, Skylab2000, DJ Funk, Reid Speed, Keith MacKenzie | "The freaks come out." 100+ DJs; VJs Benji Ramsey and 8-Bit; fire troupe. **At least four arrests** (The Southern, July 9–10, 2007); the "Techno Rave" news cycle the thesis describes; three heat-related ambulance calls. |
+| 4 | Aug 15–17, 2008 | Shawnee Cave | Hallucinogen (live), Shpongle (DJ set), Skazi, Jackal & Hyde, Evol Intent, Tommie Sunshine, DJ ESP, Baby Anne | "Circus of Freaks." Will-call $40 / shipped $47.50 in June, $45/$52.50 by July, $60 at the door. "Hosted by CatalyticSouls." **Last edition at the cave.** |
+| 5 | Aug 14–15, 2009 | Camp Zoe, Salem MO | Bassnectar, Astral Projection, Donald Glaude, EOTO, Fort Knox Five, Tech Itch, Dylan, Jackal & Hyde, Woody McBride, Keith MacKenzie, Noise Floor Crew, Trash Yourself!, TomFoolery, Andy B, The Dervish; VJ Benji Ramsey, Dr. Spook A/V | "A new location full of its own natural wonders." $70/$100; site capacity 10,000; first theme camps ("Magic Carpet Ride"). |
+| 6 | Aug 13–15, 2010 | Camp Zoe | Rabbit in the Moon 3D, Excision, Bro Safari, EOTO, Evol Intent live, VibeSquaD, Eskmo, Heyoka, Zilla, Charles Feelgood, Angel Alanis, Lynx & Janover, Menace to Sobriety, Woody McBride, TomFoolery, Andy B, Tekfro, Tommy "I.C." Gunns | "Freakadelic" / "Crossing the Event Horizon"; Jamie Janover hosting for Nassim Haramein's Resonance Project. Gate passes $80–$140; RV $25. **Camp Zoe raided by the DEA Nov 1, 2010.** |
+| 7 | July 21–24, 2011 | Hogrock Ranch, Cave-In-Rock IL | Shpongle ("Shpongletron Experience"), Christopher Lawrence, DJ Dan, Bassbin Twins, Liquid Stranger, EPROM, Starkey, Michal Menert, DJ Shiftee, Dara, Nigel Richards, Noel Sanger, Lo IQ?; crew: TomFoolery, Andy B, Tommy I.C. Gunns, Derve, Reperkushin, Tekfro | "The Freaky Tiki." Five stages. Presale $65 (Feb) rising to $115 (July); gate $140/$120/$80; 18+. The Gathering of the Juggalos site. **Last edition found anywhere.** CatalyticSouls LLC dissolved Sept 23, 2011. |
+
+Sources for each row are in the [findings log](/research/findings-log), the [crew agent report](/research/agent-report-crew) and the [venue agent report](/research/agent-report-venue).
+
+![Underground Sound 6 "Freakadelic" flyer, Camp Zoe, August 2010](/flyers/ugs6.jpg)
+
+## The cave years (2005–2008)
+
+**UGS 1 (2005).** The thesis tells this one as a near-disaster: booked at the top of the market with Disco Donnie's access to talent, promoted through a wall of hostility from the Chicago promoter who had fronted the previous year's Caveman Experience, undermined by a friend leaking plans to a rival Great Lakes camp fest, and short by hundreds of paying heads. "Checks had to be written to some of the artists because we ran out of money on hand." Disco covered it, his Los Angeles show the same weekend having done well. "This preserved my name allowing, perhaps committing, me to continue throwing events." The archived site lists the weekend as June 17–19, 2005, with George Acosta's *The Lost World* CD release as the marquee booking.
+
+**UGS 2 (2006).** The thesis's centerpiece and the edition the author considered the artistic success: fewer stages, harder curation ("only those whose audience seemed like they would travel and enjoy a dirty outdoor event"), professional sound, the laser names, the video wall, and the crew's own DJs in the sunset slots. The Shroomery thread from that spring gives the fan's-eye view: "it is in a fucking cave, the scenery is going to be fucking amazing," from someone driving eight hours. Electric Skychurch's own Facebook page still carries a "live at the Shawnee Cave Amphitheater 2006" post. The Southern previewed it June 29, 2006 with 18 billed acts.
+
+**UGS 3 (2007).** The biggest bill at the cave by artist count. A St. Louis photo blog preserved the lineup and 266 images. This is the edition that drew the coverage the thesis complains about, and the crew agent found it: The Southern Illinoisan, July 9 and 10, 2007 (Adam Testa), reported at least four arrests during the weekend, and a private security firm, Five-"O," "contracted by cave owner Bob Goodale and the promoters of the Underground Sound Festival," said it had burned drugs and knives confiscated from about 15 people. The thesis's version: "Several arrests were reported after the last Underground Sound event; however none were made at the venue," three ambulance calls "mostly as a result of the extreme heat," and a sheriff's department complaining on air about not being allowed to roam the property. A June 2007 thread on the crew's own forum was titled "Stabbing at the cave???"; its content wasn't recovered.
+
+**UGS 4 (2008).** Simon Posford's two projects, Hallucinogen and Shpongle, plus Skazi, repeating the Gamma Fest booking from Arkansas the previous August, with Evol Intent, Tommie Sunshine, Baby Anne and Woody McBride's DJ ESP underneath. It was the last Underground Sound at the cave, and the crew's site was never updated after it. By spring 2009 Catalytic Souls had withdrawn from Cave Fest "due to unspecified issues" (a Rollitup thread), and Shane Wade's later account of the era ("got out of hand... city leaders had a bad taste in their mouths") is the only explanation on the record. See [The Cave](/cave/).
+
+## Camp Zoe (2009–2010)
+
+Camp Zoe was a 330-acre former children's camp in the Missouri Ozarks, owned by Jimmy Tebeau of The Schwag (a Grateful Dead tribute band) and home to Schwagstock since 2004. Moving there meant more capacity (10,000), real infrastructure, and a landlord who understood camping festivals. The 2009 lineup was the strongest the series ever fielded; the 2010 lineup shows the bass-music wave (Excision, Bro Safari, Evol Intent, Eskmo) arriving in force, alongside the Resonance Project's unified-field presentation, a sign of where the "conscious" end of the festival scene was heading. Camp Zoe's own site still lists both editions.
+
+Eleven weeks after UGS 6, on November 1, 2010, the DEA and the Missouri Highway Patrol raided Camp Zoe after a four-year investigation. Tebeau was charged with "maintaining a drug-involved premises," the crack-house statute, the same law the RAVE Act extended to promoters and that the thesis spent two pages attacking. Because prosecutors could never show he sold anything, the charge was that he knowingly allowed sales on his land. He pleaded, served 30 months, paid $50,000, and the land was taken by civil forfeiture. It is now Echo Bluff State Park. Camp Zoe's website still says "NO EVENTS SCHEDULED FOR 2011."
+
+The thesis had quoted the ACLU on Utah in 2005: "No promoter or venue can successfully put on concerts if they never know when or why the cops will end an event." Five years later, the venue his series had moved to was ended permanently.
+
+## Hogrock (2011) and the end
+
+Hogrock Ranch in Cave-In-Rock, on the Ohio River, had hosted the Gathering of the Juggalos since August 2007, the same Insane Clown Posse event the thesis blames for priming Southern Illinois media in 2007. The crew's announcement, recovered from its 2011 site, is the last substantial thing Catalytic Souls published and reads like a coda to the thesis:
+
+> Throughout the years we have seen the evolution of bass music, festivals and society. The past few years have been filled with more innovation and diversity than we have seen in nearly a decade... The team here at CatalyticSouls and all of the associated individuals and crews that make UnderGround Sound are ready once again with renewed ideas and creativity to bring you our most exciting show yet. We are once again taking to a new location. We have found a beautiful spot with a friendly land-owner looking forward to hosting all of the beautiful people of our scene. We will be back home in the forests of southern Illinois. This time directly overlooking the Ohio River... Grab your grass skirts and Hawaiian shirts and get ready for the world's largest electronic tiki party.
+
+Note "bass music," not "breaks," and "a friendly land-owner," written nine months after the last landlord's property was seized. Five stages; Shpongle back for a third time; RV spots reserved by emailing Tom Foolery directly. The promotional line: "an independent festival for independent thinkers, dancers, creators and artists that brought EDM legends and emerging artists to thousands of revelers deep in the woods of the Midwestern United States."
+
+No eighth edition exists on Resident Advisor, Last.fm, JamBase, The Untz, forums or blogs, and the crew's own site was still advertising UGS 7 in January 2012. The Florida LLC was administratively dissolved two months after the festival. That is the end of the series, as far as the public record shows.
+
+## What UGS was, in retrospect
+
+- **A regional camping rave that survived the 2000s trough.** The thesis is right that by 2007 there were very few legal all-night multi-day electronic camp-outs left in the Midwest. UGS existed in the gap between the late-1990s warehouse era and the 2010s festival boom (Electric Forest launched in 2011, the year UGS ended).
+- **A psytrance and breaks outlier.** Infected Mushroom, Hallucinogen, Shpongle three times, Skazi, Astral Projection, and a breaks-DJ founder made it unlike the house-and-techno Midwest.
+- **A crew-of-crews model.** From UGS 2 on, satellite stages were handed to regional crews responsible for their own talent, an approach that resembled the theme-camp structure that arrived formally at Camp Zoe.
+- **Bookended by law enforcement.** Arrests and a sheriff's complaint at the cave in 2007; the Camp Zoe seizure in 2010. Both fit the thesis's argument better than its author could have wanted.

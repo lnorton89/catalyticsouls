@@ -1,0 +1,100 @@
+OK 2005-home 20050204034141 http://www.catalyticsouls.com:80/
+FAIL0 2005-portal0 HTTP Error 404: NOT FOUND
+FAIL0 2005-portal1 HTTP Error 404: NOT FOUND
+FAIL0 2005-portal2 HTTP Error 404: NOT FOUND
+FAIL0 2005-portal3 HTTP Error 404: NOT FOUND
+FAIL0 2005-portal4 HTTP Error 404: NOT FOUND
+OK 2005-ugs 20050522225201 http://catalyticsouls.com:80/undergroundsound/
+OK 2006-home 20060415124210 http://www.catalyticsouls.com:80/index.php?
+OK 2006-about 20060522222934 http://www.catalyticsouls.com/index.php?c=1&a=about
+OK 2006-allevents 20060522222937 http://www.catalyticsouls.com/index.php?c=1&a=view_all_events
+OK 2006-pastevents 20060522233030 http://www.catalyticsouls.com/index.php?c=1&a=view_past_events
+OK 2006-event23 20060522222803 http://www.catalyticsouls.com/index.php?c=1&a=show_event&e=23
+OK 2006-event25 20060522222917 http://www.catalyticsouls.com/index.php?c=1&a=show_event&e=25
+OK 2006-event26 20061106204454 http://www.catalyticsouls.com/index.php?c=1&a=show_event&e=26
+OK 2006-forumindex 20060629131723 http://www.catalyticsouls.com:80/forums/index.php
+OK 2007-artists 20070704121223 http://www.catalyticsouls.com:80/index.php?c=1&a=artists
+OK 2007-event30 20070704121403 http://www.catalyticsouls.com:80/index.php?c=1&a=show_event&e=30
+OK 2007-events 20070614013735 http://catalyticsouls.com:80/events.php?
+OK 2008-home 20080611000825 http://www.catalyticsouls.com:80/index.html
+FAIL0 2008-about <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+OK 2008-artists 20080610075737 http://www.catalyticsouls.com:80/artists.html
+OK 2008-events 20080611000810 http://www.catalyticsouls.com:80/events.html
+OK 2008-news 20080611000830 http://www.catalyticsouls.com:80/news.html
+OK 2008-musicshop 20080610072236 http://www.catalyticsouls.com:80/musicshop.html
+OK 2008-downloads 20080611000804 http://www.catalyticsouls.com:80/downloads.html
+OK 2011-ugs 20110202200501 http://www.catalyticsouls.com/ugs/
+OK 2011-ugs-index 20110325103830 http://www.catalyticsouls.com:80/ugs/index.php?
+OK 2012-ugs-event61 20120501135941 http://www.catalyticsouls.com:80/ugs/index.php?option=com_eventlist&view=details&id=61&Itemid=9
+OK 2009-home 2009 http://www.catalyticsouls.com/
+FAIL0 2010-home <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+FAIL0 2012-home HTTP Error 404: Not Found
+FAIL1 2005-portal0 HTTP Error 404: NOT FOUND
+FAIL1 2005-portal1 HTTP Error 404: NOT FOUND
+FAIL1 2005-portal2 HTTP Error 404: NOT FOUND
+FAIL1 2005-portal3 HTTP Error 404: NOT FOUND
+FAIL1 2005-portal4 HTTP Error 404: NOT FOUND
+OK 2008-about 20080611000759 http://www.catalyticsouls.com:80/about.html
+OK 2010-home 2010 http://www.catalyticsouls.com/
+FAIL1 2012-home HTTP Error 404: Not Found
+FAIL2 2005-portal0 HTTP Error 404: NOT FOUND
+FAIL2 2005-portal1 HTTP Error 404: NOT FOUND
+FAIL2 2005-portal2 HTTP Error 404: NOT FOUND
+FAIL2 2005-portal3 HTTP Error 404: NOT FOUND
+FAIL2 2005-portal4 HTTP Error 404: NOT FOUND
+FAIL2 2012-home HTTP Error 404: Not Found
+FAIL3 2005-portal0 HTTP Error 404: NOT FOUND
+FAIL3 2005-portal1 HTTP Error 404: NOT FOUND
+FAIL3 2005-portal2 HTTP Error 404: NOT FOUND
+FAIL3 2005-portal3 HTTP Error 404: NOT FOUND
+FAIL3 2005-portal4 HTTP Error 404: NOT FOUND
+FAIL3 2012-home HTTP Error 404: Not Found
+FAIL4 2005-portal0 HTTP Error 404: NOT FOUND
+FAIL4 2005-portal1 HTTP Error 404: NOT FOUND
+FAIL4 2005-portal2 HTTP Error 404: NOT FOUND
+FAIL4 2005-portal3 HTTP Error 404: NOT FOUND
+FAIL4 2005-portal4 HTTP Error 404: NOT FOUND
+FAIL4 2012-home HTTP Error 404: Not Found
+FAIL5 2005-portal0 HTTP Error 404: NOT FOUND
+FAIL5 2005-portal1 HTTP Error 404: NOT FOUND
+FAIL5 2005-portal2 HTTP Error 404: NOT FOUND
+FAIL5 2005-portal3 HTTP Error 404: NOT FOUND
+FAIL5 2005-portal4 HTTP Error 404: NOT FOUND
+FAIL5 2012-home HTTP Error 404: Not Found
+FAIL6 2005-portal0 HTTP Error 404: NOT FOUND
+FAIL6 2005-portal1 HTTP Error 404: NOT FOUND
+FAIL6 2005-portal2 HTTP Error 404: NOT FOUND
+FAIL6 2005-portal3 HTTP Error 404: NOT FOUND
+FAIL6 2005-portal4 HTTP Error 404: NOT FOUND
+FAIL6 2012-home HTTP Error 404: Not Found
+FAIL7 2005-portal0 HTTP Error 404: NOT FOUND
+FAIL7 2005-portal1 HTTP Error 404: NOT FOUND
+FAIL7 2005-portal2 HTTP Error 404: NOT FOUND
+FAIL7 2005-portal3 HTTP Error 404: NOT FOUND
+FAIL7 2005-portal4 HTTP Error 404: NOT FOUND
+FAIL7 2012-home HTTP Error 404: Not Found
+FAIL8 2005-portal0 HTTP Error 404: NOT FOUND
+FAIL8 2005-portal1 HTTP Error 404: NOT FOUND
+FAIL8 2005-portal2 HTTP Error 404: NOT FOUND
+FAIL8 2005-portal3 HTTP Error 404: NOT FOUND
+FAIL8 2005-portal4 HTTP Error 404: NOT FOUND
+FAIL8 2012-home HTTP Error 404: Not Found
+FAIL9 2005-portal0 HTTP Error 404: NOT FOUND
+FAIL9 2005-portal1 HTTP Error 404: NOT FOUND
+FAIL9 2005-portal2 HTTP Error 404: NOT FOUND
+FAIL9 2005-portal3 HTTP Error 404: NOT FOUND
+FAIL9 2005-portal4 HTTP Error 404: NOT FOUND
+FAIL9 2012-home HTTP Error 404: Not Found
+FAIL10 2005-portal0 HTTP Error 404: NOT FOUND
+FAIL10 2005-portal1 HTTP Error 404: NOT FOUND
+FAIL10 2005-portal2 HTTP Error 404: NOT FOUND
+FAIL10 2005-portal3 HTTP Error 404: NOT FOUND
+FAIL10 2005-portal4 HTTP Error 404: NOT FOUND
+FAIL10 2012-home HTTP Error 404: Not Found
+FAIL11 2005-portal0 HTTP Error 404: NOT FOUND
+FAIL11 2005-portal1 HTTP Error 404: NOT FOUND
+FAIL11 2005-portal2 HTTP Error 404: NOT FOUND
+FAIL11 2005-portal3 HTTP Error 404: NOT FOUND
+FAIL11 2005-portal4 HTTP Error 404: NOT FOUND
+FAIL11 2012-home HTTP Error 404: Not Found
+DONE pending=6
