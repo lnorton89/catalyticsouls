@@ -1,0 +1,569 @@
+FRIENDIDS: 10064828, 101062747, 106155974, 110335660, 11647499, 118096545, 12222035, 123310764, 12337249, 1238296, 130162545, 132770430, 134457314, 136115941, 1452715, 145416554, 14964779, 15110763, 163029450, 165061455, 167354067, 167687844, 1684699, 171480052, 172582982, 179056163, 1814861, 18466218, 188142, 201609900, 202928, 20330307, 203449360, 211490780, 213599510, 2271514, 228377593, 22863382, 258696142, 2642403, 27810028, 278525782, 284812859, 2921562, 30605110, 30686497, 3069758, 331135208, 3402875, 34038081, 37433800, 37646108, 38210808, 40631018, 41810293, 4406718, 44487407, 44917762, 46456646, 46823980, 48617041, 53282335, 54819501, 62921637, 63523893, 64032330, 64705973, 6802184, 71711279, 741274, 7481467, 74886746, 7617759, 7965337, 81595229, 87753924, 89542422, 9723219
+PROFILE_LINKS:
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=10064828
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=20330307
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=30605110
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=165061455
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=741274
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=44487407
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=123310764
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=2642403
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=9723219
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=167687844
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=2921562
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=22863382
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=11647499
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=15110763
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=40631018
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=46456646
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=27810028
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=46823980
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=64705973
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=37433800
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=89542422
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=1684699
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=202928
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=167354067
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=74886746
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=6802184
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=64032330
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=1238296
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=188142
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=106155974
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=172582982
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=12337249
+  http://comment.myspace.com/index.cfm?fuseaction=user.viewProfile_commentForm&friendID=37646108&MyToken=1bdae435-27ce-4508-95fb-a23c2774b238
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=211490780
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=12222035
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=331135208
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=203449360
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=163029450
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=7481467
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=110335660
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=48617041
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=118096545
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=4406718
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=3402875
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=171480052
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=179056163
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=1452715
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=54819501
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=87753924
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=30686497
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=3069758
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=145416554
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=62921637
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=2271514
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=213599510
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=41810293
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=38210808
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=101062747
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=34038081
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=258696142
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=201609900
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=7617759
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=81595229
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=278525782
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=132770430
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=71711279
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=130162545
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=1814861
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=53282335
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=14964779
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=284812859
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=44917762
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=228377593
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=63523893
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=18466218
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=134457314
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=136115941
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=7965337
+
+=== TEXT ===
+MySpace.com - tomfoolery - Ft. Myers, Tampa, St. Louis, Makanda, Florida - Breakbeat / Electro / Psychedelic - www.myspace.com/djtomfoolery
+User Shortcuts: Send Message Forward to Friend Add to Friends Add to Favorites Block User Add to Group Rank User Instant Message
+0);" action="http://sads.myspace.com/index.cfm?" method=get>
+People MySpace Web Music Video
+Home | Browse | Search | Invite | Film | Mail | Blogs | Favorites | Forum | Groups | Events | MySpaceTV | Music | Comedy | Classifieds
+Music Videos |
+Directory |
+Search |
+Top Artists |
+Shows |
+Music Forums |
+Music Classifieds |
+Artist Signup
+tomfoolery
+Breakbeat / Electro / Psychedelic
+"Beat Syncopater"
+Ft. Myers, Tampa, St. Louis, Makanda, Florida
+United States
+Profile Views:
+76319
+Last Login:
+4/18/2008
+View My:
+Pics
+| Videos
+Contacting
+tomfoolery
+MySpace URL:
+http://www.myspace.com/djtomfoolery
+tomfoolery: General Info
+Member Since
+11/12/2005
+Band Website
+catalyticsouls.com
+Band Members
+What Tool song are you?
+Your Life Path Number is 7
+Your purpose in life is to find truth and meaning
+You are very spiritual, and you are interested in the mysteries of life.
+You are quite analytical and a great thinker. You have many theories and insights.
+A life of solitude is perfect for you. You need time to think and do things your way.
+In love, you are quite charming. You attract many with your confidence and wit.
+While you enjoy being alone, sometimes you take it to an extreme.
+You can become too isolated, shutting out loved ones and friends.
+Express yourself a little bit more, and you'll be surprised where it takes you!
+What Is Your Life Path Number?
+I already knew my number but thought I'd post it for you all to see. I was told I should put more inot my myspace because people want to know more about me.
+Your Element Is Water
+A bit of a contradiction, you can seem both lighthearted and serious.
+That's because you're good at going with the flow - but you also are deep.
+Highly intuitive, you tune in to people's emotions and moods easily.
+You are able to tap into deep emotional connections and connect with others.
+You prefer a smooth, harmonious life - but you can navigate your way around waves.
+You have a knack for getting people to get along and making life a little more peaceful.
+What's Your Element?
+Your results:
+You are Superman
+Superman
+85%
+Green Lantern
+70%
+Supergirl
+64%
+Iron Man
+60%
+Batman
+55%
+The Flash
+55%
+Wonder Woman
+54%
+Hulk
+50%
+Spider-Man
+45%
+Robin
+44%
+Catwoman
+35%
+You are mild-mannered, good,
+strong and you love to help others.
+Click here to take the "Which Superhero are you?" quiz...
+Influences
+UberZone, Simply Jeff, FACTORe, Agent K, DJ Dan, Paul van Dyke, Carl Cox, Q'bert, Herbie Hancock, Afrika Bambaata, Aphrodite, Electric Skychurch, Rabbit in the Moon, Soul Sonic Force, Deep Sky, Grateful Dead, Phish, WideSpread Panic, Bob Dylan, Pink Floyd, Skinny Puppy, Tool, The Beatles, Boards of Canada, Prefuse, String Cheese, STS9, Collective (Un)Consciousness, Nuclear Evolution, the Rainbow Body, Sound Healing, I could go on and on, but this should give some idea of the range we are working with here.
+Sounds Like
+Broken beats and a whole lotta bass: Lawgiverz, Far Too Loud, Meat Katie, Icey, Uberzone, FACTORe, Baby Anne, Deekline, Wizard, Agent K, Simply Jeff, Rabbit in the Moon, Jackal and Hyde, Hybrid, Chris Fortier, Electric Skychurch, Deepsky, Rogue Element, Aquasky, Breakfastaz, DJ Fixx, Autobots, Keith McKenzie, Rick West. Breakbeats NuSkool. plod step, tear out, drum & breaks, psy breaks, electro breaks. BIG ROOM BREAKS!
+Record Label
+CatalyticSouls Recordings
+Type of Label
+Indie
+Upcoming Shows
+( view all )
+Apr 18 2008
+8:00P
+CaveFest!!!
+MURPHYSBORO
+Apr 25 2008
+8:00P
+tentative
+philidelphia, Pennsylvania
+Apr 26 2008
+9:00P
+SIN Foam Party
+CARBONDALE
+May 3 2008
+8:00P
+IF in the woods... mo
+Boonville, Missouri
+May 28 2008
+8:00P
+Pure Panic DEMF Breaks Party
+detroit, Michigan
+Aug 15 2008
+8:00P
+UGS 4! w/Shpongle Skazi Hallucinogen Jackal & Hyde Evol Intent VJ Benji Ramsey + more
+MURPHYSBORO
+Oct 3 2008
+8:00P
+CaveStock 5
+murphysboro, Illinois
+tomfoolery's Latest Blog Entry
+[ Subscribe to this Blog ]
+how to see the performances you want in your town
+( view more )
+psy-breaks
+( view more )
+103.7 Radio Interview
+( view more )
+Foolery 420 2007 mix
+( view more )
+New friend requests
+( view more )
+[ View All Blog Entries ]
+About tomfoolery
+GDF4l1f3
+TomFoolery - CatalyticSouls REC / Modulated NY - Breaks
+TomFoolery was an early adopter of the hard and dark Nu-Skool sound in the States. Often found tagging trance, breaks and jungle amongst friends, early Nu-Skool records seemed to capture the best of all worlds. By 2002 TomFoolery was bringing in records direct from the UK to showcase a sound not yet picked up by domestic distributors and buyers. Heads were quickly turned when growling bass flooded over the funky beats. Relocating to the mid-west in 2004, Tomfoolery brought this hard dark breaks sound tempered through the Dirty South jungle scene with him. Early on some promoters confused the demos with jungle and placed him playing dark rooms alongside of acts like Phantom 45. Once again the sound was met with awe and wonder as “breaks” had long been considered a dirty word in much of the area. Mingling with the revered house and techno scenes of the Midwest had it’s influence as well. The sounds and mixing style continued to evolve incorporating these house and techno influences into an exciting nu sound for the dance floor. What emerged was a sound dark and dirty enough to satisfy even the roughest while blended with a sophistication appreciated in the big room. In the studio TomFoolery’s pension for analog and classic hardware leads to a production technique long forgotten by many although still breathing strong in the psy scene. His determination and years of studio work have led to a series of releases by TomFoolery including work with cutting edge UK breaks producer Transformerman and multiple projects with legendary Florida breaks producer DJ Fixx. Today TomFoolery’s sound continues to represent the cutting edge of the worldwide breaks collective.
+Beyond his national touring schedule as a DJ, TomFoolery is founder of CatalyticSouls, a crew responsible for hosting underground electronic and live band festivals in multiple states including: the Cave Stock, CaveFest, and UnderGround Sound Series as well as Gamma Fest featuring Shpongle and Hallucinogen, EarthTones and numerous one off events. TomFoolery has done extensive scholarly research and study of electronic music and the rave scene under the direction of Phylis Johnson and Todd Herreman as part of his masters studies at SIUC as well as instructing audio engineering and production labs for RT and MCMA students. Journeying into the metaphysical realm, TomFoolery continues to study the practice of sound in healing, chakras, energy flows, and kundalini.
+Here’s the obligatory has played with section:
+TomFoolery’s explosive DJ career has led him to work with and perform along side of some of the world’s leading artists including: Shpongle, Hallucinogen, Electric Skychurch, Infected Mushroom, Ferry Corsten, George Acosta, DJ Craze, Baby Anne, Kaskade, Woody McBride, Nigel Richards, Doc Martin, The Breakfastaz, DJ Lee, Evol Intent, Phantom 45, FACTORe, Agent K, John B, SkyLab 2000, Bassnectar, Hive, The Rogue Element, DJ Liquid, Swamp, Monk, Kid Icarus, Gein, Micro, Dylan, Kaos, Reid Speed, Annalyze, Elite Force, Dylan Rhymes, Burufunk, Bluetech, Rick West, Spree and ADB, Simon Apex, Devine & Emily Play, Paul Anthony, and General Malice.
+"Its amazing to me sometimes to look around and realize I am sitting amongst those that have been so influential to me."
+Sets for download:
+2007 407 Internet only promo
+http://catalyticsouls.com/music/tomfoolery_407.mp3
+TomFoolery Hurt
+Far Too Loud Dis Da Rasta
+Noa Nils Stereo Style
+General Midi Never Gonna Stop the Show (Dylan Rhymes Mix)
+Dark Mode Sirloin
+Rektchords Street Slut
+J Meca Zilly Zozzage (Deibeat Mix)
+Koma & Bones Speed Freak
+Rob le Pitch Twisted (Tom Real & Rogue Element Mix)
+TomFoolery Defiance (Transformerman Remix)
+Bassrock Old Skool Karnage (Baobinga Mix)
+Slyde We Love It
+2007 420 mix CaveFest promo (internet only)
+http://catalyticsouls.com/music/foolery420mix.mp3
+Foolery 4/20 mix:
+Unkown Raggamuffin white label
+Rektchordz ft Profit The Realness (Specimen A RMX)
+Unkown Dread Warriors
+Pedro More Tequila (Diverted RMX)
+Saria Ladies (Viro & Rob Analyze RMX)
+Cut & Run Ground Crew
+CTRL-Z Chemistry
+Agent K Black Haze (Aquasky RMX)
+TomFoolery GulfCoast
+Paradox 3000 Disco Inferno
+Kem I Rip It (Peter Paul RMX)
+DreadZone Lion Shirt (Drum Monkey Mix)
+Mix CDs
+2001 Progression of Breaks
+2002 TopCat presents TomFoolery
+2003 NuSkool Compilation
+2004 Fool in da Breaks
+2005 Resolution
+2006 USAmnesia
+2007 407 Internet only promo
+2007 420 mix CaveFest promo (internet only)
+2008 Voyage of the NU
+I never kept a proper log so there are some that have been forgotten or otherwise left unmentioned, if you remember any of these feel free to send me a note.
+Published Singles 2007:
+TomFoolery vs DJ Fixx "The Coast"
+TomFoolery "Atomic Rock"
+TomFoolery "Dance Sucka"
+TomFoolery "Defiance" Transformerman UK Remix
+Published Singles 2008:
+TomFoolery "Mindwrecker"
+TomFoolery "Electro Rasta"
+TomFoolery "Control"
+TomFoolery "Control" DJ Fixx VIP
+Upcoming Releases include:
+TomFoolery "Jedi Mind"
+TomFoolery "Be Good to the Grime" Electro mix
+TomFoolery vs Mitch Mitchem "Charly Says" cover
+For the most current releases search Beatport.com for TomFoolery
+Events performed at:
+03/30/2008 08:00 AM - Essential Breakfast Miami, Florida
+03/27/2008 08:00 PM - Tastemakers of Breaks WMC @ Jazid Miami, Florida
+03/15/2008 08:00 PM - Shamrox!! Jackson, Mississippi
+02/28/2008 08:00 PM - Fusion @ G-Bar Tampa, Florida
+01/12/2008 08:00 PM - STL Psychotronic 2 St. Louis, Missouri
+11/17/2007 08:00 PM - Instinct STL St Louis, Missouri
+11/03/2007 08:00 PM - Terminal Groove 2 Springfield, Missouri
+10/13/2007 04:00 PM - Shawnee Cave Murphysboro, Illinois
+10/05/2007 08:00 PM - Shawnee Cave Murphysboro, Illinois
+09/15/2007 08:00 PM - DJ Fixx/TomFoolery Jackson, Mississippi
+09/08/2007 08:00 PM - MechaZilla Camp Zoe, Missouri
+09/01/2007 08:00 PM - Camped Out Wisconsin Milwaukee, Wisconsin
+08/18/2007 08:00 PM - Eureka Music Park Eureka Springs, Arkansas
+07/28/2007 08:00 PM - Forecastle @ The Belvedere Louisville, Kentucky
+07/14/2007 08:00 PM - Whirling Dervish New Orleans, Louisiana
+07/07/2007 08:00 PM - UnderGround Sound Murphysboro, Illinois
+07/03/2007 08:00 PM - Sonotheque Chicago Chicago, Illinois
+06/22/2007 08:00 PM - www.FIVEDC.com Washington DC, District of Columbia
+05/27/2007 08:00 PM - DEMF Breaks Party Detroit, Michigan
+05/12/2007 08:00 PM - Expo 5 Louisville, Kentucky
+04/27/2007 08:00 PM - Earthtones Eureka Springs, Arkansas
+04/20/2007 08:00 PM - CaveFest Murphysboro, Illinois
+04/06/2007 08:00 PM - Club Anything Milwaukee, Wisconsin
+03/17/2007 08:00 PM - Irish Spring Jackson, Mississippi
+03/16/2007 08:00 PM - John B + TomFoolery Memphis, Tennessee
+03/15/2007 08:00 PM - John B + TomFoolery + Karizma St. Louis, Missouri
+02/10/2007 08:00 PM - J Scott G, Bassnector, TomFoolery St. Louis, Missouri
+01/04/2007 08:00 PM - John B + TomFoolery Lincoln, Nebraska
+12/30/2006 08:00 PM - Rogue Element + TomFooelry Amphitheater Tampa, Florida
+11/04/2006 08:00 PM - Barn Yard Boogie 5 Peoria, Illinois
+10/28/2006 08:00 PM - Vampire Stripper Sluts The Venue New Orleans, Louisiana
+10/20/2006 08:00 PM - Safari w/BuruFunk Eureka Springs, Arkansas
+10/13/2006 08:00 PM - Friday the 13th Jackson, Mississippi
+10/08/2006 08:00 PM - PNI 3 Indianapolis, Indiana
+09/23/2006 08:00 PM - Shawnee Cave CAVESTOCK3 Murphysboro, Illinois
+09/15/2006 08:00 PM - Annalyze + TomFoolery Lexington, Kentucky
+09/02/2006 08:00 PM - TomFoolery Jackson, Mississippi
+08/19/2006 08:00 PM - Roots Jackson, Mississippi
+07/28/2006 08:00 PM - Port Cape Cape Girardeau, Missouri
+07/22/2006 08:00 PM - TomFoolery Louisville, Kentucky
+07/01/2006 05:00 PM - UnderGround Sound Shawnee Cave Murphysboro, Illinois
+06/18/2006 12:00 PM - Party in the Park St. Louis, Missouri
+06/15/2006 09:00 PM - Side Door St Louis, Missouri
+06/03/2006 08:00 PM - Beatwave New Albany, Indiana
+05/11/2006 09:00 PM - Skyy Box at the Sports Blast Carbondale, Illinois
+05/06/2006 08:00 PM - TomFoolery Port Cape Cape Girardeu, Missouri
+04/27/2006 09:00 PM - Skyy Box at the Sports Blast Carbondale, Illinois
+04/21/2006 05:00 PM - CaveFest Shawnee Salt Petre Cave Murphysboro, Illinois
+04/15/2006 08:00 PM - Heavyweight Stylez Saint Louis, Missouri
+03/31/2006 08:00 PM - TomFoolery/Unkl Ryan Wilmington, North Carolina
+03/25/2006 08:00 PM - TomFoolery Terre Houte, Indiana
+02/24/2006 08:00 PM - Sky Box at the Sports Blast Carbondale, Illinois
+Unfortunately this is as far back as my records go. However, 2005 included short tours with FACTORe as well as Evol Intent.
+Background from Yahoo search result
+tomfoolery's Friend Space (Top 32)
+tomfoolery has 10998
+friends.
+CatalyticSouls Presents CaveFest April 18-20!!!
+unklryan
+dj Andy b
+The Dervish
+ChrisGrant
+♫MissTigॐr♫
+Rhythm Rancher
+FACTOR e
+Roxanne
+..:Memphis P. (1FAM):..
+DJ FIXX
+Dj Derve
+visual artist benji ramsey
+Tangent
+Redi Jedi
+Tommy 'IrishCream& #39; Gunns
+Dragon
+~ DJ - KaRiZmA~
+Transformer Man
+Defined Perception
+emilyPLAY>
+DJ Zak Davis
+skylab2000
+skazi asher
+ilevel
+Shawn Harvick
+Miss J
+Gigantor
+Proxxy
+Janky
+Mr. Black
+Jason Sterling
+View All of tomfoolery's Friends
+tomfoolery's Friends Comments
+Displaying 50
+of 1740
+comments
+( View All | Add Comment )
+DAVID WEED
+Apr 18 2008 4:22 PM
+HI NEW RELEASE !!!!!!
+THANKS FOR YOUR SUPPORT
+DAVID
+Scry Turtle
+Apr 18 2008 3:18 PM
+Hi,
+Thanks for the add!
+Yvette (Gidget)
+Apr 18 2008 12:51 PM
+Hey....... don't be fooled Tom ;). hee hee *Enjoy your crazy weekend bud...we are all a little crazy anyway! Have fun! XOXO Gidget ;p
+MARIJUANA MUSIC AWARDS!
+Apr 18 2008 10:04 AM
+CLICK TO ENTER 2008 GLOBAL MMA!
+CLICK TO ENTER 2008 AMERICAN MMA!
+DJ Brakez @ Mandarin Rooftop Lounge TONIGHT!!!
+Apr 18 2008 9:11 AM
+*** FRIDAY April 18th ***
+*** SATURDAY April 19th ***
+nervegasm
+Apr 18 2008 4:23 AM
+CHEERS!
+Mr. Shy
+Apr 18 2008 1:12 AM
+thx for adding my page! :) most of my songs are available on iTunes.. comment me, let me know what u think :)
+thank you AGAIN... and spread that "Shy Love" to your friends! :)
+- mshy
+Dj Tracy
+Apr 17 2008 11:54 PM
+Hi!
+Great tracks...seriously!
+*!~8 pm LIVE!Tommy Gunns! Cave Fest 08~!*
+Apr 17 2008 10:26 PM
+Soo.. Tommy finally made a cd *No thank you to Mr. Andy B :) j/k!* Anyways, its sounds pretty good. I want you to have one. Let me know what needs to be tweaked.. I know a better recording, that's obvious..I love all the tracks though.. Hope you do! See you tomorrow! Call me if you guys need an extra hand! XOXO
+DJ Steady B. Indiana's Dirtiest DJ
+Apr 17 2008 6:22 PM
+element a440
+Apr 17 2008 5:35 PM
+Hey thanks for listening! We hope you continue to enjoy! - Kat
+Halem Albright
+Apr 17 2008 4:22 PM
+Thank you for the add. Sounds great!
+Extension Chords
+Apr 17 2008 3:13 PM
+Thanks for the Add! See you on the road.
+Yvette (Gidget)
+Apr 17 2008 11:20 AM
+Hi! Glad we are buds, thx! Have a ROCKIN' week ;)! Peace... XOXO Gidget
+Furthest From The Star
+Apr 17 2008 9:00 AM
+thanks for the friend request!
+AYIESHA WOODS
+Apr 17 2008 7:22 AM
+Trash Rockets
+Apr 17 2008 7:14 AM
+Thanks for the request. Great electro sonics....ya'll must dream electric sheep. We love to put a knife in the electrical outlet and a finger into Marshall amps and light things up occasionally. Thanks for hookin’ up with our torqued-up sonic TeXXXas mayhem and flamethrower twang.
+Respectfully,
+TRASH ROCKETS
+Seth Nichols
+Apr 17 2008 6:59 AM
+hey there, thanks for the add!
+btw, if you are doing events, and looking for talent, I would love to play for you. you can check some of my mixes here
+Trioizm
+Apr 17 2008 4:25 AM
+Thanks for the ADD! checkout more live Chicago drum N bass artists at IZM Records RESPEKT
+djozee
+Apr 17 2008 3:22 AM
+Hey Hey...
+Here is my new Breaks Mix...
+Check it out...
+DOWNLOAD
+Keep on Rollin..
+Cheers DJ Ozee
+Rinsin Sound
+Apr 16 2008 11:28 PM
+thanks for the request...whats good? ez
+CatalyticSouls Presents CaveFest April 18-20!!!
+Apr 16 2008 9:36 PM
+Hey everyone we still have flyers to get out. It would be especially peach if someone could pass some out around campus. The student center during lunch hours is a great spot to hit and a good way to meet people. We would be happy to meet up to give out some fliers or leave some someplace for people.
+Cave flood rumor: NO the cave is not flooded. It did not flood during all the floods here the past few months and is not likely to flood anytime soon. The cave is on a higher elevation than most of the area and opens up into a long deep valley into the national forest. It has waterfalls and streams that quickly channel the water away. The only issue we have ever seen is with ruts forming in the roadways. The owner has a tractor with a large blade attachment to remedy this fairly quickly in the event it occurs. For those of you that were at our Oteil show during the worst storms of the year, you know it was not an issue and the cave can easily shelter the crowd under its massive mouth which shelters roughly the area of a football field. Also since the Oteil CaveFest rains two years ago many truckloads of gravel have been added through the parking lot to make getting into and out of the the areas that were once muddy much easier.
+Promotions: Thanks to everyone that has been helping and continues to help. Tickets have sold faster this year than for any previous CaveStock or CaveFest. This is going to be a great event. Because they are still selling strong online and it appears so many people are last minute buying right now we are going to continue the groovetickets. com sales until Thursday night. However please do not show up early as we will not have will call ready until the official gates open at 4pm. CaveStaff and some vendors are already set up. I just got back from the cave myself and it is already full of beautiful vibes floating through the valley
+-Tom
+Pomeroy
+Apr 16 2008 9:03 PM
+Hey Guys-
+Thanks for the add!
+wosko/faulds
+Apr 16 2008 8:19 PM
+. thank you for the request. peace and love. wosko/faulds.
+Eleven Carrots
+Apr 16 2008 6:27 PM
+:) double smilies :)
+J Rock (Drinking chocolate Milk)
+Apr 16 2008 6:07 PM
+tom·fool·er·y [tom-foo-luh-ree] Pronunciation Key - Show IPA Pronunciation
+–noun, plural -er·ies.
+1. foolish or silly behavior; tomfoolishness.
+2. a silly act, matter, or thing.
+[Origin: 1805–15; tomfool + -ery]
+—Synonyms 1. foolishness, silliness, horseplay, monkeyshines.
+I solved the mystery making me your greatest fan from the south!
+Dj OnDaMiKe
+Apr 16 2008 3:17 PM
+Predistin Profit !
+Apr 16 2008 1:43 PM
+yep a glass master on a mission. I like your beats! reminds me of shrooms!
+Nexus 3067
+Apr 16 2008 11:25 AM
+Cool music!
+Thanks for the add!
+check out www. xeemusic. com for my free albums.
+MAXWITHMAX Free Ep
+Apr 16 2008 9:08 AM
+:D thanx for the req! Good sound here !
+Id Obelus
+Apr 16 2008 3:44 AM
+thanks for the add buddy!
+DJ BURNOUT
+Apr 15 2008 11:09 PM
+MY ALL NEW MIX EAR TRAUMA 7 IS OUT NOW!!!! JUST GO TO MY BLOG TO DOWNLOAD THAT MIX AND ALL MY OTHER MIXES FOR FREE!!!!!
+Absolute Perfection Vacations
+Apr 15 2008 9:27 PM
+Exceeding ALL your Travel & Non-Profit needs!!! Thanks for the ADD!!! :o)
+ChrisGrant
+Apr 15 2008 8:59 PM
+YAY!! thanks bro, appreciated. Hey good luck on your show this weekend as well. I actually know a few cats from around the area up here going down for it, you should do well ;)
+Sarah Kathryn
+Apr 15 2008 8:56 PM
+Well, what's up with ya? When are you going to come to Jxn?
+Sarah Kathryn
+Apr 15 2008 8:50 PM
+Hello love! What's up with you? I added you, but I've never said hi...HI! Hope you're doing well. Hit me back :) Peace & love-
+- JeNn -
+Apr 15 2008 7:59 PM
+Funny Pictures and Myspace Layouts at pYzam. com
+AudioTone Recordings
+Apr 15 2008 7:42 AM
+Holla @ me
+[omalley is a razorblade]
+Apr 14 2008 11:44 PM
+heard about your little near-brush with possible earthly elimination!!! glad your ok!!! cheers to everything between sheer luck and devine intervention! =)
+<-Mad Psyentist->
+Apr 14 2008 11:37 PM
+Things are Bumpin in Eugene! Thanks for asking!
+Charisma Pins [.com]
+Apr 14 2008 11:05 PM
+thx for the request!
+now accepting orders!
+WIN FREE PINS! Check out the weekly pin drawing and referall program !
+~R
+Apr 14 2008 10:28 PM
+U ever out on the west coast? Try to make it over here :)
+Janelle
+Apr 14 2008 10:12 PM
+Thanks much:)
+blue phone to god
+Apr 14 2008 9:31 PM
+hello thanks for the request....
+great traxxx you have here
+Eleven Carrots
+Apr 14 2008 9:23 PM
+..
+..
+..
+..
+Thanks for the add and the support, i really dig your album cover. :)
++++@pril+++
+Apr 14 2008 9:08 PM
+cant wait to see you at cavefest!
+Art vs. Mayhem
+Apr 14 2008 9:00 PM
+DirtySouthEDM.net
+Apr 14 2008 5:33 PM
+Thanks for stopping by today...
+Spirit of the Tribes 2008
+Apr 14 2008 12:27 PM
+MAJA AND THE GYPSY TRIBE PRESENT
+SPIRIT OF THE TRIBES 8
+24, 25, 26, 27 APRIL 2008
+It all happens at
+War Memorial Auditorium
+800 NE 8th Street Fort Lauderdale, FL
+Fort Lauderdale , FL 33304
+(954) 828-5380
+for more info go to:
+http://www. majanile. com/spirit08. html
+DJ Reverend Rob
+Apr 14 2008 11:27 AM
+no purple rain, but i do got a whitelabel of when doves cry
+Add Comment
+About | FAQ | Terms | Privacy Policy | Safety Tips | Contact MySpace |
+Advertise | MySpace International | MySpace Latino
+©2003-2008 MySpace.com. All Rights Reserved.

@@ -1,0 +1,11 @@
+SOURCE: http://www.cavemanexperience.com:80/index.php?page=tickets&quot
+CAPTURE: 20040805193252
+FETCHED: https://web.archive.org/web/20040805193252id_/http://www.cavemanexperience.com:80/index.php?page=tickets&quot
+
+The Caveman Experience 2
+The Caveman Experience 2
+ Click here to enter http://www.intergruv.net/caveman/index.php?page=tickets"
+
+--- IMAGES ---
+--- LINKS ---
+http://www.intergruv.net/caveman/index.php?page=tickets"

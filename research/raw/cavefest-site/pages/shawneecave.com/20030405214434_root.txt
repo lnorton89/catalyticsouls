@@ -1,0 +1,21 @@
+SOURCE: http://shawneecave.com:80/
+CAPTURE: 20030405214434
+FETCHED: https://web.archive.org/web/20030405214434id_/http://shawneecave.com:80/
+
+Index of /
+Index of /
+ Name Last modified Size Description
+ Parent Directory 05-Apr-2003 09:11 - 
+ stats/ 01-Apr-2003 00:55 -
+
+--- IMAGES ---
+/icons/blank.gif | alt=     
+/icons/back.gif | alt=[DIR]
+/icons/dir.gif | alt=[DIR]
+--- LINKS ---
+?N=D
+?M=A
+?S=A
+?D=A
+/
+stats/

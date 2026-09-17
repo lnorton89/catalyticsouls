@@ -1,0 +1,9 @@
+SOURCE: http://www.shawneecave.com/
+CAPTURE: 20210125033432
+FETCHED: https://web.archive.org/web/20210125033432id_/http://www.shawneecave.com/
+
+For full functionality of this site it is necessary to enable JavaScript. Here are the instructions how to enable JavaScript in your web browser.
+
+--- IMAGES ---
+--- LINKS ---
+https://www.enable-javascript.com/

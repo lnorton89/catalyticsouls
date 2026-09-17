@@ -33,25 +33,25 @@ def digest_file(f, maxlen=900):
 if __name__=='__main__':
     sys.stdout.reconfigure(encoding='utf-8')
     os.makedirs('digest',exist_ok=True)
+    NL=chr(10)
     done=set(l.strip() for l in open('read_done.txt',encoding='utf8')) if os.path.exists('read_done.txt') else set()
-    maxchars=int(sys.argv[1]) if len(sys.argv)>1 else 3000
-    newly=[]
     seenf='seen_content.txt'
     seen=set(l.strip() for l in open(seenf,encoding='utf8')) if os.path.exists(seenf) else set()
+    maxchars=int(sys.argv[1]) if len(sys.argv)>1 else 3000
+    newly=[]; printed=0
     for f in sorted(glob.glob('threads_html/*.html')):
         b=os.path.basename(f)[:-5]
         if not os.path.exists('digest/'+b+'.md'):
             open('digest/'+b+'.md','w',encoding='utf8').write(digest_file(f))
-        if b not in done:
-            out=open('digest/'+b+'.md',encoding='utf8').read()
-            m=re.search(r'\| t=(\d*) \|',out); m2=re.search(r'^-- #(\d+) ',out,re.M)
-            key=f"{m.group(1) if m else ''}:{m2.group(1) if m2 else ''}:{out.count(chr(10))}"
-            if key in seen or (m2 is None):
-                newly.append(b); continue
-            seen.add(key); open(seenf,'a',encoding='utf8').write(key+'
-')
-            print(out[:maxchars]+(' [TRUNC]\n' if len(out)>maxchars else ''))
-            newly.append(b)
+        if b in done: continue
+        out=open('digest/'+b+'.md',encoding='utf8').read()
+        newly.append(b)
+        m=re.search(r'\| t=(\d*) \|',out); m2=re.search(r'^-- #(\d+) ',out,re.M)
+        if m2 is None: continue
+        key=(m.group(1) if m else '')+':'+m2.group(1)+':'+str(out.count(NL))
+        if key in seen: continue
+        seen.add(key); open(seenf,'a',encoding='utf8').write(key+NL)
+        print(out[:maxchars]+(' [TRUNC]'+NL if len(out)>maxchars else '')); printed+=1
     with open('read_done.txt','a',encoding='utf8') as fh:
-        for b in newly: fh.write(b+'\n')
-    print('### printed',len(newly),'new digests')
+        for b in newly: fh.write(b+NL)
+    print('### printed',printed,'new digests of',len(newly),'new files')

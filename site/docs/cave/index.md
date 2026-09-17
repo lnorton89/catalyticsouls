@@ -34,11 +34,14 @@ Catalytic Souls' departure did not end electronic music at the cave. On July 17�
 
 The markers, in order:
 
-- From 2008 Goodale's website carried a standing banner: "Help Save The Cave — Volunteers Needed / Forestry, Electrician Help Needed."
+- October 13, 2007: "Freakenstein – Shawnee Electro-Jam," a "$12 night at the Cave" that Catalytic Souls hosted "to show our appreciation for all of the love and support given to us over the years" (Andy B, TomFoolery, Reperkushin, Dave Skeezy, Tommy Gunns, "the CatalyticSouls & iLevel Light Show"). In hindsight it reads like a farewell.
+- From the March 21, 2008 capture onward, Goodale's website carried a standing banner: "Help Save The Cave — Volunteers Needed," later "Forestry, Electrician, Help Needed." The site was kept by a volunteer, Sherry Cosby, who posted "Find Yourself at the Cave" photo pages and asked attendees to "show the cave some love" by cleaning up. The clean-up problem was old: after Cave Fest 2005 a forum poster found "Bob (the owner) and his wife... left to clean up a shitload of garbage" and tried to start a volunteer crew.
+- October 31–November 1, 2008: "Halloween at the Cave," co-presented by Catalytic Souls and Gettin' Lucky, the crew's last co-billing at the venue.
 - Spring 2009: Catalytic Souls withdrew from Cave Fest "due to unspecified issues." Underground Sound had already moved to Missouri.
 - August 2010: a Sierra Club hiker found $5 admission, boating discontinued "due to insurance concerns," and an owner whose main business was firewood plus festivals.
 - Goodale kept the spring 420 Show and fall Harvest Fest going with regional jam bands and a dubstep or techno side stage through April 2011, plus a July 2011 Caveblast, the last event on his site.
-- August 31, 2012: the same hiker's postscript: gate closed, "for sale" sign.
+- The 2011 420 Show page shows the last shape of the cave's electronic side: "Main Stage will be Jam Bands and Second Stage will be Dubstep," with a dozen St. Louis and Springfield dubstep DJs booked through Digital-Glitch.
+- August 31, 2012: the same hiker's postscript: gate closed, "for sale" sign. Goodale's website was never updated after Caveblast (July 2011) and by 2023 its host displayed "Site Disabled... due to billing issue."
 - September 14, 2012: setlist.fm logs one more show (House of Heroes), context unknown.
 
 Shane Wade, 2023: "In the 2000s, it became an underground EDM scene, which to be honest with you kind of got out of hand with some of the partying that the kids down there from the college did. By probably 2008 or 2009 it shut down. My partner acquired it in 2012 or 2013 and then we just let it sit for a while, let the smoke clear from some of the stuff that happened there at the end. The city leaders had a bad taste in their mouths from that." Showcaves.com's listing, written in the 2000s, already noted that "violence and drug use" at concerts had prompted "regular discussions among police and local politicians." The 2020 Southern Illinoisan called Goodale "the last face of the cave." (One trade article gives the purchase year as 2004; every other source, including the buyer's partner, says 2012 or 2013.) No obituary or current information for Bob Goodale was found.

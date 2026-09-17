@@ -1,0 +1,442 @@
+FRIENDIDS: 100544956, 10064828, 101288307, 105864086, 106155974, 107640702, 110375627, 128272818, 13317074, 137589382, 1472780, 147918371, 149160038, 15110763, 164610980, 165061455, 18489460, 1875590, 193437, 201290583, 202928, 2088590, 21173924, 213999342, 215820, 2177245, 22501249, 22863382, 229417261, 236288652, 243510287, 2642403, 276192596, 277364314, 28106534, 286234069, 2921562, 293536767, 30605110, 31986965, 331447439, 33495915, 350704043, 354953197, 35690802, 360308508, 37402609, 37646108, 377230773, 380383193, 38074363, 384293015, 394921942, 395208235, 40178274, 40631018, 41626161, 42284842, 42838208, 44487407, 45126289, 46456646, 47529394, 48173262, 49430046, 5270908, 52976601, 57519095, 64051306, 6558851, 674765, 741274, 74886746, 7525773, 75608205, 77094480, 77143480, 7764051, 8817935, 895148, 9402882, 9606154, 97380249, 98410907
+PROFILE_LINKS:
+  http://www.myspace.com/myspaceim
+  http://www.myspace.com/myspacemobile
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=37646108
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=30605110
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=147918371
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=165061455
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=40631018
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=49430046
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=52976601
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=13317074
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=42284842
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=9606154
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=22863382
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=46456646
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=22501249
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=44487407
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=128272818
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=7525773
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=2177245
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=57519095
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=74886746
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=331447439
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=75608205
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=15110763
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=5270908
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=98410907
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=201290583
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=2642403
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=2921562
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=8817935
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=6558851
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=215820
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=741274
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=106155974
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=276192596
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=2088590
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=1472780
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=674765
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=42838208
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=202928
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=100544956
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=1875590
+  http://comment.myspace.com/index.cfm?fuseaction=user.viewProfile_commentForm&friendID=10064828&MyToken=09354194-a8a1-4c1a-9b3d-8f0125fb7c27
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=236288652
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=33495915
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=213999342
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=47529394
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=7764051
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=97380249
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=64051306
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=101288307
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=895148
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=37402609
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=149160038
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=35690802
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=18489460
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=350704043
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=41626161
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=107640702
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=380383193
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=164610980
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=45126289
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=110375627
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=243510287
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=40178274
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=48173262
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=137589382
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=384293015
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=395208235
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=77094480
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=38074363
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=293536767
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=193437
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=105864086
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=28106534
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=31986965
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=229417261
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=377230773
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=9402882
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=277364314
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=77143480
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=21173924
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=360308508
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=354953197
+  http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=286234069
+
+=== TEXT ===
+MySpace.com - CatalyticSouls Presents UGS4 August 15-17! - 29 - Male - CARBONDALE, ILLINOIS - www.myspace.com/catalyticsouls
+MySpace a place for friends
+User Shortcuts: Send Message Forward to Friend Add to Friends Add to Favorites Block User Add to Group Rank User Instant Message
+View User Pics
+View User Bulletins
+Web ▼
+People
+MySpace
+Web
+Music
+Video
+Powered by Google
+Home
+Browse
+Find People
+Forums
+Music
+MySpaceTV
+More ▼
+Sign Up
+Apps Gallery
+Classifieds
+Events
+Forums
+Groups
+Schools
+Top Blogs
+IM
+Mobile
+Celebrity
+Comedy
+Games
+Impact
+Karaoke
+Movies
+CatalyticSouls Presents UGS4 August 15-17!
+"Bringing You: Underground Sound, Cave Fest, Earthtones, Cave Stock, Cave Jam and more"
+Male
+29 years old
+CARBONDALE, ILLINOIS
+United States
+Last Login:8/5/2008
+Mood:
+catalyzed
+View My:
+Pics
+| Videos
+Contacting
+CatalyticSouls Presents UGS4 August 15-17!
+MySpace URL:
+http://www.myspace.com/catalyticsouls
+Hello, you either have JavaScript turned off or an old version of Macromedia's Flash Player. Click here to get the latest flash player.
+CatalyticSouls Presents UGS4 August 15-17!'s Interests
+General
+Promotions, music, production, indie electronic, jam.
+The CatalyticSouls Family is a close knit network of like minded individuals working on a love of music.
+Music
+Television
+Books
+Heroes
+pink gorrilla
+Groups:
+Real Dj's don't spin CD's!! , Uberzone
+View All CatalyticSouls Presents UGS4 August 15-17!'s Groups
+CatalyticSouls Presents UGS4 August 15-17!'s Details
+Status:
+Single
+Zodiac Sign:
+Libra
+CatalyticSouls Presents UGS4 August 15-17!'s Networking
+Music - Production - Producer
+Events
+CatalyticSouls Presents UGS4 August 15-17!'s Companies
+Catalyticsouls
+Carbondale, Illinois U
+http://www.catalyticsouls.com
+SouthEast, MidWest, & MidSouth Markets
+CatalyticSouls Presents UGS4 August 15-17! Excited for August 15-17!!!
+CatalyticSouls Presents UGS4 August 15-17!'s Latest Blog Entry
+[ Subscribe to this Blog ]
+Full resolution Flier
+( view more )
+Do you want FREE......
+( view more )
+Tommie Sunshine
+( view more )
+Shpongle
+( view more )
+Featured Artist Of the Week: Baby Anne
+( view more )
+[ View All Blog Entries ]
+CatalyticSouls Presents UGS4 August 15-17!'s Blurbs
+About me:
+Underground Sound 4 Presale Tickets!
+Evolving consciousness! Our goal is to facilitate the creation of fun and exciting musical events to bring together a wide spectrum of people in harmony.
+UnderGround Sound 4! August 15&16 2008 We are bringing it back for another round, bigger and better than ever. This is the premiere edm camp fest.
+UnderGround Sound 4
+br />
+Who I'd like to meet:
+CatalyticSouls Presents UGS4 August 15-17!'s Friend Space (Top 40)
+CatalyticSouls Presents UGS4 August 15-17! has 2065
+friends.
+tomfoolery
+dj Andy b
+UNKLRYAN
+The Dervish
+Redi Jedi
+SHPONGLE
+Skazi
+JACKAL & HYDE
+BABY ANNE
+OOAH (The Glitch Mob)
+Dj Derve
+Tommy 'IrishCream& #39; Gunns
+Reperkushin
+☠MissTigॐr☠
+DJ TREE
+DeadMan
+EVOL INTENT
+Cornmeal
+ilevel
+Tekfro
+Outlawed Productions
+Tangent
+™:Blu:Bo y.
+Brainstorm dj
+DJ Shan Tran
+FACTOR e
+FIXX
+dsfgsf
+IDENTITY
+JOHN BOURKE
+ChrisGrant
+Janky Inc.
+Fire Technicians
+REID SPEED
+FAttY
+1FamilyProduct ions
+JoBu
+skylab2000
+DJ Aphrodite
+Keith MacKenzie
+View CatalyticSouls Presents UGS4 August 15-17!'s Friends: All | Online | New
+CatalyticSouls Presents UGS4 August 15-17!'s Friends Comments
+Displaying 50
+of 532
+comments
+( View All | Add Comment )
+King Funk Productions
+Aug 4 2008 11:55 PM
+Miss Raven McRaverton
+Aug 4 2008 3:23 PM
+Ahhhhh less than 2 weeks til the best party of the year! So glad to be spending my b-day weekend at the CAVE!!! Tell Andy B I'm comin for him! LMAO
+Creatrix
+Aug 1 2008 11:04 PM
+~♥~Tuesday~♥~
+Aug 1 2008 9:56 PM
+AUGUST 29, 2008
+CHARLOTTE, NC
+Quanta Entanglement
+Aug 1 2008 7:41 PM
+this is gonna be a Phat fucking party! cant wait...is the stage lineup and set times released before or during the event?
+Catalytic Syndicate
+Aug 1 2008 4:16 PM
+phatty shirt graphic! hey, hey, fam so what's good!? we are gunna rage the fuck outa the new catalytic mobile, so funny. sendin some love, but wesa gots werk ta do...
+Austin
+Jul 31 2008 4:47 PM
+dude i cant fucken wait for ugs4 15 more days
+MATTHEWSCHAADE.COM
+Jul 31 2008 3:09 AM
+go to my page to see full size graphic.
+MATTHEWSCHAADE.COM
+Jul 31 2008 3:08 AM
+OFFICIAL UGS4 T SHIRT DESIGN
+AVAILABLE FOR PURCHASE AT UGS4.
+MATTHEWSCHAADE.COM
+Jul 30 2008 2:42 PM
+thanks for sending that logo. ill post the official t-shirt design asap.
+Miss Shanda
+Jul 30 2008 1:04 AM
+I pretty much can't wait for the party.
+Its going to knock everyones socks off!
+.holly ↓ ann.
+Jul 29 2008 9:48 PM
+i ordered my tickets off paypal about two or more weeks ago. and havent received them yet..i was wondering if you knew how long it would take for them to come in the mail??
+a lil more than two weeks till ugs!!!! deffinatly ready!!! =]
+SAM
+Jul 26 2008 1:07 AM
+THANK YOU SOOOOOO MUCH for sending me those flyers!! :)
+that seriously just made my day!!
+♥
+larry
+Jul 25 2008 8:56 PM
+thanks for the fliers, hopefully they'll bring some new people out for some fun next month
+Fonso
+Jul 25 2008 8:32 PM
+easiest way to get there from dc ?
+Joe
+Jul 25 2008 4:36 PM
+Yo yo yo
+The 'Gypsy Ravers' are on their way from the M' town.
+JizzRod
+Jul 24 2008 6:31 PM
+Fantastic Planet: a really good cartoon movie from the 70's... although it doesnt seem to be, its about the Russian invasion of Czecholslovakia in the 60's
+part 1
+http://www . youtube. com/watch?v=ys8AkwMRvgo&feature=related
+part2
+http://www . youtube. com/watch?v=gVay38ao6NU&feature=related
+part 3
+http://www . youtube. com/watch?v=lVYutGmcHhc&feature=related
+part 4
+http://www . youtube. com/watch?v=HyOJD5iFDW8&feature=related
+part 5
+http://www . youtube. com/watch?v=ASv3gtTh8ik&feature=related
+part 6
+http://www . youtube. com/watch?v=x9R1qyr5y_Q&feature=related
+part 7
+http://www . youtube. com/watch?v=a8pJlmOVfQA&feature=related
+part 8
+http://www . youtube. com/watch?v=lwLNhOzr_ts&feature=related
+i also have the soundtrack, if you'd like to use it for sampling.. message me for more info
+Miss Raven McRaverton
+Jul 23 2008 3:56 PM
+So it seems I am having another one of those dang b-days and it happens to fall on the weekend of the cave!! Watchout BITCHES! lol Thanks for comin to Electronica was good to see you. : )
+☠Miz☆E☠
+Jul 23 2008 3:51 PM
+Thanks for the add :D
+Strip Mines Music Festival
+Jul 23 2008 2:39 AM
+Help us spread some love and light into the Heartland...leave a comment...tell your friends...show some love...see ya there:)...dreadx
+Check this link: http://profile. myspace. com/index. cfm?fuseaction=user. viewprofile&friendid=394921942
+Or visit www. betterthanadream. com
+Max
+Jul 22 2008 9:57 PM
+Two days after my 21st birthday, what a treat!
+*Livin "The" Dream*
+Jul 22 2008 4:52 PM
+hey there mr andy man oh man cant wait dude less then a month away we are bringin like a fleet of atlease 100 chicago crazy asses its gonna b a riot cant wait to party w/ ya again... and again and again
+Justina
+Jul 19 2008 10:14 AM
+Myspace Comments at WishAFriend. com
+inAdayDreaM
+Jul 18 2008 6:27 PM
+Miss Raven McRaverton
+Jul 18 2008 3:36 PM
+A little birdie told me that you might be gracing us with your presence at Monk on Saturday? Is this true? Or just a bunch of foolery?
+: )~
+DJ SlantE
+Jul 16 2008 10:52 PM
+the big day is almost here :D
+i finally booked one of the most influential dj's in my career, Q-Burns . he is playin this friday at upstairs lounge!!!! (entry is UBER cheap, under ten bucks all night!)
+Click banner for myspace event!
+also, my live set from the PVD show at dante's is up. Click Here to download it :)
+i play with Christopher Lawrence on the 26th too at dantes, get ready for that show ;)
+Dialectics
+Jul 16 2008 4:48 AM
+Come party with us Saturday night at the Cubby Bear Lounge in Wrigleyville!
+Creek [Yall pray my MySpace comes back MO NICER]
+Jul 15 2008 2:48 PM
+Hey yall. Is this flyer too long to post on a few
+of my friends MySpace sites?
+If it's too long, just let me know. I even have my photo
+thingy turned back on so nobody cusses me out.
+Well here's my flyer/blatant advertisement.haha SO WHAT YOU THINK? AM I GETTIN BETTER AT THAT PAINTSHOP THING?
+My only complaint is it looks a little 'wordy'. LESS IS MORE right?
+Janky Inc.
+Jul 14 2008 6:02 AM
+CLICK
+Coalessence
+Jul 13 2008 12:03 AM
+Dan
+Jul 12 2008 1:29 AM
+Got this marked out on my calendar can't wait.
+Kooter™
+Jul 12 2008 12:18 AM
+is there anyway I can buy tickets for underground without using a credit card seeing as i dont have one?
+Reanimate
+Jul 11 2008 10:31 PM
+This is going to be so vicious I can't wait til the 15th
+Keith
+Jul 10 2008 10:15 PM
+how do i get on the street team?
+special k
+SAM
+Jul 9 2008 4:02 PM
+THE FREAKS ARE COMMING ;)
+KMASS (Feel Tha' Reel)
+Jul 9 2008 8:10 AM
+Anyone coming from Kentucky that wants too car share
+JOhNNy(REBEL WITH A CAUSE)
+Jul 8 2008 10:15 PM
+Thanks for tha add!!wondering if the event on aug 15 16 is all ages?
+-::k3n::-
+Jul 8 2008 6:42 PM
+woot woot. thanx for the add. i so esited. [=
+Art, Music & Dance.
+Jul 7 2008 7:41 AM
+Anyone from Chicago/ ST Louis making the ride down there? Contact me and let's see if we can carpool! Gas prices suck and it's always nice to get to know some new people :D
+OPPOSITE DAY
+Jul 7 2008 3:02 AM
+YO WHATS UP....?...I'VE GOT THESE SWEET BEATS IF ANYONE WANTS THEM..DOWNLOAD FOR FREE...CLICK THE MONKEY
+SlantEd Sounds
+Jul 6 2008 10:06 PM
+:)
+Opening Sets: Ion, Luan, Ken Evil.
+Visuals: VJ Lady Jade.
+DJ SlantE
+Jul 3 2008 11:14 PM
+ready for Ready ? (third time i have booked him in 6 months, he's gotta be doing SOMETHING right!!) (and don't forget about House of OM ......)
+ps, my Live Synth Set from the Paul Van Dyk Show will be up in about a week ;)
+Click Flyers for Myspace Events
+pRofessional distoRtion
+Jul 2 2008 11:35 PM
+COMPUTER CLUB is gonna be sweeeeeeeet ♥
+hmmm... ya'll spelled keith MACCCCCCCCCCkenzie's name wrong on the pre-flyer btw
+Catalytic Syndicate
+Jul 2 2008 10:13 PM
+wadup homeskillet?!
+♪§hïrlәy£u♪
+Jul 1 2008 9:55 PM
+Yo, kiddo. Any idea when cave tickets go on sale?
+CURLZ
+Jun 30 2008 11:46 PM
+Just wanted to say awesome job at MEMF guys, your stage looked amazing! Was deff getting down to some great beats when they cut your power suddenly. I can't believe someone would be so fucking rude... but anyhow, I will for sure be at the cave this year for UGS4 just like I have the past few years. KEEP UP THE GOOD WORK, please! :)
+peace for now
+Jason
+Jun 30 2008 8:19 PM
+Skazi does not appear to be on the new flier. Are they still going to be there? Not that I am to worried, I am all about the Posford.
+604-T a.k.a. ToK@Y
+Jun 29 2008 5:20 PM
+HeLLo CatalyticSouls
+How are U, Have a nice day
+Just Uploaded new Psy-Version of
+"Desert Breeze"
+iff not already done,
+join the mailinglist
+and get your free tracks now:)
+more Tr@cks will
+come every month
+GrEeTingZz
+604T a.k.a. HaNzI
+てoドΔと
+☆MISS IVY LYNN-[毒]✿
+Jun 28 2008 3:11 AM
+woooooot.
+sick shit!
+Hits & Mrs. (On iTunes Now)
+Jun 26 2008 5:25 AM
+THANKS FOR THE ADD! THANKS FOR LISTENING!!
+Add Comment
+About | FAQ | Terms | Privacy Policy | Safety Tips | Contact MySpace |
+Advertise | MySpace International | MySpace Latino
+©2003-2008 MySpace.com. All Rights Reserved.

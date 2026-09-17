@@ -1,0 +1,9 @@
+SOURCE: http://shawneecaveamphitheater.com/favicon.ico
+CAPTURE: 20220319001214
+FETCHED: https://web.archive.org/web/20220319001214id_/http://shawneecaveamphitheater.com/favicon.ico
+
+For full functionality of this site it is necessary to enable JavaScript. Here are the instructions how to enable JavaScript in your web browser.
+
+--- IMAGES ---
+--- LINKS ---
+https://www.enable-javascript.com/

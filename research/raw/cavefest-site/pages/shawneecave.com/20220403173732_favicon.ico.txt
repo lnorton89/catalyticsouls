@@ -1,0 +1,9 @@
+SOURCE: http://shawneecave.com/favicon.ico
+CAPTURE: 20220403173732
+FETCHED: https://web.archive.org/web/20220403173732id_/http://shawneecave.com/favicon.ico
+
+For full functionality of this site it is necessary to enable JavaScript. Here are the instructions how to enable JavaScript in your web browser.
+
+--- IMAGES ---
+--- LINKS ---
+https://www.enable-javascript.com/

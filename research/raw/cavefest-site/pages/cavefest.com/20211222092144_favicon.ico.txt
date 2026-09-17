@@ -1,0 +1,9 @@
+SOURCE: http://cavefest.com/favicon.ico
+CAPTURE: 20211222092144
+FETCHED: https://web.archive.org/web/20211222092144id_/http://cavefest.com/favicon.ico
+
+For full functionality of this site it is necessary to enable JavaScript. Here are the instructions how to enable JavaScript in your web browser.
+
+--- IMAGES ---
+--- LINKS ---
+https://www.enable-javascript.com/
