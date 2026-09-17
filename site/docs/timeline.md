@@ -19,13 +19,13 @@ One chronology across the cave, the crew, the author, and the wider industry. **
 - **2001–2003** — **Stagehand for SFX / Clear Channel; club lighting programmer; mix CDs; BA Economics, Auburn, May 2003.**
 - *2002–2003* — *RAVE Act introduced (Biden); passes in 2003 attached to the Amber Alert bill; Billings DEA incident.*
 - **July 4, 2002** — Nazareth at the cave.
-- **Summer 2003** — First Caveman Experience (electronic camp-out) at the cave.
+- **Aug 15–17, 2003** — First Caveman Experience at the cave (Intergrüv Networks, Chicago, with Woody McBride): $25, 350 tents, proceeds to Amnesty, the ACLU and EMDEF.
 - *Jan 7, 2004* — *Beatport launches with 79 labels.*
 
 ## The Catalytic Souls years
 
 - **Spring 2004** — **Hughes arrives at SIU; first cave gig as "Big Dog Disco Machine."**
-- **July 16–18, 2004** — Caveman Experience 2 (Christopher Lawrence, Grooverider, Dieselboy, Woody McBride). **Hughes volunteers; quits drinking.**
+- **July 16–18, 2004** — Caveman Experience 2: seven stages, Christopher Lawrence, Grooverider, Dieselboy, Diego Ro-K, Doormouse, Woody McBride; Andy B, Space Head and Dervish already on the undercard. **Hughes volunteers; quits drinking.**
 - **Fall 2004** — **Fool'n'Around Sound; CaveStock 1** (Daily Egyptian, Sept 30, 2004).
 - **Feb 2005** — **catalyticsouls.com's first Wayback capture** (a phpBB forum is running by May).
 - **April 15–16, 2005** — **Gemini Moon Cave Fest** (The Southern, Apr 7, 2005: Tom Foolery organizer; Andy B, Spacehead on the DJ stage).

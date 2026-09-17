@@ -1,0 +1,34 @@
+wait0 HTTP Error 504: Gateway Time-out
+CDX rows: 40
+intergruv.net html pages: 500
+OK 20050420085120 http://www.intergruv.net/caveman/images/header1.gif 20340
+OK 20060504022307 http://www.intergruv.net:80/caveman/images/header1.gif 20340
+OK 20050420085120 http://www.intergruv.net/caveman/images/header2.gif 31016
+OK 20060504022243 http://www.intergruv.net:80/caveman/images/header2.gif 31016
+retry0 http://www.intergruv.net:80/caveman/images/header3.gif <urlopen error [WinError 10061] No connection could be made 
+OK 20041221190932 http://www.intergruv.net:80/caveman/images/header3.gif 19296
+OK 20050420085120 http://www.intergruv.net/caveman/images/header3.gif 19296
+OK 20050420085122 http://www.intergruv.net/caveman/images/photos/diegorok.jpg 24037
+OK 20050420085122 http://www.intergruv.net/caveman/images/photos/dieselboy.jpg 14996
+OK 20050420085122 http://www.intergruv.net/caveman/images/photos/doormouse.jpg 39359
+OK 20040704182240 http://www.intergruv.net:80/caveman/images/photos/grooverider.jpg 18020
+OK 20041104012045 http://www.intergruv.net:80/caveman/images/photos/perf_photos/Dervish.JPG 27381
+OK 20041103183104 http://www.intergruv.net:80/caveman/images/photos/perf_photos/DSL_PRESS4.JPG 31877
+OK 20041211113216 http://www.intergruv.net:80/caveman/images/photos/perf_photos/JimK.jpg 15925
+OK 20041211141010 http://www.intergruv.net:80/caveman/images/photos/perf_photos/mack.jpg 16412
+retry0 http://www.intergruv.net:80/caveman/images/photos/perf_photos/Shen.jpg <urlopen error [WinError 10061] No connection could be made 
+OK 20041211114830 http://www.intergruv.net:80/caveman/images/photos/perf_photos/Shen.jpg 29753
+OK 20041104012041 http://www.intergruv.net:80/caveman/images/photos/perf_photos/Sirian.JPG 37892
+OK 20040704182722 http://www.intergruv.net:80/caveman/images/photos/wmcbride.jpg 17100
+OK 20030810145022 http://www.intergruv.net:80/caveman/index.html 768
+OK 20040716005704 http://www.intergruv.net:80/caveman/index.php 10704
+OK 20040715045857 http://www.intergruv.net:80/caveman/index.php?page=camping 4578
+OK 20041030140300 http://www.intergruv.net:80/caveman/index.php?page=directions 13476
+OK 20040715083435 http://www.intergruv.net:80/caveman/index.php?page=home 10704
+OK 20041030141435 http://www.intergruv.net:80/caveman/index.php?page=moreInfo 6146
+OK 20040715120621 http://www.intergruv.net:80/caveman/index.php?page=motels 4449
+retry0 http://www.intergruv.net:80/caveman/index.php?page=performers <urlopen error [WinError 10061] No connection could be made 
+OK 20041030143318 http://www.intergruv.net:80/caveman/index.php?page=performers 36332
+OK 20040716085543 http://www.intergruv.net:80/caveman/index.php?page=tickets 5714
+OK 20030813182302 http://www.intergruv.net:80/caveman/index2-low.html 21076
+DONE

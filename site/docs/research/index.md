@@ -60,7 +60,7 @@ A second, deeper pass added: the full text of The Southern's July 9, 2007 articl
 
 ## Open questions {#open-questions}
 
-1. **What the archive does not hold.** The catalyticsouls.com forum was fully recovered for 2005–2006 (2,089 captures, 1,325 posts; see `research/raw/wayback-forum/report.md`), but no 2007–2008 threads were ever captured, so the June 2007 "Stabbing at the cave???" thread and any UGS 3, UGS 4 or Camp Zoe discussion are gone. The crew's MySpace profiles have no captures at all. The Caveman Experience site lived at `intergruv.net/caveman/` (2003–04), which was not fetched before the archive went down. Goodale's `cavefest.fws1.com` was recovered in full (324 captures).
+1. **What the archive does not hold.** The catalyticsouls.com forum was fully recovered for 2005–2006 (2,089 captures, 1,325 posts; see `research/raw/wayback-forum/report.md`), but no 2007–2008 threads were ever captured, so the June 2007 "Stabbing at the cave???" thread and any UGS 3, UGS 4 or Camp Zoe discussion are gone. The crew's MySpace profiles have no captures at all. The Caveman Experience site at `intergruv.net/caveman/` (2003–04) was recovered on a later retry and is summarized on [The Cave](/cave/#2-caveman-bob-2000-2011); raw pages are under `research/raw/caveman/`. Goodale's `cavefest.fws1.com` was recovered in full (324 captures).
 2. **The 2007 press.** Probably in The Southern's print archive for July 2007 and on WSIL/KFVS.
 3. **The split.** Wade, Parrish, Goodale (if living), Andy B, and whoever ran the 2011 Digital-Glitch stage would know.
 4. **An obituary.** Full Sail, Auburn's alumni office, or family in Alabama.

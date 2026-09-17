@@ -1,0 +1,95 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+	<title>Caveman Experience 2 :: Electronic Music Festival & Campout : July 16 – 18, 2004</title>
+	<link rel=stylesheet type="text/css" href="cave_style.css">
+</head>
+
+<body topmargin="0" marginheight="0" bottommargin="0" marginwidth="0" leftmargin="0" rightmargin="0" bgcolor="000000">
+
+<!-- outside table for alingment -------------------------------------------------------------------------------------------------------------- -->
+<table width='100%' height='100%' cellpadding='0' cellspacing='0'>
+	<tr>
+		<td align='center' valign='top'>
+		
+		<!-- Main Page table ---------------------------------------------------------------------------- -->
+		<table width='720' height='100%' cellpadding='0' cellspacing='0' border='0' background='images/bg.gif'>
+		
+			<!-- The header row ----------- -->
+			<tr>
+				<td valign='top' height='0'>
+				<table width='720' height='0' cellpadding='0' cellspacing='0' border='0' >
+					<tr>
+						<td><img src='images/header1.gif' alt='' width='200' height='229' border='0'></td>
+						<td><img src='images/header2.gif' alt='' width='339' height='229' border='0'></td>
+						<td><img src='images/header3.gif' alt='' width='181' height='229' border='0'></td>
+					</tr>
+					
+					<!-- The Links ----------- -->
+					<tr>
+						<td colspan='3' align='right' background='images/link_bg.gif' height='40'>
+						<a class='topNavLink' href='index.php?page=home'>Home</a><span class='topNav'>|</span>&nbsp;
+						<a class='topNavLink' href='index.php?page=performers'>Performers</a><span class='topNav'>|</span>&nbsp;
+						<a class='topNavLink' href='index.php?page=tickets'>Tickets</a><span class='topNav'>|</span>&nbsp;
+						<a class='topNavLink' href='index.php?page=directions'>Driving Directions</a><span class='topNav'>|</span>&nbsp;
+						<a class='topNavLink' href='index.php?page=camping'>Camping</a><span class='topNav'>|</span>&nbsp;
+						<a class='topNavLink' href='index.php?page=motels'>Motels</a><span class='topNav'>|</span>&nbsp;
+						<a class='topNavLink' href='index.php?page=moreInfo'>More Info</a></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			
+			<tr>
+				<td height='100%' valign='top'>
+<p class='header1'>Camping</p><hr>
+
+<p class='main'><span class='emph'>Camping tips</span><br>
+Camping begins 4 PM Friday July 16th.<br>
+<br>
+Plan ahead thoroughly. Bring more food, more water, more ice, more stuff than you think you will need. No ATM or cash machine on site. PLAN AHEAD!<br>
+<br>
+No ins and outs after Midnight – you must bring in all your gear and supplies by then.<br>
+<br>
+Camping is unlimited for this event (Tents only! No campers, RVs or trailers will be permitted)<br>
+<br>
+Please stay on marked trails and pathways.  Failure to do so is at your own risk.  There’s a reason why they call it wildlife (and we’re not talkin’ about the happy hardcore fanatics).<br>
+<br>
+Remember – it may be very warm on July 17th – Dress and pack accordingly.<br>
+<br>
+Feel free to bring your own mini grill, but no open fires will be allowed. <br> 
+<br>
+You are responsible for maintaining and leaving no garbage or damage at your camping area.  Please be courteous and clean up after yourself.<br>
+<br>
+Get to know your neighbors to protect yourselves from mischief and theft.<br> 
+<br>
+
+
+				</td>
+			</tr>
+			<tr>
+						<td colspan='3' align='center'><br><br>
+						<a class='topNavLink' href='index.php?page=home'>Home</a><span class='topNav'>|</span>&nbsp;
+						<a class='topNavLink' href='index.php?page=performers'>Performers</a><span class='topNav'>|</span>&nbsp;
+						<a class='topNavLink' href='index.php?page=tickets'>Tickets</a><span class='topNav'>|</span>&nbsp;
+						<a class='topNavLink' href='index.php?page=directions'>Driving Directions</a><span class='topNav'>|</span>&nbsp;
+						<a class='topNavLink' href='index.php?page=camping'>Camping</a><span class='topNav'>|</span>&nbsp;
+						<a class='topNavLink' href='index.php?page=moreInfo'>More Info</a></td>
+					</tr>
+			<tr>
+				<td><img src='images/footer.gif' alt='' width='720' height='120' border='0' usemap='#footer'>
+				<map name='footer'><area alt='Web Design by KLXmedia' coords='18,104,117,68' href='http://www.klxmedia.com'></map>
+				</td>
+			</tr>
+		</table>
+		<!-- End Main Page table ------------------------------------------------------------------------ -->
+		
+		</td>
+	</tr>
+</table>
+<!-- end outside table----------------------------------------------------------------------------------------------------------------------- -->
+
+
+</body>
+</html>

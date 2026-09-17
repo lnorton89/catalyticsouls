@@ -1,0 +1,246 @@
+<STYLE>
+
+.waste {color : pink }
+
+
+a.topNavLink:link {
+	font : 12px Arial, Helvetica, sans-serif;
+	text-decoration : underline;
+	color : #DCA130;
+	margin-left : 0px;
+	margin-right : 10px;
+}
+a.topNavLink:visited {
+	font : 12px Arial, Helvetica, sans-serif;
+	text-decoration : underline;
+	color : #DCA130;
+	margin-left : 0px;
+	margin-right : 10px;
+}
+a.topNavLink:active {
+	font : 12px Arial, Helvetica, sans-serif;
+	text-decoration : underline;
+	color : #DCA130;
+	margin-left : 0px;
+	margin-right : 10px;
+}
+a.topNavLink:hover {
+	font : 12px Arial, Helvetica, sans-serif;
+	text-decoration : underline;
+	color : #FFE400;
+	margin-left : 0px;
+	margin-right : 10px;
+}
+topNav{
+	font : 12px Arial, Helvetica, sans-serif;
+	text-decoration : underline;
+	color : #FFE400;
+	margin-left : 0px;
+	margin-right : 10px;
+}
+
+
+a.body1:link {
+	font : 12px Arial, Helvetica, sans-serif;
+	font-weight : bold;
+	text-decoration : underline;
+	color : #F7E300;
+}
+a.body1:visited {
+	font : 12px Arial, Helvetica, sans-serif;
+	font-weight : bold;
+	text-decoration : underline;
+	color : #F7E300;
+}
+a.body1:active {
+	font : 12px Arial, Helvetica, sans-serif;
+	font-weight : bold;
+	text-decoration : underline;
+	color : #F7E300;
+}
+a.body1:hover {
+	font : 12px Arial, Helvetica, sans-serif;
+	font-weight : bold;
+	text-decoration : underline;
+	color : #999999;
+}
+a.body1lg:link {
+	font : 16px Arial, Helvetica, sans-serif;
+	font-weight : bold;
+	text-decoration : underline;
+	color : #F7E300;
+}
+a.body1lg:visited {
+	font : 16px Arial, Helvetica, sans-serif;
+	font-weight : bold;
+	text-decoration : underline;
+	color : #F7E300;
+}
+a.body1lg:active {
+	font : 16px Arial, Helvetica, sans-serif;
+	font-weight : bold;
+	text-decoration : underline;
+	color : #F7E300;
+}
+a.body1lg:hover {
+	font : 16px Arial, Helvetica, sans-serif;
+	font-weight : bold;
+	text-decoration : underline;
+	color : #999999;
+}
+
+a.body2:link {
+	font : 14px Arial, Helvetica, sans-serif;
+	font-weight : bold;
+	text-decoration : underline;
+	color : #6BBCC1;
+}
+a.body2:visited {
+	font : 14px Arial, Helvetica, sans-serif;
+	font-weight : bold;
+	text-decoration : underline;
+	color : #6BBCC1;
+}
+a.body2:active {
+	font : 14px Arial, Helvetica, sans-serif;
+	font-weight : bold;
+	text-decoration : underline;
+	color : #6BBCC1;
+}
+a.body2:hover {
+	font : 14px Arial, Helvetica, sans-serif;
+	font-weight : bold;
+	text-decoration : underline;
+	color : #999999;
+}
+
+.list1 {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	list-style-type : disc;
+}
+.list2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	list-style-type: disc;
+	list-style: circle;
+}
+
+.main {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	margin-left : 10px;
+	margin-right : 10px;
+	list-style-type : disc;
+	color : #ffffff;
+}
+.emph {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 16px;
+	font-weight : bold;
+	list-style-type : disc;
+	color : #EE7E0D;
+}
+.micro {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 10px;
+	margin-left : 10px;
+	margin-right : 10px;
+}
+.header1 {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 24px;
+	font-weight : bold;
+	margin-left : 10px;
+	margin-right : 10px;
+	margin-bottom : 0px;
+	color : #F7E300;
+}
+
+.header2 {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 24px;
+	margin-left : 10px;
+	margin-right : 10px;
+	margin-bottom : 0px;
+	color : #6BBCC1;
+}
+
+.header3 {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 18px;
+	margin-left : 10px;
+	margin-right : 10px;
+	margin-bottom : 0px;
+	color : #999999;
+}
+
+.header4 {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 14px;
+	font-weight : bold;
+	margin-bottom : 0px;
+	color : #000000;
+}
+
+.smallcaps {
+	font-family : Arial;
+	font-size : 7pt;
+}
+
+
+.indent10 {
+	margin-left : 10px;
+	margin-right : 10px;
+}
+.indent5 {
+	margin-left : 10px;
+	margin-right : 10px;
+}
+.indent15 {
+	margin-left : 15px;
+	margin-right : 10px;
+}
+.indent20 {
+	margin-left : 20px;
+	margin-right : 10px;
+}
+
+
+hr {color : #EE7E0D;
+	margin-left : 10px;
+	margin-right : 10px
+}
+
+
+
+input.submit {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	font-weight : bold;
+	
+}
+
+input {
+	
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	padding-left : 5px;
+	padding-right : 5px;
+}
+textarea {
+	
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	margin-bottom : 5px;
+	padding-left : 5px;
+	padding-right : 5px;
+}
+select {
+	
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 12px;
+}
+
+
+</STYLE>

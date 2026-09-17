@@ -1,0 +1,162 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+	<title>Caveman Experience 2 :: Electronic Music Festival & Campout : July 16 – 18, 2004</title>
+	<link rel=stylesheet type="text/css" href="cave_style.css">
+</head>
+
+<body topmargin="0" marginheight="0" bottommargin="0" marginwidth="0" leftmargin="0" rightmargin="0" bgcolor="000000">
+
+<!-- outside table for alingment -------------------------------------------------------------------------------------------------------------- -->
+<table width='100%' height='100%' cellpadding='0' cellspacing='0'>
+	<tr>
+		<td align='center' valign='top'>
+		
+		<!-- Main Page table ---------------------------------------------------------------------------- -->
+		<table width='720' height='100%' cellpadding='0' cellspacing='0' border='0' background='images/bg.gif'>
+		
+			<!-- The header row ----------- -->
+			<tr>
+				<td valign='top' height='0'>
+				<table width='720' height='0' cellpadding='0' cellspacing='0' border='0' >
+					<tr>
+						<td><img src='images/header1.gif' alt='' width='200' height='229' border='0'></td>
+						<td><img src='images/header2.gif' alt='' width='339' height='229' border='0'></td>
+						<td><img src='images/header3.gif' alt='' width='181' height='229' border='0'></td>
+					</tr>
+					
+					<!-- The Links ----------- -->
+					<tr>
+						<td colspan='3' align='right' background='images/link_bg.gif' height='40'>
+						<a class='topNavLink' href='index.php?page=home'>Home</a><span class='topNav'>|</span>&nbsp;
+						<a class='topNavLink' href='index.php?page=performers'>Performers</a><span class='topNav'>|</span>&nbsp;
+						<a class='topNavLink' href='index.php?page=tickets'>Tickets</a><span class='topNav'>|</span>&nbsp;
+						<a class='topNavLink' href='index.php?page=directions'>Driving Directions</a><span class='topNav'>|</span>&nbsp;
+						<a class='topNavLink' href='index.php?page=camping'>Camping</a><span class='topNav'>|</span>&nbsp;
+						<a class='topNavLink' href='index.php?page=motels'>Motels</a><span class='topNav'>|</span>&nbsp;
+						<a class='topNavLink' href='index.php?page=moreInfo'>More Info</a></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			
+			<tr>
+				<td height='100%' valign='top'>
+<p class='header1'>Tickets</p><hr>
+
+<p class='main'><span class='emph'>Ticket Prices</span><br>
+<b>$25 in advance</b><br>
+Presales available until Tuesday July 13 at all outlets.<br> 
+<b>$35 door</b><br>
+higher after midnight<br>
+NO INS AND OUTS<br>
+ALL WILL BE SEARCHED<br>
+PLEASE BE RESPONSIBLE AND DON’T OVER DO IT!<br>
+<br>
+
+<p class='main'><span='emph'>Online Ticket sales</span><br><a class='body1' href='http://www.vitalvinyl.com'>www.vitalvinyl.com</a> <br><a class='body1' href='http://www.syde-sho.com'>www.syde-sho.com</a> <br><a class='body1' href='http://www.anotherlevel.com'>www.anotherlevel.com</a> </p>
+
+<p class='main'><span class='emph'>In store ticket outlets</span>
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+	<tr>
+		<td valign='top'>
+		<p class='main'>
+		<b>Minneapolis, MN</b><br>
+		Vital Vinyl <br>
+		3 w. 15th street<br>
+		Minneapolis, MN <br>
+		612.871.8892<br>
+		wwww.vitalvinyl.com<br>
+		<br>
+		<b>Milwaukee, WI</b><br>
+		Trounce Milwaukee<br>
+		422 n 15th street floor 2<br>
+		Milwaukee, WI<br>
+		414.273.1299<br>
+		www.trouncerecords.com<br>
+		<br>
+		<b>Indianapolis, IN</b><br>
+		Evolving Records<br>
+		625 Main St. <br>
+		PO Box 923 <br>
+		Beech Groove, IN 46107-0923 <br>  
+		317.786.6325<br>
+		www.evolvingrecords.com<br>
+		<br>
+		<b>Lexington, KY</b><br>
+		808 Records<br>
+		395 S. Limestone<br>
+		2nd Floor<br>
+		Lexington, KY<br>
+		40508<br>
+		859.225.9809<br>
+		www.drumnbass.tv<br>
+		<br>
+		<b>St. Louis, MO</b><br>
+		Vintage Vinyl<br>
+		6610 Del Mar<br>
+		St. Louis, MO 63130<br>
+		314.721.4096<br>
+		www.vintagevinyl.com<br>
+		</td>
+		
+		<td valign='top'>
+		
+		<p class='main'>
+		<b>Chicago, IL</b><br>
+		Another level<br>
+		Chicago<br>
+		5405 S. Harlem<br>
+		Chicago, IL 60638<br>
+		773.586.6346<br>
+		<br>
+		<b>Schaumburg</b><br>
+		191 W. Golf Rd.<br>
+		Schaumburg, IL 60195<br>
+		847.882.9165<br>
+		www.anotherlevel.com<br>
+		 <br>
+		<b>Cincinnati, OH</b><br>
+		True Blue<br>
+		6 W Corry St (PO Box 19606)<br>
+		Cincinnati OH 45219<br>
+		513.221.TRUE<br>
+		www.truebluestore.com<br>
+		www.scribblemagazine.com<br>
+		<br>
+		<b>Carbondale, IL</b><br>
+		Old Town Liquors <br>
+		514 South Illinois Avenue<br>
+		Carbondale, IL<br>
+		618.457.3513<br>
+		</td>
+	</tr>
+</table>
+				</td>
+			</tr>
+			<tr>
+						<td colspan='3' align='center'><br><br>
+						<a class='topNavLink' href='index.php?page=home'>Home</a><span class='topNav'>|</span>&nbsp;
+						<a class='topNavLink' href='index.php?page=performers'>Performers</a><span class='topNav'>|</span>&nbsp;
+						<a class='topNavLink' href='index.php?page=tickets'>Tickets</a><span class='topNav'>|</span>&nbsp;
+						<a class='topNavLink' href='index.php?page=directions'>Driving Directions</a><span class='topNav'>|</span>&nbsp;
+						<a class='topNavLink' href='index.php?page=camping'>Camping</a><span class='topNav'>|</span>&nbsp;
+						<a class='topNavLink' href='index.php?page=moreInfo'>More Info</a></td>
+					</tr>
+			<tr>
+				<td><img src='images/footer.gif' alt='' width='720' height='120' border='0' usemap='#footer'>
+				<map name='footer'><area alt='Web Design by KLXmedia' coords='18,104,117,68' href='http://www.klxmedia.com'></map>
+				</td>
+			</tr>
+		</table>
+		<!-- End Main Page table ------------------------------------------------------------------------ -->
+		
+		</td>
+	</tr>
+</table>
+<!-- end outside table----------------------------------------------------------------------------------------------------------------------- -->
+
+
+</body>
+</html>
