@@ -1,13 +1,18 @@
 import urllib.request, urllib.error, re, html, time, os, sys, json, threading, random
 UA={'User-Agent':'Mozilla/5.0 (compatible; research-archive-reader; contact lnorton89@gmail.com)'}
 LOCK=threading.Lock()
-def get(url, tries=12, log=None):
+def get(url, tries=40, log=None):
     delay=3
     for i in range(tries):
         try:
             r=urllib.request.Request(url,headers=UA)
             with urllib.request.urlopen(r,timeout=90) as f:
-                return f.read().decode('utf8','ignore'), None
+                body=f.read().decode('utf8','ignore')
+            if ('Temporarily Offline' in body or 'Internet Archive services are temporarily offline' in body) and 'phpBB' not in body:
+                err='TEMP-OFFLINE'
+                if log: log(f"  retry{i} {err} {url}")
+                time.sleep(60); continue
+            return body, None
         except urllib.error.HTTPError as e:
             if e.code in (404,403):
                 return None, f"HTTP {e.code}"
@@ -15,8 +20,11 @@ def get(url, tries=12, log=None):
         except Exception as e:
             err=repr(e)[:120]
         if log: log(f"  retry{i} {err} {url}")
-        time.sleep(delay+random.random()*2)
-        delay=min(delay*1.7, 90)
+        if 'refused' in err or '10061' in err:
+            time.sleep(20+random.random()*5)
+        else:
+            time.sleep(delay+random.random()*2)
+            delay=min(delay*1.7, 90)
     return None, err
 def strip(h):
     h=re.sub(r'(?is)<(script|style).*?</\1>','',h)
@@ -55,7 +63,7 @@ def fetch_list(rows, outdir, workers=3, logpath=None):
             else:
                 open(os.path.join(outdir,name+'.html'),'w',encoding='utf8').write(body)
                 log(f"OK {name} {len(body)}")
-            time.sleep(1.5+random.random())
+            time.sleep(1.0+random.random())
     ths=[threading.Thread(target=worker) for _ in range(workers)]
     [t.start() for t in ths]; [t.join() for t in ths]
     log("DONE")
@@ -68,8 +76,10 @@ if __name__=='__main__':
         ts,o=p[1],p[2]
         if which=='forums' and ('viewforum' in o or 'forums/index.php' in o or o.endswith('/forums/') or 'forum.php' in o):
             rows.append((ts,o))
-        elif which=='topics' and 'viewtopic' in o:
+        elif which=='topics' and 'viewtopic' in o and not os.path.exists('fetch-order.tsv'):
             rows.append((ts,o))
+    if which=='topics' and os.path.exists('fetch-order.tsv'):
+        rows=[(l.split('	')[1],l.split('	')[2]) for l in open('fetch-order.tsv',encoding='utf8') if l.strip()]
     outdir='forums_html' if which=='forums' else 'threads_html'
     workers=int(sys.argv[2]) if len(sys.argv)>2 else 3
     fetch_list(rows, outdir, workers=workers)

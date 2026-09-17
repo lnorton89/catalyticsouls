@@ -21,6 +21,7 @@ export default defineConfig({
       { text: 'The Cave', link: '/cave/' },
       { text: 'Then & Now', link: '/then-and-now/' },
       { text: 'Timeline', link: '/timeline' },
+      { text: 'Media', link: '/media' },
       { text: 'Research', link: '/research/' }
     ],
     sidebar: [
@@ -28,7 +29,8 @@ export default defineConfig({
         text: 'Start here',
         items: [
           { text: 'Overview', link: '/' },
-          { text: 'Master timeline 1969–2026', link: '/timeline' }
+          { text: 'Master timeline 1969–2026', link: '/timeline' },
+          { text: 'Video & flyer archive', link: '/media' }
         ]
       },
       {

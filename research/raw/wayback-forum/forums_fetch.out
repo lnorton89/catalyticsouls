@@ -38,3 +38,66 @@ OK forums_viewforum.php_f=19_start=0_20060522230821 19966
   retry1 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20060522225547id_/http://www.catalyticsouls.com/forums/viewforum.php?f=2&mark=topics
 OK forums_viewforum.php_f=19_mark=topics_20060522230848 11069
   retry0 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20060522225210id_/http://www.catalyticsouls.com/forums/viewforum.php?f=2&start=0
+OK forums_viewforum.php_f=2_mark=topics_20060522225547 11068
+  retry0 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20061107000818id_/http://www.catalyticsouls.com/forums/viewforum.php?f=2&topicdays=0&start=0
+OK forums_viewforum.php_f=2_start=0_20060522225210 70058
+  retry0 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20061107000831id_/http://www.catalyticsouls.com/forums/viewforum.php?f=2&start=100
+OK forums_viewforum.php_f=2_topicdays=0_start=0_20061107000818 72375
+OK forums_viewforum.php_f=2_start=100_20061107000831 25702
+  retry0 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20061106211455id_/http://www.catalyticsouls.com/forums/viewforum.php?f=2&topicdays=0&start=100
+OK forums_viewforum.php_f=2_start=50_20061107003503 72990
+OK forums_viewforum.php_f=2_topicdays=0_start=100_20061106211455 25702
+OK forums_viewforum.php_f=21_mark=topics_20060522230801 11069
+OK forums_viewforum.php_f=2_topicdays=0_start=50_20061106212340 72990
+OK forums_viewforum.php_f=21_start=0_20060522230817 18594
+OK forums_viewforum.php_f=21_topicdays=0_start=0_20061106231336 67995
+OK forums_viewforum.php_f=21_start=50_20061106232358 64301
+  retry0 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20061106205449id_/http://www.catalyticsouls.com/forums/viewforum.php?f=21&topicdays=0&start=50
+  retry0 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20060522232912id_/http://www.catalyticsouls.com/forums/viewforum.php?f=22&mark=topics
+  retry1 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20061106205449id_/http://www.catalyticsouls.com/forums/viewforum.php?f=21&topicdays=0&start=50
+  retry1 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20060522232912id_/http://www.catalyticsouls.com/forums/viewforum.php?f=22&mark=topics
+OK forums_viewforum.php_f=21_topicdays=0_start=50_20061106205449 64286
+  retry2 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20060522232912id_/http://www.catalyticsouls.com/forums/viewforum.php?f=22&mark=topics
+  retry0 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20060522232900id_/http://www.catalyticsouls.com/forums/viewforum.php?f=22&start=0
+  retry1 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20060522232900id_/http://www.catalyticsouls.com/forums/viewforum.php?f=22&start=0
+OK forums_viewforum.php_f=22_mark=topics_20060522232912 11069
+  retry2 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20060522232900id_/http://www.catalyticsouls.com/forums/viewforum.php?f=22&start=0
+OK forums_viewforum.php_f=23_mark=topics_20061106204942 11069
+OK forums_viewforum.php_f=23_start=0_20061106204937 22962
+OK forums_viewforum.php_f=24_mark=topics_20061106220308 11069
+  retry3 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20060522232900id_/http://www.catalyticsouls.com/forums/viewforum.php?f=22&start=0
+OK forums_viewforum.php_f=24_start=0_20061106220141 25228
+OK forums_viewforum.php_f=3_mark=topics_20060522230204 11068
+OK forums_viewforum.php_f=3_start=0_20060522230746 51124
+OK forums_viewforum.php_f=5_mark=topics_20060522224712 11068
+OK forums_viewforum.php_f=5_start=0_20060522224821 22865
+OK forums_viewforum.php_f=22_start=0_20060522232900 18470
+OK forums_viewforum.php_f=8_mark=topics_20060522224612 11068
+OK forums_viewforum.php_f=9_mark=topics_20060522223410 11068
+OK forums_viewforum.php_f=8_start=0_20060522224659 23014
+  retry0 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20061106221606id_/http://www.catalyticsouls.com/forums/viewforum.php?f=9&start=0
+  retry0 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20060522224040id_/http://www.catalyticsouls.com/forums/viewforum.php?f=9&topicdays=0&start=100
+  retry1 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20060522224040id_/http://www.catalyticsouls.com/forums/viewforum.php?f=9&topicdays=0&start=100
+OK forums_viewforum.php_f=9_start=0_20061106221606 73134
+  retry0 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20061106221624id_/http://www.catalyticsouls.com/forums/viewforum.php?f=9&topicdays=0&start=150
+OK forums_viewforum.php_f=9_topicdays=0_start=150_20061106221624 36183
+OK forums_viewforum.php_f=9_topicdays=0_start=100_20060522224040 37994
+  retry0 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20061106220921id_/http://www.catalyticsouls.com/forums/viewforum.php?f=9&topicdays=0&start=50
+  retry0 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20050212144755id_/http://www.catalyticsouls.com:80/viewforum.php?f=1&amp
+OK viewforum.php_f=1_amp_20050212144755 16449
+  retry0 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20050212144837id_/http://www.catalyticsouls.com:80/viewforum.php?f=10&amp
+OK forums_viewforum.php_f=9_topicdays=0_start=50_20061106220921 73680
+OK viewforum.php_f=11_amp_20050212144949 17512
+OK viewforum.php_f=12_amp_20050212145045 17476
+  retry1 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20050212144837id_/http://www.catalyticsouls.com:80/viewforum.php?f=10&amp
+OK viewforum.php_f=2_amp_20050222101656 22432
+OK viewforum.php_f=4_amp_20050223203020 19933
+OK viewforum.php_f=10_amp_20050212144837 21135
+OK viewforum.php_f=5_amp_20050224094714 17458
+  retry0 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20050224204820id_/http://www.catalyticsouls.com:80/viewforum.php?f=6&amp
+  retry0 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20050225061637id_/http://www.catalyticsouls.com:80/viewforum.php?f=7&amp
+OK viewforum.php_f=6_amp_20050224204820 18726
+OK viewforum.php_f=8_amp_20050225212643 16465
+OK viewforum.php_f=7_amp_20050225061637 16489
+OK viewforum.php_f=9_amp_20050226034629 18794
+DONE

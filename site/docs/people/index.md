@@ -32,6 +32,8 @@ For the author, see [Tom Hughes / TomFoolery](/people/tom-hughes). The crew's ow
 
 **Andy B, Unkl Ryan, Brian Dervish (Tekfro), Reperkushin, DJ Derve, Dave Skeezy, DJ Brainstorm, Spacehead, DJ Fixx, Tommy I.C. Gunns.** The crew roster; see [The crew](/catalytic-souls/).
 
+**Benji Ramsey.** VJ at UGS 3 through 6 and maker of the UGS 6 promo video; now a certified home inspector who is "also a touring VJ." **Electronic Assault** (Clarksville, Tennessee) and "SSI" ran Cavetronic at the cave in July 2009, the electronic event that followed Catalytic Souls' departure. **Spoololife**, the collective whose 2005 crew page carried a Tom Foolery bio, is a national rave crew with Perfecto and Ministry of Sound credits, not a Southern Illinois one.
+
 **Gettin' Lucky Productions.** The other promoter working the cave in 2005–2006 (Blues Fest, The Cave Rock Festival, The Spirit of Ozz); shared the Catalytic Souls website as a calendar. **ToyMaker Music Promotions** (Bloomington IL) and the **Nepol** DJs (St. Louis) were the crews TomFoolery played with before Cave Fest existed. **Chad and Jesse Designs** built the 2005–2008 website; **Benji Ramsey** was the VJ at UGS 3 through 6.
 
 ## The interviewees

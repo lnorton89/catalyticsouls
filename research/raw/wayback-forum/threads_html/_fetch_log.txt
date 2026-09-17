@@ -1,0 +1,46 @@
+START 2089 rows, 2089 to fetch
+OK t92_20061106222219 20300
+OK t97_20060522233500 20617
+OK t99_20060522224941 20577
+OK t125_20061106222414 50438
+  retry0 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20061106220553id_/http://www.catalyticsouls.com/forums/viewtopic.php?t=104
+OK t234_20060522230831 69340
+OK t234_20060522230835 91659
+  retry0 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20060522230852id_/http://www.catalyticsouls.com/forums/viewtopic.php?t=234&start=45
+  retry1 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20061106220553id_/http://www.catalyticsouls.com/forums/viewtopic.php?t=104
+  retry0 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20061106214000id_/http://www.catalyticsouls.com/forums/viewtopic.php?t=234&start=0
+OK t234_20060522230852 25754
+OK t234_20061106214000 72273
+  retry2 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20061106220553id_/http://www.catalyticsouls.com/forums/viewtopic.php?t=104
+  retry0 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20061106214015id_/http://www.catalyticsouls.com/forums/viewtopic.php?t=234&start=165
+OK t234_20061106214029 68913
+OK t234_20061106214041 72434
+  retry1 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20061106214015id_/http://www.catalyticsouls.com/forums/viewtopic.php?t=234&start=165
+OK t339_20060522230839 40805
+OK t104_20061106220553 47598
+  retry0 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20050207130355id_/http://www.catalyticsouls.com:80/viewtopic.php?t=11&amp
+  retry2 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20061106214015id_/http://www.catalyticsouls.com/forums/viewtopic.php?t=234&start=165
+  retry0 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20060522231207id_/http://www.catalyticsouls.com/forums/viewtopic.php?t=11&start=15
+OK t11_20050207130355 24473
+  retry1 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20060522231207id_/http://www.catalyticsouls.com/forums/viewtopic.php?t=11&start=15
+  retry0 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20060522231242id_/http://www.catalyticsouls.com/forums/viewtopic.php?t=11&start=0
+  retry3 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20061106214015id_/http://www.catalyticsouls.com/forums/viewtopic.php?t=234&start=165
+  retry1 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20060522231242id_/http://www.catalyticsouls.com/forums/viewtopic.php?t=11&start=0
+  retry2 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20060522231207id_/http://www.catalyticsouls.com/forums/viewtopic.php?t=11&start=15
+  retry2 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20060522231242id_/http://www.catalyticsouls.com/forums/viewtopic.php?t=11&start=0
+OK t11_20060522231207 41030
+START 2089 rows, 2075 to fetch
+OK t234_20061106214015 81142
+OK t11_20060522231242 64466
+OK t34_20061107011351 187500
+OK t38_20061107004244 191132
+OK t39_20061107004812 180502
+OK t42_20060522225932 41356
+OK t42_20061107000850 64539
+  retry0 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20060522234225id_/http://www.catalyticsouls.com/forums/viewtopic.php?t=46&view=next
+  retry0 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20061106214210id_/http://www.catalyticsouls.com/forums/viewtopic.php?t=53
+  retry1 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20060522234225id_/http://www.catalyticsouls.com/forums/viewtopic.php?t=46&view=next
+  retry1 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20061106214210id_/http://www.catalyticsouls.com/forums/viewtopic.php?t=53
+  retry2 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20060522234225id_/http://www.catalyticsouls.com/forums/viewtopic.php?t=46&view=next
+OK t53_20061106214210 35968
+  retry0 URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', Non https://web.archive.org/web/20060522231404id_/http://www.catalyticsouls.com/forums/viewtopic.php?t=59
