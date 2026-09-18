@@ -1,6 +1,6 @@
 ## Flyers and posters
 
-Recovered from the Wayback Machine's copies of catalyticsouls.com, Goodale's cavefest.fws1.com and campzoe.com. Click any image to open it full size.
+Recovered from the Wayback Machine's copies of catalyticsouls.com, Goodale's cavefest.fws1.com and campzoe.com, plus the UGS 4 flyer (front from Flickr, back from a 2021 Reddit post). Click any image to open it full size.
 
 <div class="flyer-grid">
 
@@ -15,6 +15,10 @@ Recovered from the Wayback Machine's copies of catalyticsouls.com, Goodale's cav
 [![Gamma Fest pre-flyer, August 17–18, 2007, Eureka Springs, Arkansas](/flyers/shpongle-pre.jpg)](/flyers/shpongle-pre.jpg)
 
 [![Cavefest "The Original 420 Show," April 18–20, 2008. Cave Stage: Joint Chiefs of Staff (Dead tribute), Jobu, LevelD, Poorking, Cornmeal, Defined Perception, Sweet Water Meltdown, Thinner Teed, Brother Bagman, The New Ledge Band, Papa Smiley. Beyond the Moon Stage: Tekfro, Andy B, TomFoolery, Reperkushin, King David, Tommy Gunns, Spacehead, Kid Liquid / MC Red 5; nme, Unkl Ryan, Redi Jedi, DJ Deadman, TrainRec, Blizzy, K_I_T, Brainstorm, Phiction](/flyers/cavefest-2008.jpg)](/flyers/cavefest-2008.jpg)
+
+[![Underground Sound 4 "Circus of Freaks" flyer, front, August 15–17, 2008: price ladder $40 (June 15) to $60 at the gate; "This is a private event on private land receiving no corporate backing: for the electronic music lover by the electronic music lover... Together we can dispel the negative stereotypes that plague our scene." Lasers by Starlight Lasers, lighting by iLevel](/flyers/ugs4-circus-of-freaks-front-2008.jpg)](/flyers/ugs4-circus-of-freaks-front-2008.jpg)
+
+[![Underground Sound 4 flyer, back: the full bill. Main stage: Shpongle (DJ set), Hallucinogen (live), Jackal & Hyde (live), Baby Anne, Evol Intent, DJ ESP Woody McBride, Rowland the Bastard, Ooah of The Glitch Mob, Tommie Sunshine, Computer Club, KMFX, Noise Floor Crew, Spree & ADB, TomFoolery, Unkl Ryan, The Dervish, Andy B, Identity, Karizma, Nasty Nate, Deadboy, Tommy "I.C." Guns and more, plus four side stages (Stage of the Outlawed and Outcast; UM. is this the Gateway to the Wild Wild West?; Paranormal Realms Camp; HLN & Janky Stage of Illusions)](/flyers/ugs4-circus-of-freaks-back-2008.jpg)](/flyers/ugs4-circus-of-freaks-back-2008.jpg)
 
 [![Halloween at the Cave, Oct 31–Nov 1, 2008: "CatalyticSouls and Gettin' Lucky present" Papa Smiley and the Brain Bannanas, Defined Perception, TomFoolery, Allison Floyd, DJ Andy B, King David](/flyers/halloween-at-the-cave-2008.jpg)](/flyers/halloween-at-the-cave-2008.jpg)
 

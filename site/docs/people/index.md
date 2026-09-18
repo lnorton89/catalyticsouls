@@ -30,7 +30,7 @@ For the author, see [Tom Hughes / TomFoolery](/people/tom-hughes). The crew's ow
 
 **Eric Paxton Stauder (Dots per Minute).** Flyer designer for UGS 1 and 2, quoted in the *Time Europe* rave piece the thesis cites.
 
-**Andy B, Unkl Ryan, Brian Dervish (Tekfro), Reperkushin, DJ Derve, Dave Skeezy, DJ Brainstorm, Spacehead, DJ Fixx, Tommy I.C. Gunns.** The crew roster; see [The crew](/catalytic-souls/).
+**Andy B, Unkl Ryan (Ryan Montgomery), Brian Dervish (Tekfro), Reperkushin, DJ Derve, Dave Skeezy, DJ Brainstorm, Spacehead, DJ Fixx, Tommy I.C. Gunns, Nasty Nate, Deadboy, Redi Jedi, DJ Blizzy, King David.** The crew roster; see [The crew](/catalytic-souls/).
 
 **Benji Ramsey.** VJ at UGS 3 through 6 and maker of the UGS 6 promo video; now a certified home inspector who is "also a touring VJ." **Electronic Assault** (Clarksville, Tennessee) and "SSI" ran Cavetronic at the cave in July 2009, the electronic event that followed Catalytic Souls' departure. **Spoololife**, the collective whose 2005 crew page carried a Tom Foolery bio, is a national rave crew with Perfecto and Ministry of Sound credits, not a Southern Illinois one.
 

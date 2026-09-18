@@ -18,7 +18,7 @@ title: Research
 3. A direct pass on the highest-value primary sources: The Southern Illinoisan's 2005 Cave Fest preview, the Daily Egyptian's 2004–2008 coverage, Resident Advisor and Last.fm event pages, Camp Zoe's still-live website, the Discogs API, Florida corporate records, the Daily Yonder interview, and the Facebook post announcing Hughes' death.
 4. The Internet Archive was offline for most of the session ("Internet Archive services are temporarily offline"). Its index came back near the end; page fetches remained intermittent. What was recovered is in the findings log and the repository's `research/raw/wayback/` folder.
 
-**Tools:** web search (a 200-query budget, exhausted), direct page fetches, a browser for sites that block automated fetches (Facebook, Discogs, thesouthern.com, Camp Zoe), the Discogs API, and Wayback's CDX index.
+**Tools:** web search (a 200-query budget, exhausted), direct page fetches, a browser for sites that block automated fetches (Facebook, Discogs, thesouthern.com, Camp Zoe), the Discogs API, Wayback's CDX index, and the pullpush.io mirror for Reddit.
 
 ## Sourcing rules used on every page
 
@@ -47,6 +47,10 @@ title: Research
 
 A second, deeper pass added: the full text of The Southern's July 9, 2007 article and the lead of the July 10 follow-up; 57 YouTube clips across UGS 2 through 7 and Cavetronic; eleven Live Music Archive taper recordings from the cave (2001–2008); the Cavetronic festival of July 2009 (Electronic Assault, Clarksville TN), which shows the cave's electronic era outlasting Catalytic Souls by a year; Andy B's later duo BNasty (Carbondale, 2012–2015); Reperkushin's and Benji Ramsey's later trails; Hughes' 2013 Green Velvet co-credit as Zcarab, his 2016–17 SoundCloud output and the Bandcamp "dub ship Catalytic"; the 1,250-member Facebook fan group created the day after UGS 6; and three background scrapes of the Wayback Machine. Before the archive went offline again those scrapes recovered: an index of 451 forum threads and the text of about 150 (UGS 1's full bill, the UGS 2 announcement and aftermath, the clean-up crisis, the crew's club life); 324 captures of Goodale's cavefest.fws1.com (the "Save The Cave" banner from March 2008, the October 2007 Freakenstein night, the Halloween 2008 co-billing, the 2011 dubstep stage); the Camp Zoe pages and posters for UGS 5 and 6; and 215 images, including the UGS 3 flyer, the 2008 Cave Fest and Halloween flyers and the UGS 6 gallery thumbnails, all now on the [Media](/media) page. The crew's MySpace profiles have no archive captures; the live myspace.com page for catalyticsouls survives with 2,502 connections and album titles but dead photo files. Raw output is under `research/raw/wayback-forum/`, `research/raw/cavefest-site/`, `research/raw/flyers/` and `research/raw/myspace/`. Reddit, TranceAddict, Dogs On Acid, Hip Forums and Facebook group content were unreadable from this environment; the Southern's 2005–2008 features render only headline and byline behind its paywall except for the two July 2007 news stories.
 
+## Third pass (September 18, 2026): outside the archive
+
+Once the Wayback material was exhausted, a pass on sources the archive never held. Reddit is blocked from this environment but its content is readable through the pullpush.io mirror API, which returned three threads: r/aves "Cave Rave" (2015), with a regular's "owner died, became a national park" rumor, a local's rebuttal and "borrowed land" account, and the only eyewitness line on UGS 7 ("Half the acts bailed cause attendance was dismally low"); r/bassnectar on UGS 5 at Camp Zoe (2021); and a 2021 r/aves post carrying the back of the UGS 4 flyer. The front of that flyer survives on Flickr. Together they give the first complete UGS 4 bill (about 120 names over five stages) and show that Skazi, listed on the crew's own page, was not on the final flyer. A 2013 Jackson Free Press article supplied Unkl Ryan's real name; the flyer confirmed Nasty Nate, Deadboy, Redi Jedi, DJ Blizzy and King David as crew-affiliated. A circulating claim that deadmau5 played UGS 3 was checked against the full lineup and is false. Raw material is under `research/raw/reddit/` and `research/raw/flyers/`.
+
 ## What could not be found
 
 - The full text of the 2007 coverage of Underground Sound 3. The Southern Illinoisan's July 9 and 10, 2007 stories (at least four arrests; a security firm burning confiscated drugs and knives) were located by headline and lead paragraph only; the paywalled full text and any WSIL/KFVS broadcast segments were not.
@@ -56,7 +60,8 @@ A second, deeper pass added: the full text of The Southern's July 9, 2007 articl
 - Why the Shawnee Cave Amphitheater cancelled its August 2024 festival and whether it will reopen.
 - The thesis in OpenSIUC or any library catalog reachable online. Your .docx may be one of very few copies.
 - The *USAmnesia* CD or any of the pre-2007 mix CDs.
-- Real names for Andy B and Unkl Ryan; what "growAglow" was; anything about later Southern Illinois electronic crews (the one search that ran before the budget ended returned nothing).
+- A real name for Andy B (Unkl Ryan's was found on the third pass); what "growAglow" was; anything about later Southern Illinois electronic crews; who "Sherry Cosby" was; whether the "borrowed land" account of the cave's transfer is accurate.
+- Bluelight, Chilluminati, TranceAddict, Southern AMP and Hip Forums threads, all blocked or dead from this environment; the Facebook fan group's posts.
 
 ## Open questions {#open-questions}
 

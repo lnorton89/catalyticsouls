@@ -47,7 +47,7 @@ One chronology across the cave, the crew, the author, and the wider industry. **
 - **April 18–20, 2008** — **Cave Fest 4 "The Original 420 Show," hosted by CatalyticSouls.**
 - *April 2008* — *First Record Store Day.*
 - **June 20–21, 2008** — **Summer Cavefest** (TomFoolery, Andy B, The Dervish).
-- **Aug 15–17, 2008** — **Underground Sound 4 "Circus of Freaks": Hallucinogen, Shpongle, Skazi. Last UGS at the cave.**
+- **Aug 15–17, 2008** — **Underground Sound 4 "Circus of Freaks": Hallucinogen, Shpongle, Evol Intent, Tommie Sunshine, Baby Anne, Ooah; five stages, ~120 names. Last UGS at the cave.**
 - Aug 29–31, 2008 — Strip Mines Music Festival (~550 paid). Goodale's site: "Help Save The Cave."
 - **Sept 26–28, 2008** — **CaveStock 5.**
 - **Dec 29, 2008** — **CATALYTICSOULS LLC formed in Florida (Fort Myers address); Thomas Hughes manager.**
